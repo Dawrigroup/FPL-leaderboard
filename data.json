@@ -2,21 +2,21 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-21T22:20:30.085785+00:00",
+  "last_updated": "2026-08-21T22:25:20.055510+00:00",
   "players": [
     {
       "rank": 1,
       "last_rank": 0,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
       "gw_points": 26,
       "total_points": 26
     },
     {
       "rank": 1,
       "last_rank": 0,
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
       "gw_points": 26,
       "total_points": 26
     },
@@ -31,16 +31,16 @@
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
       "gw_points": 15,
       "total_points": 15
     },
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "Eyad",
-      "manager_name": "eyad Fares",
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
       "gw_points": 15,
       "total_points": 15
     },
