@@ -2,71 +2,71 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-21T19:49:47.479485+00:00",
+  "last_updated": "2026-08-21T20:50:51.418876+00:00",
   "players": [
-    {
-      "rank": 1,
-      "last_rank": 0,
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "gw_points": 10,
-      "total_points": 10
-    },
     {
       "rank": 1,
       "last_rank": 0,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
-      "gw_points": 10,
-      "total_points": 10
+      "gw_points": 26,
+      "total_points": 26
+    },
+    {
+      "rank": 1,
+      "last_rank": 0,
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "gw_points": 26,
+      "total_points": 26
     },
     {
       "rank": 3,
       "last_rank": 0,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
-      "gw_points": 9,
-      "total_points": 9
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "gw_points": 17,
+      "total_points": 17
     },
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "gw_points": 6,
-      "total_points": 6
-    },
-    {
-      "rank": 5,
-      "last_rank": 0,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
-      "gw_points": 5,
-      "total_points": 5
+      "gw_points": 15,
+      "total_points": 15
     },
     {
-      "rank": 6,
+      "rank": 4,
       "last_rank": 0,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "gw_points": 4,
-      "total_points": 4
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "gw_points": 15,
+      "total_points": 15
     },
     {
       "rank": 6,
       "last_rank": 0,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
-      "gw_points": 4,
-      "total_points": 4
+      "gw_points": 14,
+      "total_points": 14
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "last_rank": 0,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "gw_points": 9,
+      "total_points": 9
+    },
+    {
+      "rank": 7,
       "last_rank": 0,
       "team_name": "Change Name",
       "manager_name": "Doku Is the best winger",
-      "gw_points": 4,
-      "total_points": 4
+      "gw_points": 9,
+      "total_points": 9
     },
     {
       "rank": 9,
