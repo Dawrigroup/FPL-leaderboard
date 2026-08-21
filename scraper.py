@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 
 LEAGUE_ID = 2908
 URL = f"https://fantasy.premierleague.com/api/leagues-classic/{LEAGUE_ID}/standings/"
+BOOTSTRAP_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
 
 # FPL blocks requests with no User-Agent header, so we set one
 HEADERS = {
@@ -16,10 +17,24 @@ HEADERS = {
 }
 
 
+def fetch_current_gw():
+    req = urllib.request.Request(BOOTSTRAP_URL, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as response:
+        raw = json.loads(response.read().decode("utf-8"))
+    for event in raw.get("events", []):
+        if event.get("is_current"):
+            return event.get("id")
+        if event.get("is_next"):
+            return (event.get("id") or 1) - 1
+    return None
+
+
 def fetch_standings():
     req = urllib.request.Request(URL, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=20) as response:
         raw = json.loads(response.read().decode("utf-8"))
+
+    current_gw = fetch_current_gw()
 
     league_name = raw.get("league", {}).get("name", "FPL League")
     results = raw.get("standings", {}).get("results", [])
@@ -41,6 +56,7 @@ def fetch_standings():
     output = {
         "league_id": LEAGUE_ID,
         "league_name": league_name,
+        "current_gw": current_gw,
         "last_updated": datetime.now(timezone.utc).isoformat(),
         "players": players,
     }
