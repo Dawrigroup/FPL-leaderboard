@@ -2,15 +2,15 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-22T15:20:25.600907+00:00",
+  "last_updated": "2026-08-22T15:25:20.874006+00:00",
   "players": [
     {
       "rank": 1,
       "last_rank": 0,
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "gw_points": 38,
-      "total_points": 38
+      "gw_points": 48,
+      "total_points": 48
     },
     {
       "rank": 2,
@@ -21,60 +21,60 @@
       "total_points": 29
     },
     {
-      "rank": 3,
+      "rank": 2,
       "last_rank": 0,
       "team_name": "soprano",
       "manager_name": "Hamad F",
-      "gw_points": 26,
-      "total_points": 26
+      "gw_points": 29,
+      "total_points": 29
     },
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "Eyad",
-      "manager_name": "eyad Fares",
-      "gw_points": 22,
-      "total_points": 22
-    },
-    {
-      "rank": 5,
-      "last_rank": 0,
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
-      "gw_points": 21,
-      "total_points": 21
+      "gw_points": 27,
+      "total_points": 27
     },
     {
       "rank": 5,
       "last_rank": 0,
-      "team_name": "Isco FC",
-      "manager_name": "Abdulkarim Alkholifey",
-      "gw_points": 21,
-      "total_points": 21
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
+      "gw_points": 25,
+      "total_points": 25
+    },
+    {
+      "rank": 6,
+      "last_rank": 0,
+      "team_name": "Change Name",
+      "manager_name": "Doku Is the best winger",
+      "gw_points": 24,
+      "total_points": 24
     },
     {
       "rank": 7,
       "last_rank": 0,
-      "team_name": "Change Name",
-      "manager_name": "Doku Is the best winger",
-      "gw_points": 16,
-      "total_points": 16
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
+      "gw_points": 22,
+      "total_points": 22
     },
     {
       "rank": 8,
       "last_rank": 0,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
-      "gw_points": 15,
-      "total_points": 15
+      "gw_points": 17,
+      "total_points": 17
     },
     {
       "rank": 9,
       "last_rank": 0,
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
-      "gw_points": 5,
-      "total_points": 5
+      "gw_points": 7,
+      "total_points": 7
     }
   ]
 }
