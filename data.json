@@ -2,15 +2,15 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-22T15:40:24.138486+00:00",
+  "last_updated": "2026-08-22T15:44:12.662045+00:00",
   "players": [
     {
       "rank": 1,
       "last_rank": 0,
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "gw_points": 48,
-      "total_points": 48
+      "gw_points": 47,
+      "total_points": 47
     },
     {
       "rank": 2,
@@ -49,8 +49,8 @@
       "last_rank": 0,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
-      "gw_points": 25,
-      "total_points": 25
+      "gw_points": 24,
+      "total_points": 24
     },
     {
       "rank": 7,
