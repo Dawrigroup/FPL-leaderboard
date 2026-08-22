@@ -2,79 +2,79 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-22T12:50:26.712312+00:00",
+  "last_updated": "2026-08-22T12:55:20.740577+00:00",
   "players": [
     {
       "rank": 1,
       "last_rank": 0,
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "gw_points": 28,
-      "total_points": 28
+      "gw_points": 31,
+      "total_points": 31
     },
     {
       "rank": 2,
       "last_rank": 0,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
-      "gw_points": 27,
-      "total_points": 27
+      "gw_points": 29,
+      "total_points": 29
     },
     {
       "rank": 3,
       "last_rank": 0,
       "team_name": "soprano",
       "manager_name": "Hamad F",
-      "gw_points": 20,
-      "total_points": 20
-    },
-    {
-      "rank": 4,
-      "last_rank": 0,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
-      "gw_points": 17,
-      "total_points": 17
+      "gw_points": 24,
+      "total_points": 24
     },
     {
       "rank": 4,
       "last_rank": 0,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
-      "gw_points": 17,
-      "total_points": 17
+      "gw_points": 21,
+      "total_points": 21
+    },
+    {
+      "rank": 5,
+      "last_rank": 0,
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "gw_points": 20,
+      "total_points": 20
     },
     {
       "rank": 6,
       "last_rank": 0,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
-      "gw_points": 16,
-      "total_points": 16
-    },
-    {
-      "rank": 7,
-      "last_rank": 0,
-      "team_name": "Change Name",
-      "manager_name": "Doku Is the best winger",
-      "gw_points": 11,
-      "total_points": 11
+      "gw_points": 17,
+      "total_points": 17
     },
     {
       "rank": 7,
       "last_rank": 0,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
-      "gw_points": 11,
-      "total_points": 11
+      "gw_points": 14,
+      "total_points": 14
+    },
+    {
+      "rank": 7,
+      "last_rank": 0,
+      "team_name": "Change Name",
+      "manager_name": "Doku Is the best winger",
+      "gw_points": 14,
+      "total_points": 14
     },
     {
       "rank": 9,
       "last_rank": 0,
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
-      "gw_points": 1,
-      "total_points": 1
+      "gw_points": 3,
+      "total_points": 3
     }
   ]
 }
