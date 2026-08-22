@@ -2,29 +2,29 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-22T16:35:21.262337+00:00",
+  "last_updated": "2026-08-22T16:40:27.928142+00:00",
   "players": [
     {
       "rank": 1,
       "last_rank": 0,
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "gw_points": 49,
-      "total_points": 49
-    },
-    {
-      "rank": 2,
-      "last_rank": 0,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "gw_points": 29,
-      "total_points": 29
+      "gw_points": 50,
+      "total_points": 50
     },
     {
       "rank": 2,
       "last_rank": 0,
       "team_name": "soprano",
       "manager_name": "Hamad F",
+      "gw_points": 29,
+      "total_points": 29
+    },
+    {
+      "rank": 2,
+      "last_rank": 0,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
       "gw_points": 29,
       "total_points": 29
     },
@@ -49,32 +49,32 @@
       "last_rank": 0,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
-      "gw_points": 22,
-      "total_points": 22
+      "gw_points": 24,
+      "total_points": 24
     },
     {
       "rank": 7,
       "last_rank": 0,
       "team_name": "Change Name",
       "manager_name": "Doku Is the best winger",
-      "gw_points": 21,
-      "total_points": 21
+      "gw_points": 22,
+      "total_points": 22
     },
     {
       "rank": 8,
       "last_rank": 0,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
-      "gw_points": 17,
-      "total_points": 17
+      "gw_points": 18,
+      "total_points": 18
     },
     {
       "rank": 9,
       "last_rank": 0,
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
-      "gw_points": 7,
-      "total_points": 7
+      "gw_points": 9,
+      "total_points": 9
     }
   ]
 }
