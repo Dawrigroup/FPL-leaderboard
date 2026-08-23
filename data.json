@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-23T13:50:26.649837+00:00",
+  "last_updated": "2026-08-23T13:55:20.062603+00:00",
   "players": [
     {
       "rank": 1,
@@ -31,8 +31,8 @@
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
       "gw_points": 30,
       "total_points": 30
     },
@@ -47,8 +47,8 @@
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "Eyad",
-      "manager_name": "eyad Fares",
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
       "gw_points": 30,
       "total_points": 30
     },
