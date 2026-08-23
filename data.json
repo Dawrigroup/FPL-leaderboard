@@ -2,29 +2,29 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-23T14:35:20.351295+00:00",
+  "last_updated": "2026-08-23T14:40:25.547195+00:00",
   "players": [
     {
       "rank": 1,
       "last_rank": 0,
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "gw_points": 68,
-      "total_points": 68
+      "gw_points": 67,
+      "total_points": 67
+    },
+    {
+      "rank": 2,
+      "last_rank": 0,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "gw_points": 41,
+      "total_points": 41
     },
     {
       "rank": 2,
       "last_rank": 0,
       "team_name": "Change Name",
       "manager_name": "Doku Is the best winger",
-      "gw_points": 42,
-      "total_points": 42
-    },
-    {
-      "rank": 3,
-      "last_rank": 0,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
       "gw_points": 41,
       "total_points": 41
     },
