@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-23T17:30:33.167293+00:00",
+  "last_updated": "2026-08-23T17:35:20.571776+00:00",
   "players": [
     {
       "rank": 1,
@@ -17,11 +17,27 @@
       "last_rank": 0,
       "team_name": "Change Name",
       "manager_name": "Doku Is the best winger",
-      "gw_points": 43,
-      "total_points": 43
+      "gw_points": 49,
+      "total_points": 49
     },
     {
       "rank": 3,
+      "last_rank": 0,
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "gw_points": 45,
+      "total_points": 45
+    },
+    {
+      "rank": 4,
+      "last_rank": 0,
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
+      "gw_points": 42,
+      "total_points": 42
+    },
+    {
+      "rank": 5,
       "last_rank": 0,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
@@ -29,44 +45,28 @@
       "total_points": 41
     },
     {
-      "rank": 4,
-      "last_rank": 0,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
-      "gw_points": 39,
-      "total_points": 39
-    },
-    {
-      "rank": 5,
-      "last_rank": 0,
-      "team_name": "Eyad",
-      "manager_name": "eyad Fares",
-      "gw_points": 36,
-      "total_points": 36
-    },
-    {
       "rank": 6,
       "last_rank": 0,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
-      "gw_points": 34,
-      "total_points": 34
+      "gw_points": 40,
+      "total_points": 40
     },
     {
       "rank": 7,
       "last_rank": 0,
       "team_name": "soprano",
       "manager_name": "Hamad F",
-      "gw_points": 33,
-      "total_points": 33
+      "gw_points": 39,
+      "total_points": 39
     },
     {
       "rank": 8,
       "last_rank": 0,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
-      "gw_points": 26,
-      "total_points": 26
+      "gw_points": 32,
+      "total_points": 32
     },
     {
       "rank": 9,
