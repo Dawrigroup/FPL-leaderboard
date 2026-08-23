@@ -297,7 +297,7 @@
       const rows = data.players.map(p => {
         const gw = data.current_gw || 1;
         const fplUrl = p.team_id
-          ? `https://fantasy.premierleague.com/entry/${p.team_id}/event/${gw}`
+          ? `goto.html?u=${encodeURIComponent(`https://fantasy.premierleague.com/entry/${p.team_id}/event/${gw}`)}`
           : null;
         const teamBlock = `
             <div class="team-name">${escapeHtml(p.team_name)}</div>
