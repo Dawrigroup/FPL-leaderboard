@@ -2,21 +2,29 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-23T13:05:19.839353+00:00",
+  "last_updated": "2026-08-23T13:10:25.401344+00:00",
   "players": [
     {
       "rank": 1,
       "last_rank": 0,
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "gw_points": 53,
-      "total_points": 53
+      "gw_points": 55,
+      "total_points": 55
     },
     {
       "rank": 2,
       "last_rank": 0,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
+      "gw_points": 33,
+      "total_points": 33
+    },
+    {
+      "rank": 3,
+      "last_rank": 0,
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
       "gw_points": 30,
       "total_points": 30
     },
@@ -25,32 +33,24 @@
       "last_rank": 0,
       "team_name": "soprano",
       "manager_name": "Hamad F",
-      "gw_points": 29,
-      "total_points": 29
+      "gw_points": 30,
+      "total_points": 30
     },
     {
-      "rank": 4,
-      "last_rank": 0,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
-      "gw_points": 28,
-      "total_points": 28
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "last_rank": 0,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
-      "gw_points": 26,
-      "total_points": 26
+      "gw_points": 30,
+      "total_points": 30
     },
     {
-      "rank": 5,
+      "rank": 6,
       "last_rank": 0,
       "team_name": "Change Name",
       "manager_name": "Doku Is the best winger",
-      "gw_points": 26,
-      "total_points": 26
+      "gw_points": 28,
+      "total_points": 28
     },
     {
       "rank": 7,
@@ -65,16 +65,16 @@
       "last_rank": 0,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
-      "gw_points": 19,
-      "total_points": 19
+      "gw_points": 22,
+      "total_points": 22
     },
     {
       "rank": 9,
       "last_rank": 0,
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
-      "gw_points": 9,
-      "total_points": 9
+      "gw_points": 10,
+      "total_points": 10
     }
   ]
 }
