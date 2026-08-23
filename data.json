@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-23T15:00:38.550311+00:00",
+  "last_updated": "2026-08-23T15:05:19.721926+00:00",
   "players": [
     {
       "rank": 1,
@@ -15,16 +15,16 @@
     {
       "rank": 2,
       "last_rank": 0,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
+      "team_name": "Change Name",
+      "manager_name": "Doku Is the best winger",
       "gw_points": 41,
       "total_points": 41
     },
     {
       "rank": 2,
       "last_rank": 0,
-      "team_name": "Change Name",
-      "manager_name": "Doku Is the best winger",
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
       "gw_points": 41,
       "total_points": 41
     },
