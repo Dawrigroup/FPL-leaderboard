@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>جدول دوري قروب</title>
+<title>دوري الفانتازي</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@500;700;800;900&display=swap" rel="stylesheet">
 <style>
@@ -155,6 +155,17 @@
   .rank-badge.rest { background: linear-gradient(135deg, var(--purple-deep), #4a2d80); box-shadow: 0 0 8px rgba(109,63,214,0.35); }
 
   .team-cell { text-align: center; padding: 0 6px; overflow: hidden; }
+  .team-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background 0.12s ease;
+  }
+  .team-link:hover { background: rgba(109,63,214,0.08); }
+  .team-link:hover .team-name { color: var(--purple); }
+  .team-link:active { background: rgba(23,201,224,0.12); }
   .team-name {
     font-weight: 800; font-size: 14px; color: var(--ink);
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
@@ -283,17 +294,28 @@
         return;
       }
 
-      const rows = data.players.map(p => `
+      const rows = data.players.map(p => {
+        const gw = data.current_gw || 1;
+        const fplUrl = p.team_id
+          ? `https://fantasy.premierleague.com/entry/${p.team_id}/event/${gw}`
+          : null;
+        const teamBlock = `
+            <div class="team-name">${escapeHtml(p.team_name)}</div>
+            <div class="manager-name">${escapeHtml(p.manager_name)}</div>
+        `;
+        return `
         <div class="row">
           <div><span class="rank-badge ${p.rank <= 3 ? 'top' : 'rest'}">${p.rank}</span></div>
           <div class="team-cell">
-            <div class="team-name">${escapeHtml(p.team_name)}</div>
-            <div class="manager-name">${escapeHtml(p.manager_name)}</div>
+            ${fplUrl
+              ? `<a class="team-link" href="${fplUrl}" target="_blank" rel="noopener noreferrer">${teamBlock}</a>`
+              : teamBlock}
           </div>
           <div class="stat gw">${p.gw_points ?? '–'}</div>
           <div class="stat">${p.total_points ?? '–'}</div>
         </div>
-      `).join('');
+      `;
+      }).join('');
 
       document.getElementById('rows').innerHTML = rows;
       document.getElementById('board-wrap').style.display = 'block';
