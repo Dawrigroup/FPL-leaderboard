@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-23T13:15:25.385210+00:00",
+  "last_updated": "2026-08-23T13:20:27.889567+00:00",
   "players": [
     {
       "rank": 1,
@@ -23,6 +23,14 @@
     {
       "rank": 3,
       "last_rank": 0,
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "gw_points": 30,
+      "total_points": 30
+    },
+    {
+      "rank": 3,
+      "last_rank": 0,
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "gw_points": 30,
@@ -37,20 +45,12 @@
       "total_points": 30
     },
     {
-      "rank": 3,
-      "last_rank": 0,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "gw_points": 30,
-      "total_points": 30
-    },
-    {
       "rank": 6,
       "last_rank": 0,
       "team_name": "Change Name",
       "manager_name": "Doku Is the best winger",
-      "gw_points": 28,
-      "total_points": 28
+      "gw_points": 27,
+      "total_points": 27
     },
     {
       "rank": 7,
@@ -73,8 +73,8 @@
       "last_rank": 0,
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
-      "gw_points": 10,
-      "total_points": 10
+      "gw_points": 9,
+      "total_points": 9
     }
   ]
 }
