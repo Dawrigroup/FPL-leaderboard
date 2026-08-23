@@ -46,6 +46,7 @@ def fetch_standings():
             "last_rank": entry.get("last_rank"),
             "team_name": entry.get("entry_name"),
             "manager_name": entry.get("player_name"),
+            "team_id": entry.get("entry"),
             "gw_points": entry.get("event_total"),
             "total_points": entry.get("total"),
         })
