@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-24T20:10:26.156760+00:00",
+  "last_updated": "2026-08-24T20:15:25.610222+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,17 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 74,
-      "total_points": 74
+      "gw_points": 77,
+      "total_points": 77
+    },
+    {
+      "rank": 2,
+      "last_rank": 0,
+      "team_name": "Change Name",
+      "manager_name": "Doku Is the best winger",
+      "team_id": 4359394,
+      "gw_points": 59,
+      "total_points": 59
     },
     {
       "rank": 2,
@@ -19,17 +28,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 58,
-      "total_points": 58
-    },
-    {
-      "rank": 3,
-      "last_rank": 0,
-      "team_name": "Change Name",
-      "manager_name": "Doku Is the best winger",
-      "team_id": 4359394,
-      "gw_points": 56,
-      "total_points": 56
+      "gw_points": 59,
+      "total_points": 59
     },
     {
       "rank": 4,
@@ -37,44 +37,44 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 52,
-      "total_points": 52
+      "gw_points": 55,
+      "total_points": 55
     },
     {
       "rank": 5,
       "last_rank": 0,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 48,
-      "total_points": 48
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
+      "team_id": 379699,
+      "gw_points": 54,
+      "total_points": 54
     },
     {
       "rank": 6,
       "last_rank": 0,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 47,
-      "total_points": 47
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 51,
+      "total_points": 51
     },
     {
       "rank": 7,
       "last_rank": 0,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "team_id": 5655741,
-      "gw_points": 46,
-      "total_points": 46
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 50,
+      "total_points": 50
     },
     {
       "rank": 8,
       "last_rank": 0,
-      "team_name": "Isco FC",
-      "manager_name": "Abdulkarim Alkholifey",
-      "team_id": 379699,
-      "gw_points": 43,
-      "total_points": 43
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "team_id": 5655741,
+      "gw_points": 49,
+      "total_points": 49
     },
     {
       "rank": 9,
