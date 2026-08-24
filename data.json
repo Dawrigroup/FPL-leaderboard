@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-24T20:15:25.610222+00:00",
+  "last_updated": "2026-08-24T20:20:27.820650+00:00",
   "players": [
     {
       "rank": 1,
@@ -23,13 +23,13 @@
       "total_points": 59
     },
     {
-      "rank": 2,
+      "rank": 3,
       "last_rank": 0,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 59,
-      "total_points": 59
+      "gw_points": 58,
+      "total_points": 58
     },
     {
       "rank": 4,
