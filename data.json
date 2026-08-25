@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-25T08:50:26.416764+00:00",
+  "last_updated": "2026-08-25T08:55:21.266975+00:00",
   "players": [
     {
       "rank": 1,
@@ -34,18 +34,18 @@
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "Isco FC",
-      "manager_name": "Abdulkarim Alkholifey",
-      "team_id": 379699,
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "team_id": 12546,
       "gw_points": 56,
       "total_points": 56
     },
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
-      "team_id": 12546,
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
+      "team_id": 379699,
       "gw_points": 56,
       "total_points": 56
     },
