@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-25T09:55:21.632547+00:00",
+  "last_updated": "2026-08-25T10:00:39.806029+00:00",
   "players": [
     {
       "rank": 1,
@@ -19,8 +19,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 61,
-      "total_points": 61
+      "gw_points": 63,
+      "total_points": 63
     },
     {
       "rank": 3,
@@ -34,14 +34,14 @@
     {
       "rank": 4,
       "last_rank": 0,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
-      "team_id": 12546,
-      "gw_points": 56,
-      "total_points": 56
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 58,
+      "total_points": 58
     },
     {
-      "rank": 4,
+      "rank": 5,
       "last_rank": 0,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -50,13 +50,13 @@
       "total_points": 56
     },
     {
-      "rank": 6,
+      "rank": 5,
       "last_rank": 0,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 52,
-      "total_points": 52
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "team_id": 12546,
+      "gw_points": 56,
+      "total_points": 56
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 17,
-      "total_points": 17
+      "gw_points": 24,
+      "total_points": 24
     }
   ]
 }
