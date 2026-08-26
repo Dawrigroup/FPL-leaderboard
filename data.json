@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 1,
-  "last_updated": "2026-08-26T11:00:44.060661+00:00",
+  "last_updated": "2026-08-26T11:03:52.381122+00:00",
   "players": [
     {
       "rank": 1,
@@ -85,5 +85,54 @@
       "gw_points": 24,
       "total_points": 24
     }
-  ]
+  ],
+  "gw_summary": {
+    "gw": 1,
+    "top_scorers": [
+      {
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 78
+      },
+      {
+        "team_name": "Eyad",
+        "manager_name": "eyad Fares",
+        "points": 63
+      },
+      {
+        "team_name": "Change Name",
+        "manager_name": "Doku Is the best winger",
+        "points": 60
+      }
+    ],
+    "average_score": 55.1,
+    "highest_score": 78,
+    "lowest_score": 24,
+    "derby": {
+      "team_a": "Isco FC",
+      "team_b": "Pushing's Team",
+      "score_a": 56,
+      "score_b": 56,
+      "diff": 0
+    },
+    "bench_king": {
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "bench_points": 17
+    },
+    "worst_captain": {
+      "team_name": "man fc",
+      "manager_name": "Abdulkareem Msep",
+      "captain_id": 106,
+      "captain_name": "Thiago",
+      "captain_points": 0
+    },
+    "best_differential_captain": {
+      "team_name": "man fc",
+      "manager_name": "Abdulkareem Msep",
+      "captain_id": 106,
+      "captain_name": "Thiago",
+      "captain_points": 0
+    }
+  }
 }
