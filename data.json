@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-28T19:45:25.141730+00:00",
+  "last_updated": "2026-08-28T19:50:29.400065+00:00",
   "players": [
     {
       "rank": 1,
@@ -118,7 +118,7 @@
     "bench_king": {
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
-      "bench_points": 3
+      "bench_points": 2
     },
     "worst_captain": {
       "team_name": "RIP WATKINS",
