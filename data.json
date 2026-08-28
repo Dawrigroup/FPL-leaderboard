@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-28T21:15:27.248562+00:00",
+  "last_updated": "2026-08-28T21:20:29.268984+00:00",
   "players": [
     {
       "rank": 1,
@@ -11,7 +11,8 @@
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
       "gw_points": 26,
-      "total_points": 104
+      "total_points": 104,
+      "captain_name": "Haaland"
     },
     {
       "rank": 2,
@@ -20,7 +21,8 @@
       "manager_name": "eyad Fares",
       "team_id": 7300406,
       "gw_points": 33,
-      "total_points": 96
+      "total_points": 96,
+      "captain_name": "Haaland"
     },
     {
       "rank": 3,
@@ -29,7 +31,8 @@
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
       "gw_points": 26,
-      "total_points": 86
+      "total_points": 86,
+      "captain_name": "Haaland"
     },
     {
       "rank": 4,
@@ -38,7 +41,8 @@
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
       "gw_points": 31,
-      "total_points": 82
+      "total_points": 82,
+      "captain_name": "Haaland"
     },
     {
       "rank": 5,
@@ -47,7 +51,8 @@
       "manager_name": "Hamad F",
       "team_id": 5655741,
       "gw_points": 26,
-      "total_points": 76
+      "total_points": 76,
+      "captain_name": "Haaland"
     },
     {
       "rank": 6,
@@ -56,7 +61,8 @@
       "manager_name": "A A",
       "team_id": 6669538,
       "gw_points": 16,
-      "total_points": 74
+      "total_points": 74,
+      "captain_name": "B.Fernandes"
     },
     {
       "rank": 7,
@@ -65,7 +71,8 @@
       "manager_name": "Pushing First place",
       "team_id": 12546,
       "gw_points": 13,
-      "total_points": 69
+      "total_points": 69,
+      "captain_name": "B.Fernandes"
     },
     {
       "rank": 8,
@@ -74,7 +81,8 @@
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
       "gw_points": 0,
-      "total_points": 56
+      "total_points": 56,
+      "captain_name": "B.Fernandes"
     },
     {
       "rank": 9,
@@ -83,7 +91,8 @@
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
       "gw_points": 26,
-      "total_points": 50
+      "total_points": 50,
+      "captain_name": "Haaland"
     }
   ],
   "gw_summary": {
