@@ -150,14 +150,19 @@ def build_gw_summary(players, gw, player_names, live_points):
         if captain_pick:
             cap_id = captain_pick["element"]
             cap_pts = live_points.get(cap_id, 0)
+            cap_name = player_names.get(cap_id, "Unknown")
             captain_counts[cap_id] = captain_counts.get(cap_id, 0) + 1
             manager_captain_info.append({
                 "team_name": p["team_name"],
                 "manager_name": p["manager_name"],
                 "captain_id": cap_id,
-                "captain_name": player_names.get(cap_id, "Unknown"),
+                "captain_name": cap_name,
                 "captain_points": cap_pts,
             })
+            # Also attach directly to the player's row for the main table's "C" column
+            p["captain_name"] = cap_name
+        else:
+            p["captain_name"] = None
 
         bench_picks = [pk for pk in picks if pk.get("position", 0) > 11]
         bench_pts = sum(live_points.get(pk["element"], 0) for pk in bench_picks)
