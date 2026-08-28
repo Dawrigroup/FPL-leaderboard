@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-28T20:20:30.763622+00:00",
+  "last_updated": "2026-08-28T20:25:23.079644+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 14,
-      "total_points": 92
+      "gw_points": 16,
+      "total_points": 94
     },
     {
       "rank": 2,
@@ -19,8 +19,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 20,
-      "total_points": 83
+      "gw_points": 24,
+      "total_points": 87
     },
     {
       "rank": 3,
@@ -28,8 +28,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 14,
-      "total_points": 74
+      "gw_points": 16,
+      "total_points": 76
     },
     {
       "rank": 4,
@@ -37,8 +37,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 15,
-      "total_points": 66
+      "gw_points": 21,
+      "total_points": 72
     },
     {
       "rank": 5,
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 7,
-      "total_points": 65
+      "gw_points": 9,
+      "total_points": 67
     },
     {
       "rank": 6,
@@ -55,8 +55,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 14,
-      "total_points": 64
+      "gw_points": 16,
+      "total_points": 66
     },
     {
       "rank": 7,
@@ -64,8 +64,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 7,
-      "total_points": 63
+      "gw_points": 8,
+      "total_points": 64
     },
     {
       "rank": 8,
@@ -82,8 +82,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 14,
-      "total_points": 38
+      "gw_points": 16,
+      "total_points": 40
     }
   ],
   "gw_summary": {
@@ -92,33 +92,33 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 20
+        "points": 24
       },
       {
         "team_name": "Sultan",
         "manager_name": "Sultan Adel",
-        "points": 15
+        "points": 21
       },
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 14
+        "points": 16
       }
     ],
-    "average_score": 11.7,
-    "highest_score": 20,
+    "average_score": 14.0,
+    "highest_score": 24,
     "lowest_score": 0,
     "derby": {
-      "team_a": "Pushing's Team",
-      "team_b": "soprano",
-      "score_a": 63,
-      "score_b": 64,
+      "team_a": "soprano",
+      "team_b": "RIP WATKINS",
+      "score_a": 66,
+      "score_b": 67,
       "diff": 1
     },
     "bench_king": {
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
-      "bench_points": 1
+      "bench_points": 3
     },
     "worst_captain": {
       "team_name": "RIP WATKINS",
