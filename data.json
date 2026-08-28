@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-28T19:02:22.918965+00:00",
+  "last_updated": "2026-08-28T19:05:24.576303+00:00",
   "players": [
     {
       "rank": 1,
@@ -116,15 +116,15 @@
       "diff": 0
     },
     "bench_king": {
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "bench_points": 0
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
+      "bench_points": 1
     },
     "worst_captain": {
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "captain_id": 411,
-      "captain_name": "Haaland",
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "captain_id": 426,
+      "captain_name": "B.Fernandes",
       "captain_points": 0
     },
     "best_differential_captain": null
