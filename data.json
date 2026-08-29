@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-29T15:45:26.994197+00:00",
+  "last_updated": "2026-08-29T15:50:32.121161+00:00",
   "players": [
     {
       "rank": 1,
@@ -26,16 +26,6 @@
     },
     {
       "rank": 3,
-      "last_rank": 7,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 42,
-      "total_points": 93,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 4,
       "last_rank": 3,
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
@@ -45,13 +35,23 @@
       "captain_name": "Haaland"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "last_rank": 8,
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
+      "gw_points": 38,
+      "total_points": 88,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 4,
+      "last_rank": 7,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
       "gw_points": 37,
-      "total_points": 87,
+      "total_points": 88,
       "captain_name": "Haaland"
     },
     {
@@ -99,11 +99,6 @@
     "gw": 2,
     "top_scorers": [
       {
-        "team_name": "Sultan",
-        "manager_name": "Sultan Adel",
-        "points": 42
-      },
-      {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
         "points": 39
@@ -111,18 +106,23 @@
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
+        "points": 38
+      },
+      {
+        "team_name": "Sultan",
+        "manager_name": "Sultan Adel",
         "points": 37
       }
     ],
-    "average_score": 27.0,
-    "highest_score": 42,
+    "average_score": 26.6,
+    "highest_score": 39,
     "lowest_score": 4,
     "derby": {
-      "team_a": "Pushing's Team",
-      "team_b": "RIP WATKINS",
-      "score_a": 73,
-      "score_b": 74,
-      "diff": 1
+      "team_a": "soprano",
+      "team_b": "Sultan",
+      "score_a": 88,
+      "score_b": 88,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Sultan",
