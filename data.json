@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-29T13:16:47.759827+00:00",
+  "last_updated": "2026-08-29T13:20:33.871070+00:00",
   "players": [
     {
       "rank": 1,
@@ -70,8 +70,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 16,
-      "total_points": 72,
+      "gw_points": 15,
+      "total_points": 71,
       "captain_name": "B.Fernandes"
     },
     {
@@ -114,15 +114,15 @@
         "points": 28
       }
     ],
-    "average_score": 23.6,
+    "average_score": 23.4,
     "highest_score": 35,
     "lowest_score": 2,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "RIP WATKINS",
-      "score_a": 72,
+      "score_a": 71,
       "score_b": 74,
-      "diff": 2
+      "diff": 3
     },
     "bench_king": {
       "team_name": "Doku the goat",
