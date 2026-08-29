@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-29T17:50:31.386459+00:00",
+  "last_updated": "2026-08-29T17:53:51.987939+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 36,
-      "total_points": 114,
+      "gw_points": 32,
+      "total_points": 110,
       "captain_name": "Haaland"
     },
     {
@@ -20,8 +20,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 47,
-      "total_points": 110,
+      "gw_points": 43,
+      "total_points": 106,
       "captain_name": "Haaland"
     },
     {
@@ -30,8 +30,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 36,
-      "total_points": 96,
+      "gw_points": 32,
+      "total_points": 92,
       "captain_name": "Haaland"
     },
     {
@@ -40,8 +40,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 43,
-      "total_points": 94,
+      "gw_points": 39,
+      "total_points": 90,
       "captain_name": "Haaland"
     },
     {
@@ -60,8 +60,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 24,
-      "total_points": 82,
+      "gw_points": 20,
+      "total_points": 78,
       "captain_name": "B.Fernandes"
     },
     {
@@ -80,8 +80,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 10,
-      "total_points": 66,
+      "gw_points": 6,
+      "total_points": 62,
       "captain_name": "B.Fernandes"
     },
     {
@@ -101,12 +101,12 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 47
+        "points": 43
       },
       {
         "team_name": "Sultan",
         "manager_name": "Sultan Adel",
-        "points": 43
+        "points": 39
       },
       {
         "team_name": "soprano",
@@ -114,14 +114,14 @@
         "points": 38
       }
     ],
-    "average_score": 31.4,
-    "highest_score": 47,
-    "lowest_score": 10,
+    "average_score": 28.8,
+    "highest_score": 43,
+    "lowest_score": 6,
     "derby": {
-      "team_a": "Sultan",
-      "team_b": "Doku the goat",
-      "score_a": 94,
-      "score_b": 96,
+      "team_a": "soprano",
+      "team_b": "Sultan",
+      "score_a": 88,
+      "score_b": 90,
       "diff": 2
     },
     "bench_king": {
