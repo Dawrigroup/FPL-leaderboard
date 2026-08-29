@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-29T15:30:37.000536+00:00",
+  "last_updated": "2026-08-29T15:35:02.766589+00:00",
   "players": [
     {
       "rank": 1,
@@ -30,8 +30,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 41,
-      "total_points": 92,
+      "gw_points": 43,
+      "total_points": 94,
       "captain_name": "Haaland"
     },
     {
@@ -50,8 +50,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 39,
-      "total_points": 89,
+      "gw_points": 38,
+      "total_points": 88,
       "captain_name": "Haaland"
     },
     {
@@ -101,7 +101,7 @@
       {
         "team_name": "Sultan",
         "manager_name": "Sultan Adel",
-        "points": 41
+        "points": 43
       },
       {
         "team_name": "Eyad",
@@ -111,11 +111,11 @@
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
-        "points": 39
+        "points": 38
       }
     ],
-    "average_score": 27.1,
-    "highest_score": 41,
+    "average_score": 27.2,
+    "highest_score": 43,
     "lowest_score": 4,
     "derby": {
       "team_a": "Pushing's Team",
@@ -125,8 +125,8 @@
       "diff": 1
     },
     "bench_king": {
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
       "bench_points": 8
     },
     "worst_captain": {
