@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-29T18:30:32.865281+00:00",
+  "last_updated": "2026-08-29T18:35:25.098899+00:00",
   "players": [
     {
       "rank": 1,
@@ -76,16 +76,6 @@
     },
     {
       "rank": 8,
-      "last_rank": 9,
-      "team_name": "man fc",
-      "manager_name": "Abdulkareem Msep",
-      "team_id": 8272581,
-      "gw_points": 37,
-      "total_points": 61,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 8,
       "last_rank": 5,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -93,6 +83,16 @@
       "gw_points": 5,
       "total_points": 61,
       "captain_name": "B.Fernandes"
+    },
+    {
+      "rank": 8,
+      "last_rank": 9,
+      "team_name": "man fc",
+      "manager_name": "Abdulkareem Msep",
+      "team_id": 8272581,
+      "gw_points": 37,
+      "total_points": 61,
+      "captain_name": "Haaland"
     }
   ],
   "gw_summary": {
@@ -118,8 +118,8 @@
     "highest_score": 42,
     "lowest_score": 5,
     "derby": {
-      "team_a": "man fc",
-      "team_b": "Isco FC",
+      "team_a": "Isco FC",
+      "team_b": "man fc",
       "score_a": 61,
       "score_b": 61,
       "diff": 0
