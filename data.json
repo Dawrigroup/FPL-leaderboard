@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-29T15:53:05.721653+00:00",
+  "last_updated": "2026-08-29T15:55:25.056239+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 28,
-      "total_points": 106,
+      "gw_points": 30,
+      "total_points": 108,
       "captain_name": "Haaland"
     },
     {
@@ -20,8 +20,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 39,
-      "total_points": 102,
+      "gw_points": 41,
+      "total_points": 104,
       "captain_name": "Haaland"
     },
     {
@@ -36,21 +36,21 @@
     },
     {
       "rank": 4,
-      "last_rank": 8,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "team_id": 5655741,
-      "gw_points": 38,
-      "total_points": 88,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 4,
       "last_rank": 7,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
       "gw_points": 37,
+      "total_points": 88,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 4,
+      "last_rank": 8,
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "team_id": 5655741,
+      "gw_points": 38,
       "total_points": 88,
       "captain_name": "Haaland"
     },
@@ -101,7 +101,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 39
+        "points": 41
       },
       {
         "team_name": "soprano",
@@ -114,12 +114,12 @@
         "points": 37
       }
     ],
-    "average_score": 26.6,
-    "highest_score": 39,
+    "average_score": 27.0,
+    "highest_score": 41,
     "lowest_score": 4,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Sultan",
+      "team_a": "Sultan",
+      "team_b": "soprano",
       "score_a": 88,
       "score_b": 88,
       "diff": 0
