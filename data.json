@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-29T18:12:11.453279+00:00",
+  "last_updated": "2026-08-29T18:15:26.976856+00:00",
   "players": [
     {
       "rank": 1,
@@ -60,8 +60,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 25,
-      "total_points": 83,
+      "gw_points": 24,
+      "total_points": 82,
       "captain_name": "B.Fernandes"
     },
     {
@@ -76,16 +76,6 @@
     },
     {
       "rank": 8,
-      "last_rank": 9,
-      "team_name": "man fc",
-      "manager_name": "Abdulkareem Msep",
-      "team_id": 8272581,
-      "gw_points": 38,
-      "total_points": 62,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 9,
       "last_rank": 5,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -93,6 +83,16 @@
       "gw_points": 5,
       "total_points": 61,
       "captain_name": "B.Fernandes"
+    },
+    {
+      "rank": 8,
+      "last_rank": 9,
+      "team_name": "man fc",
+      "manager_name": "Abdulkareem Msep",
+      "team_id": 8272581,
+      "gw_points": 37,
+      "total_points": 61,
+      "captain_name": "Haaland"
     }
   ],
   "gw_summary": {
@@ -114,15 +114,15 @@
         "points": 38
       }
     ],
-    "average_score": 29.4,
+    "average_score": 29.2,
     "highest_score": 42,
     "lowest_score": 5,
     "derby": {
       "team_a": "Isco FC",
       "team_b": "man fc",
       "score_a": 61,
-      "score_b": 62,
-      "diff": 1
+      "score_b": 61,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Sultan",
