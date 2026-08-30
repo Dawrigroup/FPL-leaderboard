@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-30T16:00:47.647764+00:00",
+  "last_updated": "2026-08-30T16:05:26.825189+00:00",
   "players": [
     {
       "rank": 1,
@@ -36,22 +36,22 @@
     },
     {
       "rank": 4,
-      "last_rank": 8,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "team_id": 5655741,
-      "gw_points": 63,
-      "total_points": 113,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 5,
       "last_rank": 7,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
       "gw_points": 60,
       "total_points": 111,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 5,
+      "last_rank": 8,
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "team_id": 5655741,
+      "gw_points": 60,
+      "total_points": 110,
       "captain_name": "Haaland"
     },
     {
@@ -104,24 +104,24 @@
         "points": 70
       },
       {
-        "team_name": "soprano",
-        "manager_name": "Hamad F",
-        "points": 63
-      },
-      {
         "team_name": "Sultan",
         "manager_name": "Sultan Adel",
         "points": 60
+      },
+      {
+        "team_name": "soprano",
+        "manager_name": "Hamad F",
+        "points": 60
       }
     ],
-    "average_score": 52.3,
+    "average_score": 52.0,
     "highest_score": 70,
     "lowest_score": 32,
     "derby": {
-      "team_a": "Omar",
-      "team_b": "Doku the goat",
-      "score_a": 129,
-      "score_b": 130,
+      "team_a": "soprano",
+      "team_b": "Sultan",
+      "score_a": 110,
+      "score_b": 111,
       "diff": 1
     },
     "bench_king": {
