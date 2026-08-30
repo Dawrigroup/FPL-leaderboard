@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-30T16:25:28.203232+00:00",
+  "last_updated": "2026-08-30T16:30:37.178385+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,21 +46,21 @@
     },
     {
       "rank": 5,
-      "last_rank": 8,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "team_id": 5655741,
-      "gw_points": 69,
-      "total_points": 119,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 5,
       "last_rank": 7,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
       "gw_points": 68,
+      "total_points": 119,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 5,
+      "last_rank": 8,
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "team_id": 5655741,
+      "gw_points": 69,
       "total_points": 119,
       "captain_name": "Haaland"
     },
@@ -118,8 +118,8 @@
     "highest_score": 78,
     "lowest_score": 48,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Sultan",
+      "team_a": "Sultan",
+      "team_b": "soprano",
       "score_a": 119,
       "score_b": 119,
       "diff": 0
