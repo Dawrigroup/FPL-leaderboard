@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-30T13:15:29.772699+00:00",
+  "last_updated": "2026-08-30T13:19:57.066800+00:00",
   "players": [
     {
       "rank": 1,
@@ -20,8 +20,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 44,
-      "total_points": 107,
+      "gw_points": 47,
+      "total_points": 110,
       "captain_name": "Haaland"
     },
     {
@@ -70,19 +70,9 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 20,
-      "total_points": 76,
+      "gw_points": 19,
+      "total_points": 75,
       "captain_name": "B.Fernandes"
-    },
-    {
-      "rank": 8,
-      "last_rank": 9,
-      "team_name": "man fc",
-      "manager_name": "Abdulkareem Msep",
-      "team_id": 8272581,
-      "gw_points": 41,
-      "total_points": 65,
-      "captain_name": "Haaland"
     },
     {
       "rank": 8,
@@ -93,6 +83,16 @@
       "gw_points": 9,
       "total_points": 65,
       "captain_name": "B.Fernandes"
+    },
+    {
+      "rank": 9,
+      "last_rank": 9,
+      "team_name": "man fc",
+      "manager_name": "Abdulkareem Msep",
+      "team_id": 8272581,
+      "gw_points": 40,
+      "total_points": 64,
+      "captain_name": "Haaland"
     }
   ],
   "gw_summary": {
@@ -101,7 +101,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 44
+        "points": 47
       },
       {
         "team_name": "Sultan",
@@ -114,20 +114,20 @@
         "points": 41
       }
     ],
-    "average_score": 32.3,
-    "highest_score": 44,
+    "average_score": 32.4,
+    "highest_score": 47,
     "lowest_score": 9,
     "derby": {
       "team_a": "man fc",
       "team_b": "Isco FC",
-      "score_a": 65,
+      "score_a": 64,
       "score_b": 65,
-      "diff": 0
+      "diff": 1
     },
     "bench_king": {
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
-      "bench_points": 10
+      "bench_points": 9
     },
     "worst_captain": {
       "team_name": "RIP WATKINS",
