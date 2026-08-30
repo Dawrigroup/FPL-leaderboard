@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-30T16:45:29.130106+00:00",
+  "last_updated": "2026-08-30T16:50:32.867004+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 78,
-      "total_points": 138,
+      "gw_points": 81,
+      "total_points": 141,
       "captain_name": "Haaland"
     },
     {
@@ -20,8 +20,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 59,
-      "total_points": 137,
+      "gw_points": 62,
+      "total_points": 140,
       "captain_name": "Haaland"
     },
     {
@@ -46,16 +46,6 @@
     },
     {
       "rank": 5,
-      "last_rank": 8,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "team_id": 5655741,
-      "gw_points": 69,
-      "total_points": 119,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 5,
       "last_rank": 7,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
@@ -65,13 +55,23 @@
       "captain_name": "Haaland"
     },
     {
+      "rank": 5,
+      "last_rank": 8,
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "team_id": 5655741,
+      "gw_points": 69,
+      "total_points": 119,
+      "captain_name": "Haaland"
+    },
+    {
       "rank": 7,
       "last_rank": 5,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 51,
-      "total_points": 107,
+      "gw_points": 54,
+      "total_points": 110,
       "captain_name": "B.Fernandes"
     },
     {
@@ -80,8 +80,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 48,
-      "total_points": 104,
+      "gw_points": 51,
+      "total_points": 107,
       "captain_name": "B.Fernandes"
     },
     {
@@ -90,8 +90,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 61,
-      "total_points": 85,
+      "gw_points": 64,
+      "total_points": 88,
       "captain_name": "Haaland"
     }
   ],
@@ -101,7 +101,7 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 78
+        "points": 81
       },
       {
         "team_name": "soprano",
@@ -114,12 +114,12 @@
         "points": 68
       }
     ],
-    "average_score": 61.9,
-    "highest_score": 78,
-    "lowest_score": 48,
+    "average_score": 63.6,
+    "highest_score": 81,
+    "lowest_score": 51,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Sultan",
+      "team_a": "Sultan",
+      "team_b": "soprano",
       "score_a": 119,
       "score_b": 119,
       "diff": 0
@@ -127,14 +127,14 @@
     "bench_king": {
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
-      "bench_points": 22
+      "bench_points": 23
     },
     "worst_captain": {
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "captain_id": 426,
       "captain_name": "B.Fernandes",
-      "captain_points": 9
+      "captain_points": 10
     },
     "best_differential_captain": null
   }
