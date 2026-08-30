@@ -2,8 +2,18 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-30T13:25:27.385774+00:00",
+  "last_updated": "2026-08-30T13:29:15.495073+00:00",
   "players": [
+    {
+      "rank": 1,
+      "last_rank": 2,
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
+      "team_id": 7300406,
+      "gw_points": 48,
+      "total_points": 111,
+      "captain_name": "Haaland"
+    },
     {
       "rank": 1,
       "last_rank": 1,
@@ -12,16 +22,6 @@
       "team_id": 58609,
       "gw_points": 33,
       "total_points": 111,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 2,
-      "last_rank": 2,
-      "team_name": "Eyad",
-      "manager_name": "eyad Fares",
-      "team_id": 7300406,
-      "gw_points": 47,
-      "total_points": 110,
       "captain_name": "Haaland"
     },
     {
@@ -101,7 +101,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 47
+        "points": 48
       },
       {
         "team_name": "Sultan",
@@ -114,15 +114,15 @@
         "points": 41
       }
     ],
-    "average_score": 32.4,
-    "highest_score": 47,
+    "average_score": 32.6,
+    "highest_score": 48,
     "lowest_score": 9,
     "derby": {
-      "team_a": "man fc",
-      "team_b": "Isco FC",
-      "score_a": 64,
-      "score_b": 65,
-      "diff": 1
+      "team_a": "Eyad",
+      "team_b": "Omar",
+      "score_a": 111,
+      "score_b": 111,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Sultan",
