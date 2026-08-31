@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-31T19:36:30.220166+00:00",
+  "last_updated": "2026-08-31T19:40:27.340328+00:00",
   "players": [
     {
       "rank": 1,
@@ -20,8 +20,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 89,
-      "total_points": 167,
+      "gw_points": 88,
+      "total_points": 166,
       "captain_name": "Haaland"
     },
     {
@@ -30,8 +30,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 98,
-      "total_points": 156,
+      "gw_points": 97,
+      "total_points": 155,
       "captain_name": "B.Fernandes"
     },
     {
@@ -60,12 +60,12 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 95,
-      "total_points": 145,
+      "gw_points": 94,
+      "total_points": 144,
       "captain_name": "Haaland"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "last_rank": 7,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
@@ -90,8 +90,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 83,
-      "total_points": 107,
+      "gw_points": 81,
+      "total_points": 105,
       "captain_name": "Haaland"
     }
   ],
@@ -106,23 +106,23 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 98
+        "points": 97
       },
       {
-        "team_name": "soprano",
-        "manager_name": "Hamad F",
-        "points": 95
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
+        "points": 94
       }
     ],
-    "average_score": 91.0,
+    "average_score": 90.4,
     "highest_score": 108,
     "lowest_score": 69,
     "derby": {
-      "team_a": "Sultan",
-      "team_b": "soprano",
+      "team_a": "soprano",
+      "team_b": "Sultan",
       "score_a": 144,
-      "score_b": 145,
-      "diff": 1
+      "score_b": 144,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Sultan",
