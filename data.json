@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-31T20:25:22.348991+00:00",
+  "last_updated": "2026-08-31T20:30:36.163229+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 103,
-      "total_points": 181,
+      "gw_points": 104,
+      "total_points": 182,
       "captain_name": "Haaland"
     },
     {
@@ -30,8 +30,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 112,
-      "total_points": 170,
+      "gw_points": 113,
+      "total_points": 171,
       "captain_name": "B.Fernandes"
     },
     {
@@ -70,8 +70,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 99,
-      "total_points": 149,
+      "gw_points": 100,
+      "total_points": 150,
       "captain_name": "Haaland"
     },
     {
@@ -90,8 +90,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 98,
-      "total_points": 122,
+      "gw_points": 99,
+      "total_points": 123,
       "captain_name": "Haaland"
     }
   ],
@@ -106,7 +106,7 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 112
+        "points": 113
       },
       {
         "team_name": "Isco FC",
@@ -114,14 +114,14 @@
         "points": 109
       }
     ],
-    "average_score": 102.9,
+    "average_score": 103.3,
     "highest_score": 118,
     "lowest_score": 84,
     "derby": {
-      "team_a": "Eyad",
-      "team_b": "soprano",
-      "score_a": 147,
-      "score_b": 149,
+      "team_a": "Sultan",
+      "team_b": "Pushing's Team",
+      "score_a": 154,
+      "score_b": 156,
       "diff": 2
     },
     "bench_king": {
