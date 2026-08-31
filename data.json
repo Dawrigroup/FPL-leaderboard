@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-31T19:45:51.115328+00:00",
+  "last_updated": "2026-08-31T19:50:32.754451+00:00",
   "players": [
     {
       "rank": 1,
@@ -40,8 +40,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 96,
-      "total_points": 152,
+      "gw_points": 95,
+      "total_points": 151,
       "captain_name": "B.Fernandes"
     },
     {
@@ -56,21 +56,21 @@
     },
     {
       "rank": 6,
-      "last_rank": 8,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "team_id": 5655741,
-      "gw_points": 94,
-      "total_points": 144,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 6,
       "last_rank": 7,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
       "gw_points": 93,
+      "total_points": 144,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 6,
+      "last_rank": 8,
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "team_id": 5655741,
+      "gw_points": 94,
       "total_points": 144,
       "captain_name": "Haaland"
     },
@@ -111,15 +111,15 @@
       {
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
-        "points": 96
+        "points": 95
       }
     ],
-    "average_score": 90.7,
+    "average_score": 90.6,
     "highest_score": 108,
     "lowest_score": 69,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Sultan",
+      "team_a": "Sultan",
+      "team_b": "soprano",
       "score_a": 144,
       "score_b": 144,
       "diff": 0
