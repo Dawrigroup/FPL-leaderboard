@@ -2,26 +2,26 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 2,
-  "last_updated": "2026-08-31T20:23:09.530482+00:00",
+  "last_updated": "2026-08-31T20:25:22.348991+00:00",
   "players": [
     {
       "rank": 1,
-      "last_rank": 3,
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
-      "team_id": 4359394,
-      "gw_points": 108,
-      "total_points": 168,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 2,
       "last_rank": 1,
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 88,
-      "total_points": 166,
+      "gw_points": 103,
+      "total_points": 181,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 2,
+      "last_rank": 3,
+      "team_name": "Doku the goat",
+      "manager_name": "Doku Is the best winger",
+      "team_id": 4359394,
+      "gw_points": 118,
+      "total_points": 178,
       "captain_name": "Haaland"
     },
     {
@@ -30,8 +30,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 97,
-      "total_points": 155,
+      "gw_points": 112,
+      "total_points": 170,
       "captain_name": "B.Fernandes"
     },
     {
@@ -40,8 +40,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 94,
-      "total_points": 150,
+      "gw_points": 109,
+      "total_points": 165,
       "captain_name": "B.Fernandes"
     },
     {
@@ -50,8 +50,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 90,
-      "total_points": 146,
+      "gw_points": 100,
+      "total_points": 156,
       "captain_name": "B.Fernandes"
     },
     {
@@ -60,18 +60,18 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 93,
-      "total_points": 144,
+      "gw_points": 103,
+      "total_points": 154,
       "captain_name": "Haaland"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "last_rank": 8,
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 94,
-      "total_points": 144,
+      "gw_points": 99,
+      "total_points": 149,
       "captain_name": "Haaland"
     },
     {
@@ -80,8 +80,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 69,
-      "total_points": 132,
+      "gw_points": 84,
+      "total_points": 147,
       "captain_name": "Haaland"
     },
     {
@@ -90,8 +90,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 84,
-      "total_points": 108,
+      "gw_points": 98,
+      "total_points": 122,
       "captain_name": "Haaland"
     }
   ],
@@ -101,28 +101,28 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 108
+        "points": 118
       },
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 97
+        "points": 112
       },
       {
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
-        "points": 94
+        "points": 109
       }
     ],
-    "average_score": 90.8,
-    "highest_score": 108,
-    "lowest_score": 69,
+    "average_score": 102.9,
+    "highest_score": 118,
+    "lowest_score": 84,
     "derby": {
-      "team_a": "Sultan",
+      "team_a": "Eyad",
       "team_b": "soprano",
-      "score_a": 144,
-      "score_b": 144,
-      "diff": 0
+      "score_a": 147,
+      "score_b": 149,
+      "diff": 2
     },
     "bench_king": {
       "team_name": "Sultan",
@@ -130,8 +130,8 @@
       "bench_points": 23
     },
     "worst_captain": {
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
       "captain_id": 411,
       "captain_name": "Haaland",
       "captain_points": 13
