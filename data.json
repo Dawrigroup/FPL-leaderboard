@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-04T19:17:23.700151+00:00",
+  "last_updated": "2026-09-04T19:20:32.230942+00:00",
   "players": [
     {
       "rank": 1,
@@ -70,8 +70,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 2,
-      "total_points": 152,
+      "gw_points": 1,
+      "total_points": 151,
       "captain_name": "Haaland"
     },
     {
@@ -99,11 +99,6 @@
     "gw": 3,
     "top_scorers": [
       {
-        "team_name": "soprano",
-        "manager_name": "Hamad F",
-        "points": 2
-      },
-      {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
         "points": 1
@@ -112,10 +107,15 @@
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
         "points": 1
+      },
+      {
+        "team_name": "Pushing's Team",
+        "manager_name": "Pushing First place",
+        "points": 1
       }
     ],
-    "average_score": 0.9,
-    "highest_score": 2,
+    "average_score": 0.8,
+    "highest_score": 1,
     "lowest_score": 0,
     "derby": {
       "team_a": "Sultan",
