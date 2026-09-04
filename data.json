@@ -1,8 +1,8 @@
 {
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
-  "current_gw": 2,
-  "last_updated": "2026-09-04T17:50:39.613199+00:00",
+  "current_gw": 3,
+  "last_updated": "2026-09-04T18:15:29.522961+00:00",
   "players": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "team_id": 6669538,
       "gw_points": 113,
       "total_points": 171,
-      "captain_name": "B.Fernandes"
+      "captain_name": "Haaland"
     },
     {
       "rank": 4,
@@ -42,7 +42,7 @@
       "team_id": 379699,
       "gw_points": 111,
       "total_points": 167,
-      "captain_name": "B.Fernandes"
+      "captain_name": "Haaland"
     },
     {
       "rank": 5,
@@ -52,7 +52,7 @@
       "team_id": 12546,
       "gw_points": 100,
       "total_points": 156,
-      "captain_name": "B.Fernandes"
+      "captain_name": "Haaland"
     },
     {
       "rank": 6,
@@ -96,7 +96,7 @@
     }
   ],
   "gw_summary": {
-    "gw": 2,
+    "gw": 3,
     "top_scorers": [
       {
         "team_name": "Doku the goat",
@@ -125,16 +125,16 @@
       "diff": 2
     },
     "bench_king": {
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "bench_points": 23
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "bench_points": 0
     },
     "worst_captain": {
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "captain_id": 411,
       "captain_name": "Haaland",
-      "captain_points": 13
+      "captain_points": 0
     },
     "best_differential_captain": null
   }
