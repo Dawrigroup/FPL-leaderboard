@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-04T18:55:20.782289+00:00",
+  "last_updated": "2026-09-04T19:00:44.100549+00:00",
   "players": [
     {
       "rank": 1,
@@ -16,7 +16,7 @@
     },
     {
       "rank": 2,
-      "last_rank": 3,
+      "last_rank": 2,
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
@@ -26,7 +26,7 @@
     },
     {
       "rank": 3,
-      "last_rank": 4,
+      "last_rank": 3,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "last_rank": 5,
+      "last_rank": 4,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
@@ -56,7 +56,7 @@
     },
     {
       "rank": 6,
-      "last_rank": 7,
+      "last_rank": 6,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
@@ -66,7 +66,7 @@
     },
     {
       "rank": 7,
-      "last_rank": 8,
+      "last_rank": 7,
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
@@ -76,7 +76,7 @@
     },
     {
       "rank": 8,
-      "last_rank": 2,
+      "last_rank": 8,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
