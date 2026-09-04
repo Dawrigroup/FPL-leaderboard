@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-04T20:40:27.408941+00:00",
+  "last_updated": "2026-09-04T20:45:31.225907+00:00",
   "players": [
     {
       "rank": 1,
@@ -127,7 +127,7 @@
     "bench_king": {
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "bench_points": 1
+      "bench_points": 3
     },
     "worst_captain": {
       "team_name": "Omar",
