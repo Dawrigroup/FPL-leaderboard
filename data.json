@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-05T15:45:27.374586+00:00",
+  "last_updated": "2026-09-05T15:50:30.243086+00:00",
   "players": [
     {
       "rank": 1,
@@ -20,8 +20,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 37,
-      "total_points": 219,
+      "gw_points": 36,
+      "total_points": 218,
       "captain_name": "Haaland"
     },
     {
@@ -114,7 +114,7 @@
         "points": 40
       }
     ],
-    "average_score": 36.9,
+    "average_score": 36.8,
     "highest_score": 46,
     "lowest_score": 25,
     "derby": {
@@ -125,9 +125,9 @@
       "diff": 0
     },
     "bench_king": {
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "bench_points": 19
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "bench_points": 21
     },
     "worst_captain": {
       "team_name": "Doku the goat",
