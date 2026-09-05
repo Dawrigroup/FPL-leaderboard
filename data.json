@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-05T15:22:58.596130+00:00",
+  "last_updated": "2026-09-05T15:25:21.685877+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 34,
-      "total_points": 212,
+      "gw_points": 45,
+      "total_points": 223,
       "captain_name": "Haaland"
     },
     {
@@ -20,48 +20,48 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 27,
-      "total_points": 209,
+      "gw_points": 37,
+      "total_points": 219,
       "captain_name": "Haaland"
     },
     {
       "rank": 3,
-      "last_rank": 3,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 28,
-      "total_points": 199,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 4,
       "last_rank": 4,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 27,
-      "total_points": 194,
+      "gw_points": 39,
+      "total_points": 206,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 4,
+      "last_rank": 3,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 34,
+      "total_points": 205,
       "captain_name": "Haaland"
     },
     {
       "rank": 5,
-      "last_rank": 5,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
-      "team_id": 12546,
-      "gw_points": 30,
-      "total_points": 186,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 6,
       "last_rank": 7,
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 30,
-      "total_points": 180,
+      "gw_points": 41,
+      "total_points": 191,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 6,
+      "last_rank": 5,
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "team_id": 12546,
+      "gw_points": 34,
+      "total_points": 190,
       "captain_name": "Haaland"
     },
     {
@@ -70,8 +70,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 22,
-      "total_points": 176,
+      "gw_points": 34,
+      "total_points": 188,
       "captain_name": "Haaland"
     },
     {
@@ -80,8 +80,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 28,
-      "total_points": 175,
+      "gw_points": 39,
+      "total_points": 186,
       "captain_name": "Haaland"
     },
     {
@@ -90,8 +90,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 21,
-      "total_points": 144,
+      "gw_points": 24,
+      "total_points": 147,
       "captain_name": "Haaland"
     }
   ],
@@ -101,27 +101,27 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 34
-      },
-      {
-        "team_name": "Pushing's Team",
-        "manager_name": "Pushing First place",
-        "points": 30
+        "points": 45
       },
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
-        "points": 30
+        "points": 41
+      },
+      {
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
+        "points": 39
       }
     ],
-    "average_score": 27.4,
-    "highest_score": 34,
-    "lowest_score": 21,
+    "average_score": 36.3,
+    "highest_score": 45,
+    "lowest_score": 24,
     "derby": {
-      "team_a": "Eyad",
-      "team_b": "Sultan",
-      "score_a": 175,
-      "score_b": 176,
+      "team_a": "Pushing's Team",
+      "team_b": "soprano",
+      "score_a": 190,
+      "score_b": 191,
       "diff": 1
     },
     "bench_king": {
