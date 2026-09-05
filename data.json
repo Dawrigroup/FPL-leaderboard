@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-05T18:37:43.027071+00:00",
+  "last_updated": "2026-09-05T18:42:23.492234+00:00",
   "players": [
     {
       "rank": 1,
@@ -12,7 +12,9 @@
       "team_id": 4359394,
       "gw_points": 46,
       "total_points": 224,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "TC",
+      "yet_to_play": 11
     },
     {
       "rank": 2,
@@ -22,7 +24,9 @@
       "team_id": 58609,
       "gw_points": 36,
       "total_points": 218,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "TC",
+      "yet_to_play": 11
     },
     {
       "rank": 3,
@@ -32,7 +36,9 @@
       "team_id": 379699,
       "gw_points": 40,
       "total_points": 207,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "WC",
+      "yet_to_play": 11
     },
     {
       "rank": 4,
@@ -42,7 +48,9 @@
       "team_id": 6669538,
       "gw_points": 35,
       "total_points": 206,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "TC",
+      "yet_to_play": 11
     },
     {
       "rank": 5,
@@ -52,7 +60,9 @@
       "team_id": 12546,
       "gw_points": 35,
       "total_points": 191,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "TC",
+      "yet_to_play": 11
     },
     {
       "rank": 6,
@@ -62,7 +72,9 @@
       "team_id": 5655741,
       "gw_points": 41,
       "total_points": 191,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "TC",
+      "yet_to_play": 11
     },
     {
       "rank": 7,
@@ -72,7 +84,9 @@
       "team_id": 8036192,
       "gw_points": 34,
       "total_points": 188,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 11
     },
     {
       "rank": 8,
@@ -82,7 +96,9 @@
       "team_id": 7300406,
       "gw_points": 39,
       "total_points": 186,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 11
     },
     {
       "rank": 9,
@@ -92,7 +108,9 @@
       "team_id": 8272581,
       "gw_points": 25,
       "total_points": 148,
-      "captain_name": "Haaland"
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 11
     }
   ],
   "gw_summary": {
