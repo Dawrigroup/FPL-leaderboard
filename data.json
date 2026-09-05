@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-05T12:05:25.634929+00:00",
+  "last_updated": "2026-09-05T12:10:27.866052+00:00",
   "players": [
     {
       "rank": 1,
@@ -26,22 +26,22 @@
     },
     {
       "rank": 3,
-      "last_rank": 4,
-      "team_name": "Isco FC",
-      "manager_name": "Abdulkarim Alkholifey",
-      "team_id": 379699,
-      "gw_points": 5,
-      "total_points": 172,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 4,
       "last_rank": 3,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
       "gw_points": 1,
       "total_points": 172,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 4,
+      "last_rank": 4,
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
+      "team_id": 379699,
+      "gw_points": 4,
+      "total_points": 171,
       "captain_name": "Haaland"
     },
     {
@@ -99,13 +99,13 @@
     "gw": 3,
     "top_scorers": [
       {
-        "team_name": "Isco FC",
-        "manager_name": "Abdulkarim Alkholifey",
-        "points": 5
-      },
-      {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
+        "points": 4
+      },
+      {
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
         "points": 4
       },
       {
@@ -114,14 +114,14 @@
         "points": 4
       }
     ],
-    "average_score": 3.1,
-    "highest_score": 5,
+    "average_score": 3.0,
+    "highest_score": 4,
     "lowest_score": 0,
     "derby": {
-      "team_a": "Isco FC",
-      "team_b": "RIP WATKINS",
-      "score_a": 172,
-      "score_b": 172,
+      "team_a": "Omar",
+      "team_b": "Doku the goat",
+      "score_a": 182,
+      "score_b": 182,
       "diff": 0
     },
     "bench_king": {
