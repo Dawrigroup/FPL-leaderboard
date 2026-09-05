@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-05T15:33:20.340750+00:00",
+  "last_updated": "2026-09-05T15:35:22.392861+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 55,
-      "total_points": 233,
+      "gw_points": 46,
+      "total_points": 224,
       "captain_name": "Haaland"
     },
     {
@@ -20,8 +20,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 32,
-      "total_points": 214,
+      "gw_points": 36,
+      "total_points": 218,
       "captain_name": "Haaland"
     },
     {
@@ -30,8 +30,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 43,
-      "total_points": 210,
+      "gw_points": 40,
+      "total_points": 207,
       "captain_name": "Haaland"
     },
     {
@@ -80,8 +80,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 32,
-      "total_points": 179,
+      "gw_points": 39,
+      "total_points": 186,
       "captain_name": "Haaland"
     },
     {
@@ -101,21 +101,21 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 55
-      },
-      {
-        "team_name": "Isco FC",
-        "manager_name": "Abdulkarim Alkholifey",
-        "points": 43
+        "points": 46
       },
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
         "points": 41
+      },
+      {
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
+        "points": 40
       }
     ],
-    "average_score": 36.9,
-    "highest_score": 55,
+    "average_score": 36.8,
+    "highest_score": 46,
     "lowest_score": 25,
     "derby": {
       "team_a": "Pushing's Team",
