@@ -77,7 +77,8 @@ def build_unfinished_teams_set(gw):
 
     unfinished = set()
     for fx in fixtures:
-        if not fx.get("finished"):
+        is_effectively_finished = fx.get("finished") or fx.get("finished_provisional")
+        if not is_effectively_finished:
             unfinished.add(fx.get("team_h"))
             unfinished.add(fx.get("team_a"))
     return unfinished
