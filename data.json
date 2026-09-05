@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-05T14:27:29.341041+00:00",
+  "last_updated": "2026-09-05T14:30:33.846328+00:00",
   "players": [
     {
       "rank": 1,
@@ -40,8 +40,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 7,
-      "total_points": 178,
+      "gw_points": 10,
+      "total_points": 181,
       "captain_name": "Haaland"
     },
     {
@@ -114,15 +114,15 @@
         "points": 11
       }
     ],
-    "average_score": 9.6,
+    "average_score": 9.9,
     "highest_score": 14,
     "lowest_score": 6,
     "derby": {
-      "team_a": "Eyad",
-      "team_b": "soprano",
-      "score_a": 158,
-      "score_b": 160,
-      "diff": 2
+      "team_a": "Isco FC",
+      "team_b": "RIP WATKINS",
+      "score_a": 181,
+      "score_b": 181,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "RIP WATKINS",
@@ -134,7 +134,7 @@
       "manager_name": "Doku Is the best winger",
       "captain_id": 411,
       "captain_name": "Haaland",
-      "captain_points": 1
+      "captain_points": 8
     },
     "best_differential_captain": null
   }
