@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-05T16:02:57.556733+00:00",
+  "last_updated": "2026-09-05T16:05:24.580332+00:00",
   "players": [
     {
       "rank": 1,
@@ -26,22 +26,22 @@
     },
     {
       "rank": 3,
-      "last_rank": 3,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 37,
-      "total_points": 208,
-      "captain_name": "Haaland"
-    },
-    {
-      "rank": 4,
       "last_rank": 4,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
       "gw_points": 40,
       "total_points": 207,
+      "captain_name": "Haaland"
+    },
+    {
+      "rank": 4,
+      "last_rank": 3,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 35,
+      "total_points": 206,
       "captain_name": "Haaland"
     },
     {
@@ -114,7 +114,7 @@
         "points": 40
       }
     ],
-    "average_score": 37.0,
+    "average_score": 36.8,
     "highest_score": 46,
     "lowest_score": 25,
     "derby": {
