@@ -13,6 +13,14 @@ STANDINGS_URL = f"https://fantasy.premierleague.com/api/leagues-classic/{LEAGUE_
 BOOTSTRAP_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
 LIVE_URL_TMPL = "https://fantasy.premierleague.com/api/event/{gw}/live/"
 PICKS_URL_TMPL = "https://fantasy.premierleague.com/api/entry/{entry_id}/event/{gw}/picks/"
+FIXTURES_URL_TMPL = "https://fantasy.premierleague.com/api/fixtures/?event={gw}"
+
+CHIP_ABBREVIATIONS = {
+    "wildcard": "WC",
+    "freehit": "FT",
+    "3xc": "TC",
+    "bboost": "BB",
+}
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; FPL-Leaderboard-Bot/1.0)"
@@ -51,6 +59,30 @@ def build_live_points_map(gw):
     return {el["id"]: el.get("stats", {}).get("total_points", 0) for el in live.get("elements", [])}
 
 
+def build_player_team_map(bootstrap):
+    """Maps FPL player element id -> their real-life club's team id."""
+    return {p["id"]: p.get("team") for p in bootstrap.get("elements", [])}
+
+
+def build_unfinished_teams_set(gw):
+    """Returns the set of real-life club team ids whose fixture this gameweek
+    has not finished yet (still to play or currently in progress)."""
+    if not gw:
+        return set()
+    try:
+        fixtures = fetch_json(FIXTURES_URL_TMPL.format(gw=gw))
+    except Exception as e:
+        print(f"Could not fetch fixtures for GW{gw}: {e}")
+        return set()
+
+    unfinished = set()
+    for fx in fixtures:
+        if not fx.get("finished"):
+            unfinished.add(fx.get("team_h"))
+            unfinished.add(fx.get("team_a"))
+    return unfinished
+
+
 def fetch_standings():
     standings_raw = fetch_json(STANDINGS_URL)
     bootstrap = fetch_json(BOOTSTRAP_URL)
@@ -58,6 +90,8 @@ def fetch_standings():
     current_gw = fetch_current_gw(bootstrap)
     player_names = build_player_name_map(bootstrap)
     live_points = build_live_points_map(current_gw)
+    player_teams = build_player_team_map(bootstrap)
+    unfinished_teams = build_unfinished_teams_set(current_gw)
 
     league_name = standings_raw.get("league", {}).get("name", "FPL League")
     results = standings_raw.get("standings", {}).get("results", [])
@@ -76,7 +110,7 @@ def fetch_standings():
 
     players.sort(key=lambda p: p["total_points"] or 0, reverse=True)
 
-    gw_summary = build_gw_summary(players, current_gw, player_names, live_points)
+    gw_summary = build_gw_summary(players, current_gw, player_names, live_points, player_teams, unfinished_teams)
 
     output = {
         "league_id": LEAGUE_ID,
@@ -93,7 +127,7 @@ def fetch_standings():
     print(f"Saved {len(players)} entries for league '{league_name}'")
 
 
-def build_gw_summary(players, gw, player_names, live_points):
+def build_gw_summary(players, gw, player_names, live_points, player_teams, unfinished_teams):
     if not gw or not players:
         return None
 
@@ -163,6 +197,18 @@ def build_gw_summary(players, gw, player_names, live_points):
             p["captain_name"] = cap_name
         else:
             p["captain_name"] = None
+
+        # Chip used this gameweek (blank if none active)
+        active_chip = picks_data.get("active_chip")
+        p["chip"] = CHIP_ABBREVIATIONS.get(active_chip, "")
+
+        # How many of the starting XI (positions 1-11) haven't finished their fixture yet
+        starting_xi = [pk for pk in picks if pk.get("position", 0) <= 11]
+        yet_to_play = sum(
+            1 for pk in starting_xi
+            if player_teams.get(pk["element"]) in unfinished_teams
+        )
+        p["yet_to_play"] = yet_to_play
 
         bench_picks = [pk for pk in picks if pk.get("position", 0) > 11]
         bench_pts = sum(live_points.get(pk["element"], 0) for pk in bench_picks)
