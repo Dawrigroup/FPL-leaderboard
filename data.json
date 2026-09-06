@@ -2,10 +2,22 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-06T14:10:31.407261+00:00",
+  "last_updated": "2026-09-06T14:15:26.178283+00:00",
   "players": [
     {
       "rank": 1,
+      "last_rank": 1,
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "team_id": 58609,
+      "gw_points": 47,
+      "total_points": 229,
+      "captain_name": "Haaland",
+      "chip": "TC",
+      "yet_to_play": 7
+    },
+    {
+      "rank": 2,
       "last_rank": 2,
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
@@ -15,18 +27,6 @@
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 3
-    },
-    {
-      "rank": 2,
-      "last_rank": 1,
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "team_id": 58609,
-      "gw_points": 39,
-      "total_points": 221,
-      "captain_name": "Haaland",
-      "chip": "TC",
-      "yet_to_play": 7
     },
     {
       "rank": 3,
@@ -58,14 +58,38 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 38,
-      "total_points": 194,
+      "gw_points": 46,
+      "total_points": 202,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 6
     },
     {
       "rank": 6,
+      "last_rank": 6,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 45,
+      "total_points": 199,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 5
+    },
+    {
+      "rank": 7,
+      "last_rank": 8,
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
+      "team_id": 7300406,
+      "gw_points": 46,
+      "total_points": 193,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 5
+    },
+    {
+      "rank": 8,
       "last_rank": 7,
       "team_name": "soprano",
       "manager_name": "Hamad F",
@@ -75,30 +99,6 @@
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 4
-    },
-    {
-      "rank": 7,
-      "last_rank": 6,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 37,
-      "total_points": 191,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 5
-    },
-    {
-      "rank": 8,
-      "last_rank": 8,
-      "team_name": "Eyad",
-      "manager_name": "eyad Fares",
-      "team_id": 7300406,
-      "gw_points": 38,
-      "total_points": 185,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 5
     },
     {
       "rank": 9,
@@ -122,25 +122,25 @@
         "points": 49
       },
       {
-        "team_name": "soprano",
-        "manager_name": "Hamad F",
-        "points": 43
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 47
       },
       {
-        "team_name": "Isco FC",
-        "manager_name": "Abdulkarim Alkholifey",
-        "points": 40
+        "team_name": "Pushing's Team",
+        "manager_name": "Pushing First place",
+        "points": 46
       }
     ],
-    "average_score": 38.7,
+    "average_score": 42.2,
     "highest_score": 49,
     "lowest_score": 27,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Pushing's Team",
+      "team_a": "Eyad",
+      "team_b": "soprano",
       "score_a": 193,
-      "score_b": 194,
-      "diff": 1
+      "score_b": 193,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Sultan",
@@ -148,8 +148,8 @@
       "bench_points": 21
     },
     "worst_captain": {
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
       "captain_id": 411,
       "captain_name": "Haaland",
       "captain_points": 9
