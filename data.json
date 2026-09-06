@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-06T15:00:40.556269+00:00",
+  "last_updated": "2026-09-06T15:05:26.148330+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 52,
-      "total_points": 230,
+      "gw_points": 51,
+      "total_points": 229,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 1
@@ -70,8 +70,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 47,
-      "total_points": 201,
+      "gw_points": 48,
+      "total_points": 202,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 2
@@ -82,8 +82,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 46,
-      "total_points": 196,
+      "gw_points": 45,
+      "total_points": 195,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 2
@@ -94,8 +94,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 44,
-      "total_points": 191,
+      "gw_points": 45,
+      "total_points": 192,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 30,
-      "total_points": 153,
+      "gw_points": 29,
+      "total_points": 152,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -119,7 +119,7 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 52
+        "points": 51
       },
       {
         "team_name": "Omar",
@@ -127,20 +127,20 @@
         "points": 48
       },
       {
-        "team_name": "Pushing's Team",
-        "manager_name": "Pushing First place",
-        "points": 47
+        "team_name": "Sultan",
+        "manager_name": "Sultan Adel",
+        "points": 48
       }
     ],
-    "average_score": 43.9,
-    "highest_score": 52,
-    "lowest_score": 30,
+    "average_score": 43.8,
+    "highest_score": 51,
+    "lowest_score": 29,
     "derby": {
-      "team_a": "Omar",
-      "team_b": "Doku the goat",
-      "score_a": 230,
-      "score_b": 230,
-      "diff": 0
+      "team_a": "Sultan",
+      "team_b": "Pushing's Team",
+      "score_a": 202,
+      "score_b": 203,
+      "diff": 1
     },
     "bench_king": {
       "team_name": "Sultan",
