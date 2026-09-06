@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-06T14:35:40.406773+00:00",
+  "last_updated": "2026-09-06T14:40:24.777714+00:00",
   "players": [
     {
       "rank": 1,
@@ -54,18 +54,6 @@
     },
     {
       "rank": 5,
-      "last_rank": 4,
-      "team_name": "Isco FC",
-      "manager_name": "Abdulkarim Alkholifey",
-      "team_id": 379699,
-      "gw_points": 40,
-      "total_points": 207,
-      "captain_name": "Haaland",
-      "chip": "WC",
-      "yet_to_play": 3
-    },
-    {
-      "rank": 5,
       "last_rank": 6,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
@@ -75,6 +63,18 @@
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 5
+    },
+    {
+      "rank": 5,
+      "last_rank": 4,
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
+      "team_id": 379699,
+      "gw_points": 40,
+      "total_points": 207,
+      "captain_name": "Haaland",
+      "chip": "WC",
+      "yet_to_play": 3
     },
     {
       "rank": 7,
@@ -136,8 +136,8 @@
     "highest_score": 56,
     "lowest_score": 34,
     "derby": {
-      "team_a": "Isco FC",
-      "team_b": "Sultan",
+      "team_a": "Sultan",
+      "team_b": "Isco FC",
       "score_a": 207,
       "score_b": 207,
       "diff": 0
