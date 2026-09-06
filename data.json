@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-06T14:25:21.360762+00:00",
+  "last_updated": "2026-09-06T14:30:35.011271+00:00",
   "players": [
     {
       "rank": 1,
@@ -34,8 +34,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 44,
-      "total_points": 215,
+      "gw_points": 43,
+      "total_points": 214,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 6
@@ -54,18 +54,6 @@
     },
     {
       "rank": 5,
-      "last_rank": 6,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 54,
-      "total_points": 208,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 5
-    },
-    {
-      "rank": 6,
       "last_rank": 4,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -75,6 +63,18 @@
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 3
+    },
+    {
+      "rank": 5,
+      "last_rank": 6,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 53,
+      "total_points": 207,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 5
     },
     {
       "rank": 7,
@@ -132,15 +132,15 @@
         "points": 55
       }
     ],
-    "average_score": 48.7,
+    "average_score": 48.4,
     "highest_score": 56,
     "lowest_score": 34,
     "derby": {
       "team_a": "Isco FC",
       "team_b": "Sultan",
       "score_a": 207,
-      "score_b": 208,
-      "diff": 1
+      "score_b": 207,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Sultan",
