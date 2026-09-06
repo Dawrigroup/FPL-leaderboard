@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-06T13:40:25.248865+00:00",
+  "last_updated": "2026-09-06T13:45:26.556615+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 51,
-      "total_points": 229,
+      "gw_points": 50,
+      "total_points": 228,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 3
@@ -22,8 +22,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 41,
-      "total_points": 223,
+      "gw_points": 40,
+      "total_points": 222,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 7
@@ -58,8 +58,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 40,
-      "total_points": 196,
+      "gw_points": 39,
+      "total_points": 195,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 6
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 29,
-      "total_points": 152,
+      "gw_points": 28,
+      "total_points": 151,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -119,7 +119,7 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 51
+        "points": 50
       },
       {
         "team_name": "soprano",
@@ -129,12 +129,12 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 41
+        "points": 40
       }
     ],
-    "average_score": 39.6,
-    "highest_score": 51,
-    "lowest_score": 29,
+    "average_score": 39.1,
+    "highest_score": 50,
+    "lowest_score": 28,
     "derby": {
       "team_a": "Isco FC",
       "team_b": "RIP WATKINS",
