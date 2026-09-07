@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 3,
-  "last_updated": "2026-09-07T09:15:28.688398+00:00",
+  "last_updated": "2026-09-07T09:19:15.568302+00:00",
   "players": [
     {
       "rank": 1,
@@ -66,24 +66,24 @@
     },
     {
       "rank": 6,
-      "last_rank": 6,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 51,
-      "total_points": 205,
+      "last_rank": 8,
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
+      "team_id": 7300406,
+      "gw_points": 60,
+      "total_points": 207,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 0
     },
     {
       "rank": 7,
-      "last_rank": 8,
-      "team_name": "Eyad",
-      "manager_name": "eyad Fares",
-      "team_id": 7300406,
-      "gw_points": 57,
-      "total_points": 204,
+      "last_rank": 6,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 51,
+      "total_points": 205,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 0
@@ -117,14 +117,14 @@
     "gw": 3,
     "top_scorers": [
       {
+        "team_name": "Eyad",
+        "manager_name": "eyad Fares",
+        "points": 60
+      },
+      {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
         "points": 58
-      },
-      {
-        "team_name": "Eyad",
-        "manager_name": "eyad Fares",
-        "points": 57
       },
       {
         "team_name": "Pushing's Team",
@@ -132,8 +132,8 @@
         "points": 55
       }
     ],
-    "average_score": 51.2,
-    "highest_score": 58,
+    "average_score": 51.6,
+    "highest_score": 60,
     "lowest_score": 44,
     "derby": {
       "team_a": "Isco FC",
