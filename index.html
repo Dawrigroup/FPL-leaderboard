@@ -443,7 +443,7 @@
     <div class="menu-btn" id="menu-btn"></div>
     <div class="menu-dropdown" id="menu-dropdown">
       <div class="menu-item active" data-view="table">جدول الدوري</div>
-      <div class="menu-item" data-view="recap">ملخص الجولة</div>
+      <a class="menu-item" href="journal.html" style="display:block; text-decoration:none;">مجلة الجولة</a>
     </div>
 
     <header>
@@ -483,11 +483,6 @@
       <div class="msg" id="loading-msg">جاري تحميل الترتيب…</div>
     </div>
 
-    <div id="view-recap" style="display:none">
-      <div id="recap-content"></div>
-      <div class="msg" id="recap-msg" style="display:none">لا يوجد ملخص متاح لهذه الجولة بعد.</div>
-    </div>
-
     <footer>يتحدث تلقائياً · المصدر: fantasy.premierleague.com</footer>
   </div>
 
@@ -513,26 +508,12 @@
 
   const menuBtn = document.getElementById('menu-btn');
   const menuDropdown = document.getElementById('menu-dropdown');
-  const viewTable = document.getElementById('view-table');
-  const viewRecap = document.getElementById('view-recap');
 
   menuBtn.addEventListener('click', (e) => {
     e.stopPropagation();
     menuDropdown.classList.toggle('open');
   });
   document.addEventListener('click', () => menuDropdown.classList.remove('open'));
-
-  document.querySelectorAll('.menu-item').forEach(item => {
-    item.addEventListener('click', () => {
-      document.querySelectorAll('.menu-item').forEach(i => i.classList.remove('active'));
-      item.classList.add('active');
-      const view = item.dataset.view;
-      viewTable.style.display = view === 'table' ? 'block' : 'none';
-      viewRecap.style.display = view === 'recap' ? 'block' : 'none';
-      menuDropdown.classList.remove('open');
-      if (view === 'recap' && latestData) renderRecap(latestData);
-    });
-  });
 
   function renderTable(data) {
     if (!data.players || data.players.length === 0) {
@@ -602,100 +583,6 @@
     }
   }
 
-  function renderRecap(data) {
-    const s = data.gw_summary;
-    const container = document.getElementById('recap-content');
-    const msg = document.getElementById('recap-msg');
-
-    if (!s) {
-      container.innerHTML = '';
-      msg.style.display = 'block';
-      return;
-    }
-    msg.style.display = 'none';
-
-    const medalNames = ['🥇', '🥈', '🥉'];
-    const top3Html = (s.top_scorers || []).map((p, i) => `
-      <div class="recap-row">
-        <div class="rn">${medalNames[i] || (i + 1)}</div>
-        <div class="rteam">${escapeHtml(p.team_name)}</div>
-        <div class="rpts">${p.points}</div>
-      </div>
-    `).join('');
-
-    const statGridHtml = `
-      <div class="stat-grid">
-        <div class="stat-card"><div class="sval">${s.average_score ?? '–'}</div><div class="slbl">متوسط الجولة</div></div>
-        <div class="stat-card"><div class="sval">${s.highest_score ?? '–'}</div><div class="slbl">أعلى رصيد</div></div>
-        <div class="stat-card"><div class="sval">${s.lowest_score ?? '–'}</div><div class="slbl">أقل رصيد</div></div>
-      </div>
-    `;
-
-    let captainsHtml = '';
-    if (s.bench_king || s.worst_captain || s.best_differential_captain) {
-      captainsHtml += `<div class="section-title">🎖️ أفضل اختيار كابتن</div>`;
-      if (s.bench_king) {
-        captainsHtml += `
-          <div class="cap-card">
-            <div class="cval">${s.bench_king.bench_points}</div>
-            <div class="cinfo">
-              <div class="cwho">${escapeHtml(s.bench_king.team_name)}</div>
-              <div class="cwhat">👑 ملك الدكة — أكثر نقاط بقيت على الدكة</div>
-            </div>
-          </div>
-        `;
-      }
-      if (s.worst_captain) {
-        captainsHtml += `
-          <div class="cap-card">
-            <div class="cval">${s.worst_captain.captain_points}</div>
-            <div class="cinfo">
-              <div class="cwho">${escapeHtml(s.worst_captain.team_name)}</div>
-              <div class="cwhat">📉 الكبتنة الضائعة — كابتن ${escapeHtml(s.worst_captain.captain_name)}</div>
-            </div>
-          </div>
-        `;
-      }
-      if (s.best_differential_captain) {
-        captainsHtml += `
-          <div class="cap-card">
-            <div class="cval">${s.best_differential_captain.captain_points}</div>
-            <div class="cinfo">
-              <div class="cwho">${escapeHtml(s.best_differential_captain.team_name)}</div>
-              <div class="cwhat">🐺 الذئب المنفرد — كابتن ${escapeHtml(s.best_differential_captain.captain_name)} وحده</div>
-            </div>
-          </div>
-        `;
-      }
-    }
-
-    let derbyHtml = '';
-    if (s.derby) {
-      derbyHtml = `
-        <div class="derby-box">
-          <div class="dlbl">⚔️ ديربي الجولة — أقرب ثنائي بالترتيب</div>
-          <div class="derby-row">
-            <div class="derby-team">${escapeHtml(s.derby.team_a)}<br><span class="derby-score">${s.derby.score_a}</span></div>
-            <div class="derby-vs">VS</div>
-            <div class="derby-team">${escapeHtml(s.derby.team_b)}<br><span class="derby-score">${s.derby.score_b}</span></div>
-          </div>
-          <div class="derby-diff">فرق ${s.derby.diff} نقطة فقط بينهم</div>
-        </div>
-      `;
-    }
-
-    container.innerHTML = `
-      <div class="recap-hero">
-        <div class="rlbl">ملخص الجولة</div>
-        <div class="rtitle">الجولة ${s.gw}</div>
-        <div class="rtag">🔥 ${escapeHtml(s.top_scorers?.[0]?.team_name || '')} — ${s.highest_score} نقطة</div>
-      </div>
-      <div class="recap-top3">${top3Html}</div>
-      ${statGridHtml}
-      ${captainsHtml}
-      ${derbyHtml}
-    `;
-  }
 
   async function loadData() {
     try {
@@ -709,10 +596,6 @@
       document.getElementById('gw-num').textContent = data.current_gw ?? '—';
 
       renderTable(data);
-
-      if (viewRecap.style.display !== 'none') {
-        renderRecap(data);
-      }
     } catch (e) {
       document.getElementById('loading-msg').textContent =
         'لا توجد بيانات بعد — قد يستغرق أول تحديث حتى 15 دقيقة بعد الإعداد.';
