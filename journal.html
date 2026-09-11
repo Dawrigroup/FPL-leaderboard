@@ -313,31 +313,49 @@
 
   document.getElementById('btn-img').addEventListener('click', () => {
     captureSheet((canvas) => {
-      canvas.toBlob(async (blob) => {
-        if (!blob) return;
-        const file = new File([blob], 'gw-journal.png', { type: 'image/png' });
+      const dataUrl = canvas.toDataURL('image/png');
 
-        // iOS Safari ignores the download attribute for images, so use the
-        // native share sheet when available — this also lets people share
-        // straight to WhatsApp in one tap.
-        if (navigator.canShare && navigator.canShare({ files: [file] })) {
-          try {
-            await navigator.share({ files: [file], title: 'مجلة الجولة' });
-            return;
-          } catch (e) {
-            // user cancelled the share sheet — fall through to download
+      // Try the native share sheet first (best UX when it works)
+      canvas.toBlob(async (blob) => {
+        if (blob && navigator.canShare) {
+          const file = new File([blob], 'gw-journal.png', { type: 'image/png' });
+          if (navigator.canShare({ files: [file] })) {
+            try {
+              await navigator.share({ files: [file], title: 'مجلة الجولة' });
+              return;
+            } catch (e) {
+              // fall through to the reliable preview below
+            }
           }
         }
-
-        // Desktop / Android fallback: normal download link
-        const link = document.createElement('a');
-        link.download = 'gw-journal.png';
-        link.href = URL.createObjectURL(blob);
-        link.click();
-        URL.revokeObjectURL(link.href);
       }, 'image/png');
+
+      // Always show a reliable fallback: an on-page preview the person can
+      // long-press to save or share — this works on every browser, with no
+      // permission or timing quirks.
+      showImagePreview(dataUrl);
     });
   });
+
+  function showImagePreview(dataUrl) {
+    let overlay = document.getElementById('img-preview-overlay');
+    if (!overlay) {
+      overlay = document.createElement('div');
+      overlay.id = 'img-preview-overlay';
+      overlay.style.cssText = 'position:fixed; inset:0; background:rgba(20,10,40,0.85); z-index:999; display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px; gap:14px;';
+      document.body.appendChild(overlay);
+    }
+    overlay.innerHTML = `
+      <div style="color:#fff; font-family:'Cairo',sans-serif; font-weight:800; font-size:14px; text-align:center;">
+        اضغط مطولاً على الصورة لحفظها أو مشاركتها
+      </div>
+      <img src="${dataUrl}" style="max-width:90vw; max-height:70vh; border-radius:14px; box-shadow:0 10px 30px rgba(0,0,0,0.4);" />
+      <button id="close-preview" style="font-family:'Cairo',sans-serif; font-weight:800; font-size:13px; border:none; border-radius:999px; padding:9px 20px; cursor:pointer; color:#fff; background:rgba(255,255,255,0.15);">إغلاق</button>
+    `;
+    document.getElementById('close-preview').addEventListener('click', () => {
+      overlay.remove();
+    });
+  }
 
   document.getElementById('btn-pdf').addEventListener('click', () => {
     captureSheet((canvas) => {
