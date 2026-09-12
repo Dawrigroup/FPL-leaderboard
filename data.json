@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T15:35:25.495753+00:00",
+  "last_updated": "2026-09-12T15:40:26.957310+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 41,
-      "total_points": 252,
+      "gw_points": 40,
+      "total_points": 251,
       "captain_name": "Palmer",
       "chip": "TC",
       "yet_to_play": 11
@@ -70,8 +70,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 21,
-      "total_points": 232,
+      "gw_points": 17,
+      "total_points": 228,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -119,7 +119,7 @@
       {
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
-        "points": 41
+        "points": 40
       },
       {
         "team_name": "Omar",
@@ -132,8 +132,8 @@
         "points": 33
       }
     ],
-    "average_score": 26.9,
-    "highest_score": 41,
+    "average_score": 26.3,
+    "highest_score": 40,
     "lowest_score": 13,
     "derby": {
       "team_a": "Sultan",
@@ -145,7 +145,7 @@
     "bench_king": {
       "team_name": "soprano",
       "manager_name": "Hamad F",
-      "bench_points": 15
+      "bench_points": 12
     },
     "worst_captain": {
       "team_name": "Eyad",
