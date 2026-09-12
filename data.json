@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T20:40:29.839917+00:00",
+  "last_updated": "2026-09-12T20:49:30.041997+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 58,
-      "total_points": 298,
+      "gw_points": 57,
+      "total_points": 297,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 5
@@ -34,8 +34,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 49,
-      "total_points": 280,
+      "gw_points": 48,
+      "total_points": 279,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 7
@@ -70,8 +70,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 47,
-      "total_points": 245,
+      "gw_points": 46,
+      "total_points": 244,
       "captain_name": "Haaland",
       "chip": "FT",
       "yet_to_play": 6
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 24,
-      "total_points": 191,
+      "gw_points": 23,
+      "total_points": 190,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -122,25 +122,25 @@
         "points": 61
       },
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 58
-      },
-      {
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
         "points": 58
+      },
+      {
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 57
       }
     ],
-    "average_score": 45.0,
+    "average_score": 44.6,
     "highest_score": 61,
     "lowest_score": 22,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "soprano",
       "score_a": 243,
-      "score_b": 245,
-      "diff": 2
+      "score_b": 244,
+      "diff": 1
     },
     "bench_king": {
       "team_name": "soprano",
