@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T20:10:28.292864+00:00",
+  "last_updated": "2026-09-12T20:15:27.100767+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 48,
-      "total_points": 288,
+      "gw_points": 47,
+      "total_points": 287,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 5
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 39,
-      "total_points": 270,
+      "gw_points": 38,
+      "total_points": 269,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 7
@@ -82,8 +82,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 29,
-      "total_points": 227,
+      "gw_points": 28,
+      "total_points": 226,
       "captain_name": "Haaland",
       "chip": "FT",
       "yet_to_play": 6
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 19,
-      "total_points": 186,
+      "gw_points": 18,
+      "total_points": 185,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -117,22 +117,22 @@
     "gw": 4,
     "top_scorers": [
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 48
-      },
-      {
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
         "points": 48
       },
       {
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 47
+      },
+      {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 39
+        "points": 38
       }
     ],
-    "average_score": 32.1,
+    "average_score": 31.7,
     "highest_score": 48,
     "lowest_score": 17,
     "derby": {
