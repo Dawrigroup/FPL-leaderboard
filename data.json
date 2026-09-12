@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T15:55:23.193425+00:00",
+  "last_updated": "2026-09-12T16:00:44.281491+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 275,
       "captain_name": "Palmer",
       "chip": "WC",
-      "yet_to_play": 9
+      "yet_to_play": 6
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "total_points": 264,
       "captain_name": "Palmer",
       "chip": "WC",
-      "yet_to_play": 10
+      "yet_to_play": 7
     },
     {
       "rank": 3,
@@ -38,7 +38,7 @@
       "total_points": 257,
       "captain_name": "Palmer",
       "chip": "TC",
-      "yet_to_play": 10
+      "yet_to_play": 7
     },
     {
       "rank": 4,
@@ -50,7 +50,7 @@
       "total_points": 255,
       "captain_name": "Palmer",
       "chip": "WC",
-      "yet_to_play": 10
+      "yet_to_play": 7
     },
     {
       "rank": 5,
@@ -62,7 +62,7 @@
       "total_points": 235,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 7
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "total_points": 228,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 9
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "total_points": 221,
       "captain_name": "Haaland",
       "chip": "FT",
-      "yet_to_play": 9
+      "yet_to_play": 7
     },
     {
       "rank": 8,
@@ -98,7 +98,7 @@
       "total_points": 220,
       "captain_name": "B.Fernandes",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 9
     },
     {
       "rank": 9,
@@ -110,7 +110,7 @@
       "total_points": 180,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 9
     }
   ],
   "gw_summary": {
@@ -145,7 +145,7 @@
     "bench_king": {
       "team_name": "soprano",
       "manager_name": "Hamad F",
-      "bench_points": 11
+      "bench_points": 15
     },
     "worst_captain": {
       "team_name": "Eyad",
