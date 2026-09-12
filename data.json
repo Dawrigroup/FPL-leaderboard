@@ -1,8 +1,8 @@
 {
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
-  "current_gw": 3,
-  "last_updated": "2026-09-12T12:57:18.641786+00:00",
+  "current_gw": 4,
+  "last_updated": "2026-09-12T13:15:37.267788+00:00",
   "players": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "team_id": 58609,
       "gw_points": 58,
       "total_points": 240,
-      "captain_name": "Haaland",
-      "chip": "TC",
-      "yet_to_play": 0
+      "captain_name": "Palmer",
+      "chip": "WC",
+      "yet_to_play": 11
     },
     {
       "rank": 2,
@@ -24,9 +24,9 @@
       "team_id": 4359394,
       "gw_points": 53,
       "total_points": 231,
-      "captain_name": "Haaland",
-      "chip": "TC",
-      "yet_to_play": 0
+      "captain_name": "Palmer",
+      "chip": "WC",
+      "yet_to_play": 11
     },
     {
       "rank": 3,
@@ -36,9 +36,9 @@
       "team_id": 6669538,
       "gw_points": 51,
       "total_points": 222,
-      "captain_name": "Haaland",
-      "chip": "TC",
-      "yet_to_play": 0
+      "captain_name": "Palmer",
+      "chip": "WC",
+      "yet_to_play": 11
     },
     {
       "rank": 4,
@@ -48,9 +48,9 @@
       "team_id": 379699,
       "gw_points": 44,
       "total_points": 211,
-      "captain_name": "Haaland",
-      "chip": "WC",
-      "yet_to_play": 0
+      "captain_name": "Palmer",
+      "chip": "TC",
+      "yet_to_play": 11
     },
     {
       "rank": 5,
@@ -61,8 +61,8 @@
       "gw_points": 55,
       "total_points": 211,
       "captain_name": "Haaland",
-      "chip": "TC",
-      "yet_to_play": 0
+      "chip": "",
+      "yet_to_play": 11
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "total_points": 207,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 7,
@@ -84,9 +84,9 @@
       "team_id": 8036192,
       "gw_points": 51,
       "total_points": 205,
-      "captain_name": "Haaland",
+      "captain_name": "B.Fernandes",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 8,
@@ -97,8 +97,8 @@
       "gw_points": 48,
       "total_points": 198,
       "captain_name": "Haaland",
-      "chip": "TC",
-      "yet_to_play": 0
+      "chip": "FT",
+      "yet_to_play": 11
     },
     {
       "rank": 9,
@@ -110,11 +110,11 @@
       "total_points": 167,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     }
   ],
   "gw_summary": {
-    "gw": 3,
+    "gw": 4,
     "top_scorers": [
       {
         "team_name": "Eyad",
@@ -143,17 +143,23 @@
       "diff": 0
     },
     "bench_king": {
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "bench_points": 21
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "bench_points": 0
     },
     "worst_captain": {
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "captain_id": 411,
-      "captain_name": "Haaland",
-      "captain_points": 9
+      "captain_id": 154,
+      "captain_name": "Palmer",
+      "captain_points": 0
     },
-    "best_differential_captain": null
+    "best_differential_captain": {
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "captain_id": 426,
+      "captain_name": "B.Fernandes",
+      "captain_points": 0
+    }
   }
 }
