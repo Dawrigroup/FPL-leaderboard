@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T19:35:25.082195+00:00",
+  "last_updated": "2026-09-12T19:40:36.944731+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 45,
-      "total_points": 285,
+      "gw_points": 47,
+      "total_points": 287,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 5
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 36,
-      "total_points": 267,
+      "gw_points": 38,
+      "total_points": 269,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 7
@@ -82,8 +82,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 26,
-      "total_points": 224,
+      "gw_points": 28,
+      "total_points": 226,
       "captain_name": "Haaland",
       "chip": "FT",
       "yet_to_play": 6
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 16,
-      "total_points": 183,
+      "gw_points": 18,
+      "total_points": 185,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -124,17 +124,17 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 45
+        "points": 47
       },
       {
-        "team_name": "RIP WATKINS",
-        "manager_name": "A A",
+        "team_name": "Doku the goat",
+        "manager_name": "Doku Is the best winger",
         "points": 38
       }
     ],
-    "average_score": 30.8,
+    "average_score": 31.7,
     "highest_score": 48,
-    "lowest_score": 16,
+    "lowest_score": 17,
     "derby": {
       "team_a": "Isco FC",
       "team_b": "RIP WATKINS",
