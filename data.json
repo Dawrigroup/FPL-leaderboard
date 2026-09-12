@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T14:33:35.888483+00:00",
+  "last_updated": "2026-09-12T14:35:24.880045+00:00",
   "players": [
     {
       "rank": 1,
@@ -35,10 +35,7 @@
       "manager_name": "A A",
       "team_id": 6669538,
       "gw_points": 18,
-      "total_points": 240,
-      "captain_name": "Palmer",
-      "chip": "WC",
-      "yet_to_play": 11
+      "total_points": 240
     },
     {
       "rank": 4,
@@ -46,8 +43,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 21,
-      "total_points": 232,
+      "gw_points": 20,
+      "total_points": 231,
       "captain_name": "Palmer",
       "chip": "TC",
       "yet_to_play": 11
@@ -119,7 +116,7 @@
       {
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
-        "points": 21
+        "points": 20
       },
       {
         "team_name": "Omar",
@@ -132,8 +129,8 @@
         "points": 18
       }
     ],
-    "average_score": 13.8,
-    "highest_score": 21,
+    "average_score": 13.7,
+    "highest_score": 20,
     "lowest_score": 6,
     "derby": {
       "team_a": "soprano",
