@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T13:55:23.611472+00:00",
+  "last_updated": "2026-09-12T14:00:44.613489+00:00",
   "players": [
     {
       "rank": 1,
@@ -66,7 +66,7 @@
     },
     {
       "rank": 6,
-      "last_rank": 8,
+      "last_rank": 6,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
@@ -78,7 +78,7 @@
     },
     {
       "rank": 7,
-      "last_rank": 6,
+      "last_rank": 7,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
@@ -90,7 +90,7 @@
     },
     {
       "rank": 8,
-      "last_rank": 7,
+      "last_rank": 8,
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
