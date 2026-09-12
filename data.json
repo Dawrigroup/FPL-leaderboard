@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T17:57:08.219258+00:00",
+  "last_updated": "2026-09-12T18:00:47.687370+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 41,
-      "total_points": 281,
+      "gw_points": 42,
+      "total_points": 282,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 6
@@ -30,18 +30,6 @@
     },
     {
       "rank": 3,
-      "last_rank": 3,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 36,
-      "total_points": 258,
-      "captain_name": "Palmer",
-      "chip": "WC",
-      "yet_to_play": 7
-    },
-    {
-      "rank": 4,
       "last_rank": 4,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -51,6 +39,18 @@
       "captain_name": "Palmer",
       "chip": "TC",
       "yet_to_play": 6
+    },
+    {
+      "rank": 4,
+      "last_rank": 3,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 35,
+      "total_points": 257,
+      "captain_name": "Palmer",
+      "chip": "WC",
+      "yet_to_play": 7
     },
     {
       "rank": 5,
@@ -124,23 +124,23 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 41
+        "points": 42
       },
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 36
+        "points": 35
       }
     ],
     "average_score": 28.0,
     "highest_score": 46,
     "lowest_score": 13,
     "derby": {
-      "team_a": "Sultan",
-      "team_b": "soprano",
-      "score_a": 220,
-      "score_b": 221,
-      "diff": 1
+      "team_a": "Isco FC",
+      "team_b": "RIP WATKINS",
+      "score_a": 257,
+      "score_b": 257,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "soprano",
