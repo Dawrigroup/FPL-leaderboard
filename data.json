@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T16:35:24.554100+00:00",
+  "last_updated": "2026-09-12T16:40:32.539453+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 35,
-      "total_points": 275,
+      "gw_points": 36,
+      "total_points": 276,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 6
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 33,
-      "total_points": 255,
+      "gw_points": 34,
+      "total_points": 256,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 7
@@ -124,15 +124,15 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 35
+        "points": 36
       },
       {
-        "team_name": "Doku the goat",
-        "manager_name": "Doku Is the best winger",
-        "points": 33
+        "team_name": "RIP WATKINS",
+        "manager_name": "A A",
+        "points": 34
       }
     ],
-    "average_score": 27.0,
+    "average_score": 27.2,
     "highest_score": 46,
     "lowest_score": 13,
     "derby": {
