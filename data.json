@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T18:20:36.452421+00:00",
+  "last_updated": "2026-09-12T18:25:22.494103+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 282,
       "captain_name": "Palmer",
       "chip": "WC",
-      "yet_to_play": 6
+      "yet_to_play": 5
     },
     {
       "rank": 2,
@@ -50,7 +50,7 @@
       "total_points": 257,
       "captain_name": "Palmer",
       "chip": "WC",
-      "yet_to_play": 7
+      "yet_to_play": 6
     },
     {
       "rank": 5,
