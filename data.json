@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-12T14:25:23.414786+00:00",
+  "last_updated": "2026-09-12T14:30:41.329163+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 14,
-      "total_points": 254,
+      "gw_points": 19,
+      "total_points": 259,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 11
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 13,
-      "total_points": 244,
+      "gw_points": 18,
+      "total_points": 249,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 11
@@ -34,8 +34,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 13,
-      "total_points": 235,
+      "gw_points": 18,
+      "total_points": 240,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 11
@@ -46,8 +46,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 15,
-      "total_points": 226,
+      "gw_points": 21,
+      "total_points": 232,
       "captain_name": "Palmer",
       "chip": "TC",
       "yet_to_play": 11
@@ -58,8 +58,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 12,
-      "total_points": 219,
+      "gw_points": 17,
+      "total_points": 224,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -70,8 +70,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 6,
-      "total_points": 217,
+      "gw_points": 8,
+      "total_points": 219,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -82,8 +82,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 5,
-      "total_points": 210,
+      "gw_points": 7,
+      "total_points": 212,
       "captain_name": "B.Fernandes",
       "chip": "",
       "yet_to_play": 11
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 8,
-      "total_points": 206,
+      "gw_points": 10,
+      "total_points": 208,
       "captain_name": "Haaland",
       "chip": "FT",
       "yet_to_play": 11
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 4,
-      "total_points": 171,
+      "gw_points": 6,
+      "total_points": 173,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -119,33 +119,33 @@
       {
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
-        "points": 15
+        "points": 21
       },
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 14
+        "points": 19
       },
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 13
+        "points": 18
       }
     ],
-    "average_score": 10.0,
-    "highest_score": 15,
-    "lowest_score": 4,
+    "average_score": 13.8,
+    "highest_score": 21,
+    "lowest_score": 6,
     "derby": {
-      "team_a": "Pushing's Team",
-      "team_b": "Eyad",
-      "score_a": 217,
-      "score_b": 219,
-      "diff": 2
+      "team_a": "soprano",
+      "team_b": "Sultan",
+      "score_a": 208,
+      "score_b": 212,
+      "diff": 4
     },
     "bench_king": {
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "bench_points": 2
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "bench_points": 7
     },
     "worst_captain": {
       "team_name": "Eyad",
