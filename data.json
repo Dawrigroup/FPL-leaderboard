@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-13T14:40:28.780988+00:00",
+  "last_updated": "2026-09-13T14:44:24.152655+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 67,
-      "total_points": 307,
+      "gw_points": 68,
+      "total_points": 308,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 2
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 65,
-      "total_points": 296,
+      "gw_points": 66,
+      "total_points": 297,
       "captain_name": "Palmer",
       "chip": "WC",
       "yet_to_play": 4
@@ -119,12 +119,12 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 67
+        "points": 68
       },
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 65
+        "points": 66
       },
       {
         "team_name": "Isco FC",
@@ -132,8 +132,8 @@
         "points": 65
       }
     ],
-    "average_score": 52.2,
-    "highest_score": 67,
+    "average_score": 52.4,
+    "highest_score": 68,
     "lowest_score": 30,
     "derby": {
       "team_a": "Sultan",
