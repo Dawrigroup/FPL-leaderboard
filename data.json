@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 4,
-  "last_updated": "2026-09-14T19:45:27.635194+00:00",
+  "last_updated": "2026-09-14T19:50:32.083607+00:00",
   "players": [
     {
       "rank": 1,
@@ -70,8 +70,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 70,
-      "total_points": 275,
+      "gw_points": 73,
+      "total_points": 278,
       "captain_name": "B.Fernandes",
       "chip": "",
       "yet_to_play": 1
@@ -132,15 +132,15 @@
         "points": 76
       }
     ],
-    "average_score": 69.8,
+    "average_score": 70.1,
     "highest_score": 77,
     "lowest_score": 54,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "Sultan",
       "score_a": 274,
-      "score_b": 275,
-      "diff": 1
+      "score_b": 278,
+      "diff": 4
     },
     "bench_king": {
       "team_name": "RIP WATKINS",
