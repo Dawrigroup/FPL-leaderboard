@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T19:55:23.297870+00:00",
+  "last_updated": "2026-09-19T20:00:42.031684+00:00",
   "players": [
     {
       "rank": 1,
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 11,
-      "total_points": 286,
+      "gw_points": 10,
+      "total_points": 285,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -132,7 +132,7 @@
         "points": 20
       }
     ],
-    "average_score": 16.6,
+    "average_score": 16.4,
     "highest_score": 25,
     "lowest_score": 8,
     "derby": {
