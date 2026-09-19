@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T14:40:26.575458+00:00",
+  "last_updated": "2026-09-19T14:44:26.389345+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 13,
-      "total_points": 322,
+      "gw_points": 12,
+      "total_points": 321,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 8
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 6,
-      "total_points": 281,
+      "gw_points": 5,
+      "total_points": 280,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 5,
-      "total_points": 269,
+      "gw_points": 4,
+      "total_points": 268,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 7,
-      "total_points": 229,
+      "gw_points": 6,
+      "total_points": 228,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 11
@@ -132,15 +132,15 @@
         "points": 15
       }
     ],
-    "average_score": 11.2,
+    "average_score": 10.8,
     "highest_score": 18,
-    "lowest_score": 5,
+    "lowest_score": 4,
     "derby": {
-      "team_a": "Doku the goat",
-      "team_b": "Omar",
-      "score_a": 322,
-      "score_b": 326,
-      "diff": 4
+      "team_a": "Eyad",
+      "team_b": "Isco FC",
+      "score_a": 298,
+      "score_b": 303,
+      "diff": 5
     },
     "bench_king": {
       "team_name": "Doku the goat",
