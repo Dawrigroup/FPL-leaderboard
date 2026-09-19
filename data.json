@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T17:05:25.001798+00:00",
+  "last_updated": "2026-09-19T17:10:29.670462+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 18,
-      "total_points": 306,
+      "gw_points": 19,
+      "total_points": 307,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -127,12 +127,12 @@
         "points": 22
       },
       {
-        "team_name": "Eyad",
-        "manager_name": "eyad Fares",
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
         "points": 19
       }
     ],
-    "average_score": 16.1,
+    "average_score": 16.2,
     "highest_score": 24,
     "lowest_score": 8,
     "derby": {
