@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T15:31:03.603746+00:00",
+  "last_updated": "2026-09-19T15:35:24.546149+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 22,
-      "total_points": 331,
+      "gw_points": 23,
+      "total_points": 332,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 8
@@ -34,8 +34,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 25,
-      "total_points": 319,
+      "gw_points": 20,
+      "total_points": 314,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -46,8 +46,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 20,
-      "total_points": 308,
+      "gw_points": 15,
+      "total_points": 303,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 7
@@ -58,8 +58,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 22,
-      "total_points": 304,
+      "gw_points": 17,
+      "total_points": 299,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 16,
-      "total_points": 238,
+      "gw_points": 17,
+      "total_points": 239,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 11
@@ -117,29 +117,29 @@
     "gw": 5,
     "top_scorers": [
       {
-        "team_name": "RIP WATKINS",
-        "manager_name": "A A",
-        "points": 25
-      },
-      {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 22
+        "points": 23
+      },
+      {
+        "team_name": "RIP WATKINS",
+        "manager_name": "A A",
+        "points": 20
       },
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 22
+        "points": 17
       }
     ],
-    "average_score": 16.7,
-    "highest_score": 25,
+    "average_score": 15.2,
+    "highest_score": 23,
     "lowest_score": 8,
     "derby": {
       "team_a": "Eyad",
       "team_b": "Isco FC",
-      "score_a": 304,
-      "score_b": 308,
+      "score_a": 299,
+      "score_b": 303,
       "diff": 4
     },
     "bench_king": {
