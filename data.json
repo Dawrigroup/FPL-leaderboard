@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T13:45:26.293419+00:00",
+  "last_updated": "2026-09-19T13:47:15.361020+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 323,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 8
+      "yet_to_play": 7
     },
     {
       "rank": 2,
@@ -50,7 +50,7 @@
       "total_points": 292,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 8
+      "yet_to_play": 7
     },
     {
       "rank": 5,
@@ -74,7 +74,7 @@
       "total_points": 279,
       "captain_name": "Haaland",
       "chip": "TC",
-      "yet_to_play": 10
+      "yet_to_play": 9
     },
     {
       "rank": 7,
