@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T15:50:30.142041+00:00",
+  "last_updated": "2026-09-19T15:55:21.883654+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 23,
-      "total_points": 332,
+      "gw_points": 21,
+      "total_points": 330,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 8
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 17,
-      "total_points": 239,
+      "gw_points": 15,
+      "total_points": 237,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 11
@@ -119,7 +119,7 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 23
+        "points": 21
       },
       {
         "team_name": "RIP WATKINS",
@@ -132,15 +132,15 @@
         "points": 17
       }
     ],
-    "average_score": 15.2,
-    "highest_score": 23,
+    "average_score": 14.8,
+    "highest_score": 21,
     "lowest_score": 8,
     "derby": {
-      "team_a": "Eyad",
-      "team_b": "Isco FC",
-      "score_a": 299,
-      "score_b": 303,
-      "diff": 4
+      "team_a": "Omar",
+      "team_b": "Doku the goat",
+      "score_a": 327,
+      "score_b": 330,
+      "diff": 3
     },
     "bench_king": {
       "team_name": "Doku the goat",
