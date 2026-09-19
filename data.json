@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T11:35:24.924106+00:00",
+  "last_updated": "2026-09-19T11:40:02.119686+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 4,
-      "total_points": 321,
+      "gw_points": 5,
+      "total_points": 322,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -70,8 +70,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 0,
-      "total_points": 277,
+      "gw_points": 1,
+      "total_points": 278,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 10
@@ -124,7 +124,7 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 4
+        "points": 5
       },
       {
         "team_name": "RIP WATKINS",
@@ -132,20 +132,20 @@
         "points": 4
       }
     ],
-    "average_score": 2.4,
+    "average_score": 2.7,
     "highest_score": 6,
     "lowest_score": 0,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "Sultan",
       "score_a": 275,
-      "score_b": 277,
-      "diff": 2
+      "score_b": 278,
+      "diff": 3
     },
     "bench_king": {
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "bench_points": 0
+      "team_name": "Doku the goat",
+      "manager_name": "Doku Is the best winger",
+      "bench_points": 1
     },
     "worst_captain": {
       "team_name": "Omar",
