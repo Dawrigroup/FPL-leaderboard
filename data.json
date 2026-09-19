@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T14:10:28.721955+00:00",
+  "last_updated": "2026-09-19T14:15:25.496679+00:00",
   "players": [
     {
       "rank": 1,
@@ -34,8 +34,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 10,
-      "total_points": 304,
+      "gw_points": 16,
+      "total_points": 310,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -46,8 +46,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 7,
-      "total_points": 295,
+      "gw_points": 13,
+      "total_points": 301,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 7
@@ -58,8 +58,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 8,
-      "total_points": 290,
+      "gw_points": 14,
+      "total_points": 296,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -70,8 +70,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 5,
-      "total_points": 282,
+      "gw_points": 4,
+      "total_points": 281,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 9
@@ -117,30 +117,30 @@
     "gw": 5,
     "top_scorers": [
       {
-        "team_name": "Doku the goat",
-        "manager_name": "Doku Is the best winger",
-        "points": 12
-      },
-      {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 10
+        "points": 16
       },
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 9
+        "team_name": "Eyad",
+        "manager_name": "eyad Fares",
+        "points": 14
+      },
+      {
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
+        "points": 13
       }
     ],
-    "average_score": 7.3,
-    "highest_score": 12,
+    "average_score": 9.2,
+    "highest_score": 16,
     "lowest_score": 4,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "Sultan",
       "score_a": 280,
-      "score_b": 282,
-      "diff": 2
+      "score_b": 281,
+      "diff": 1
     },
     "bench_king": {
       "team_name": "Doku the goat",
