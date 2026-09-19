@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T14:35:23.312869+00:00",
+  "last_updated": "2026-09-19T14:40:26.575458+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 14,
-      "total_points": 323,
+      "gw_points": 13,
+      "total_points": 322,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 8
@@ -34,8 +34,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 20,
-      "total_points": 314,
+      "gw_points": 18,
+      "total_points": 312,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -46,8 +46,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 14,
-      "total_points": 302,
+      "gw_points": 15,
+      "total_points": 303,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 7
@@ -58,35 +58,35 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 18,
-      "total_points": 300,
+      "gw_points": 16,
+      "total_points": 298,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
     },
     {
       "rank": 6,
-      "last_rank": 7,
-      "team_name": "Pushing's Team",
-      "manager_name": "Pushing First place",
-      "team_id": 12546,
-      "gw_points": 7,
-      "total_points": 282,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 10
-    },
-    {
-      "rank": 7,
       "last_rank": 6,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 4,
-      "total_points": 281,
+      "gw_points": 12,
+      "total_points": 289,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 9
+    },
+    {
+      "rank": 7,
+      "last_rank": 7,
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "team_id": 12546,
+      "gw_points": 6,
+      "total_points": 281,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 10
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 6,
-      "total_points": 270,
+      "gw_points": 5,
+      "total_points": 269,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 8,
-      "total_points": 230,
+      "gw_points": 7,
+      "total_points": 229,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 11
@@ -119,33 +119,33 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 20
+        "points": 18
       },
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 18
+        "points": 16
       },
       {
-        "team_name": "Doku the goat",
-        "manager_name": "Doku Is the best winger",
-        "points": 14
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
+        "points": 15
       }
     ],
-    "average_score": 11.1,
-    "highest_score": 20,
-    "lowest_score": 4,
+    "average_score": 11.2,
+    "highest_score": 18,
+    "lowest_score": 5,
     "derby": {
-      "team_a": "Sultan",
-      "team_b": "Pushing's Team",
-      "score_a": 281,
-      "score_b": 282,
-      "diff": 1
+      "team_a": "Doku the goat",
+      "team_b": "Omar",
+      "score_a": 322,
+      "score_b": 326,
+      "diff": 4
     },
     "bench_king": {
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
-      "bench_points": 19
+      "bench_points": 20
     },
     "worst_captain": {
       "team_name": "Omar",
