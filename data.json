@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-19T14:30:33.597874+00:00",
+  "last_updated": "2026-09-19T14:34:54.753447+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 12,
-      "total_points": 321,
+      "gw_points": 14,
+      "total_points": 323,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 8
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 6,
-      "total_points": 228,
+      "gw_points": 8,
+      "total_points": 230,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 11
@@ -127,12 +127,12 @@
         "points": 18
       },
       {
-        "team_name": "Isco FC",
-        "manager_name": "Abdulkarim Alkholifey",
+        "team_name": "Doku the goat",
+        "manager_name": "Doku Is the best winger",
         "points": 14
       }
     ],
-    "average_score": 10.7,
+    "average_score": 11.1,
     "highest_score": 20,
     "lowest_score": 4,
     "derby": {
@@ -145,7 +145,7 @@
     "bench_king": {
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
-      "bench_points": 11
+      "bench_points": 19
     },
     "worst_captain": {
       "team_name": "Omar",
