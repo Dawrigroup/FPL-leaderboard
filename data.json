@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-20T16:50:35.039465+00:00",
+  "last_updated": "2026-09-20T16:55:22.636822+00:00",
   "players": [
     {
       "rank": 1,
@@ -58,8 +58,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 40,
-      "total_points": 322,
+      "gw_points": 41,
+      "total_points": 323,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -70,8 +70,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 41,
-      "total_points": 318,
+      "gw_points": 43,
+      "total_points": 320,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 2
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 26,
-      "total_points": 301,
+      "gw_points": 28,
+      "total_points": 303,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 2
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 47,
-      "total_points": 269,
+      "gw_points": 49,
+      "total_points": 271,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 2
@@ -119,28 +119,28 @@
       {
         "team_name": "man fc",
         "manager_name": "Abdulkareem Msep",
-        "points": 47
+        "points": 49
       },
       {
         "team_name": "Sultan",
         "manager_name": "Sultan Adel",
-        "points": 41
+        "points": 43
       },
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 40
+        "points": 41
       }
     ],
-    "average_score": 36.9,
-    "highest_score": 47,
-    "lowest_score": 26,
+    "average_score": 37.7,
+    "highest_score": 49,
+    "lowest_score": 28,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Pushing's Team",
-      "score_a": 297,
-      "score_b": 301,
-      "diff": 4
+      "team_a": "Sultan",
+      "team_b": "Eyad",
+      "score_a": 320,
+      "score_b": 323,
+      "diff": 3
     },
     "bench_king": {
       "team_name": "Doku the goat",
