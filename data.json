@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-20T13:15:26.443017+00:00",
+  "last_updated": "2026-09-20T13:20:30.172274+00:00",
   "players": [
     {
       "rank": 1,
@@ -58,8 +58,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 24,
-      "total_points": 306,
+      "gw_points": 27,
+      "total_points": 309,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -122,17 +122,17 @@
         "points": 28
       },
       {
+        "team_name": "Eyad",
+        "manager_name": "eyad Fares",
+        "points": 27
+      },
+      {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
         "points": 24
-      },
-      {
-        "team_name": "Isco FC",
-        "manager_name": "Abdulkarim Alkholifey",
-        "points": 24
       }
     ],
-    "average_score": 20.4,
+    "average_score": 20.8,
     "highest_score": 28,
     "lowest_score": 13,
     "derby": {
