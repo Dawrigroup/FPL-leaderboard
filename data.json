@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-20T14:30:36.229687+00:00",
+  "last_updated": "2026-09-20T14:35:23.604401+00:00",
   "players": [
     {
       "rank": 1,
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 33,
-      "total_points": 255,
+      "gw_points": 32,
+      "total_points": 254,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 5
@@ -119,7 +119,7 @@
       {
         "team_name": "man fc",
         "manager_name": "Abdulkareem Msep",
-        "points": 33
+        "points": 32
       },
       {
         "team_name": "RIP WATKINS",
@@ -132,8 +132,8 @@
         "points": 31
       }
     ],
-    "average_score": 26.4,
-    "highest_score": 33,
+    "average_score": 26.3,
+    "highest_score": 32,
     "lowest_score": 16,
     "derby": {
       "team_a": "Eyad",
