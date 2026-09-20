@@ -2,10 +2,22 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-20T13:50:29.452206+00:00",
+  "last_updated": "2026-09-20T13:55:20.592016+00:00",
   "players": [
     {
       "rank": 1,
+      "last_rank": 1,
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "team_id": 58609,
+      "gw_points": 16,
+      "total_points": 333,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 4
+    },
+    {
+      "rank": 2,
       "last_rank": 2,
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
@@ -15,18 +27,6 @@
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 2
-    },
-    {
-      "rank": 2,
-      "last_rank": 1,
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "team_id": 58609,
-      "gw_points": 15,
-      "total_points": 332,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 4
     },
     {
       "rank": 3,
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 28,
-      "total_points": 250,
+      "gw_points": 27,
+      "total_points": 249,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 5
@@ -122,13 +122,13 @@
         "points": 28
       },
       {
-        "team_name": "man fc",
-        "manager_name": "Abdulkareem Msep",
-        "points": 28
-      },
-      {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
+        "points": 27
+      },
+      {
+        "team_name": "man fc",
+        "manager_name": "Abdulkareem Msep",
         "points": 27
       }
     ],
@@ -138,9 +138,9 @@
     "derby": {
       "team_a": "Omar",
       "team_b": "Doku the goat",
-      "score_a": 332,
+      "score_a": 333,
       "score_b": 333,
-      "diff": 1
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Doku the goat",
