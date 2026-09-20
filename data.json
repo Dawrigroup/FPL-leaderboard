@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-20T13:40:29.212047+00:00",
+  "last_updated": "2026-09-20T13:45:26.668864+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 24,
-      "total_points": 312,
+      "gw_points": 23,
+      "total_points": 311,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 3
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 13,
-      "total_points": 277,
+      "gw_points": 12,
+      "total_points": 276,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -132,9 +132,9 @@
         "points": 27
       }
     ],
-    "average_score": 21.6,
+    "average_score": 21.3,
     "highest_score": 28,
-    "lowest_score": 13,
+    "lowest_score": 12,
     "derby": {
       "team_a": "Omar",
       "team_b": "Doku the goat",
