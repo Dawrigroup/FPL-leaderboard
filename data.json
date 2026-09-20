@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 5,
-  "last_updated": "2026-09-20T13:30:36.179406+00:00",
+  "last_updated": "2026-09-20T13:35:25.695966+00:00",
   "players": [
     {
       "rank": 1,
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 21,
-      "total_points": 243,
+      "gw_points": 28,
+      "total_points": 250,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 5
@@ -122,17 +122,17 @@
         "points": 28
       },
       {
+        "team_name": "man fc",
+        "manager_name": "Abdulkareem Msep",
+        "points": 28
+      },
+      {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
         "points": 27
-      },
-      {
-        "team_name": "Doku the goat",
-        "manager_name": "Doku Is the best winger",
-        "points": 24
       }
     ],
-    "average_score": 20.8,
+    "average_score": 21.6,
     "highest_score": 28,
     "lowest_score": 13,
     "derby": {
