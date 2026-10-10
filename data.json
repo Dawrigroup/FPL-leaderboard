@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T13:15:24.583996+00:00",
+  "last_updated": "2026-10-10T13:20:23.354328+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 13,
-      "total_points": 369,
+      "gw_points": 12,
+      "total_points": 368,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 11,
-      "total_points": 364,
+      "gw_points": 10,
+      "total_points": 363,
       "captain_name": "Groß",
       "chip": "",
       "yet_to_play": 11
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 11,
-      "total_points": 282,
+      "gw_points": 10,
+      "total_points": 281,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -132,7 +132,7 @@
         "points": 14
       }
     ],
-    "average_score": 12.3,
+    "average_score": 12.0,
     "highest_score": 16,
     "lowest_score": 9,
     "derby": {
@@ -143,8 +143,8 @@
       "diff": 3
     },
     "bench_king": {
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
       "bench_points": 2
     },
     "worst_captain": {
