@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T15:05:18.549509+00:00",
+  "last_updated": "2026-10-10T15:10:22.840846+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 30,
-      "total_points": 386,
+      "gw_points": 35,
+      "total_points": 391,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 28,
-      "total_points": 381,
+      "gw_points": 33,
+      "total_points": 386,
       "captain_name": "Groß",
       "chip": "",
       "yet_to_play": 9
@@ -34,47 +34,47 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 29,
-      "total_points": 362,
+      "gw_points": 28,
+      "total_points": 361,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
     },
     {
       "rank": 4,
-      "last_rank": 4,
-      "team_name": "Isco FC",
-      "manager_name": "Abdulkarim Alkholifey",
-      "team_id": 379699,
-      "gw_points": 23,
-      "total_points": 356,
-      "captain_name": "Gibbs-White",
-      "chip": "",
-      "yet_to_play": 10
-    },
-    {
-      "rank": 5,
       "last_rank": 6,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 27,
-      "total_points": 354,
+      "gw_points": 32,
+      "total_points": 359,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
     },
     {
-      "rank": 6,
+      "rank": 5,
       "last_rank": 3,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 18,
-      "total_points": 352,
+      "gw_points": 24,
+      "total_points": 358,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
+    },
+    {
+      "rank": 6,
+      "last_rank": 4,
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
+      "team_id": 379699,
+      "gw_points": 22,
+      "total_points": 355,
+      "captain_name": "Gibbs-White",
+      "chip": "",
+      "yet_to_play": 10
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 15,
-      "total_points": 336,
+      "gw_points": 21,
+      "total_points": 342,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 27,
-      "total_points": 325,
+      "gw_points": 33,
+      "total_points": 331,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 8
@@ -119,33 +119,33 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 30
-      },
-      {
-        "team_name": "RIP WATKINS",
-        "manager_name": "A A",
-        "points": 29
+        "points": 35
       },
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 28
+        "points": 33
+      },
+      {
+        "team_name": "soprano",
+        "manager_name": "Hamad F",
+        "points": 33
       }
     ],
-    "average_score": 23.4,
-    "highest_score": 30,
+    "average_score": 26.9,
+    "highest_score": 35,
     "lowest_score": 14,
     "derby": {
       "team_a": "Sultan",
       "team_b": "Eyad",
-      "score_a": 352,
-      "score_b": 354,
-      "diff": 2
+      "score_a": 358,
+      "score_b": 359,
+      "diff": 1
     },
     "bench_king": {
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
-      "bench_points": 5
+      "bench_points": 11
     },
     "worst_captain": {
       "team_name": "Omar",
