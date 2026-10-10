@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T15:50:21.913608+00:00",
+  "last_updated": "2026-10-10T15:55:18.870716+00:00",
   "players": [
     {
       "rank": 1,
@@ -78,18 +78,6 @@
     },
     {
       "rank": 7,
-      "last_rank": 8,
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "team_id": 5655741,
-      "gw_points": 62,
-      "total_points": 360,
-      "captain_name": "Haaland",
-      "chip": "WC",
-      "yet_to_play": 8
-    },
-    {
-      "rank": 8,
       "last_rank": 7,
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
@@ -98,6 +86,18 @@
       "total_points": 355,
       "captain_name": "Haaland",
       "chip": "",
+      "yet_to_play": 8
+    },
+    {
+      "rank": 8,
+      "last_rank": 8,
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "team_id": 5655741,
+      "gw_points": 56,
+      "total_points": 354,
+      "captain_name": "Haaland",
+      "chip": "WC",
       "yet_to_play": 8
     },
     {
@@ -122,17 +122,17 @@
         "points": 75
       },
       {
-        "team_name": "soprano",
-        "manager_name": "Hamad F",
-        "points": 62
-      },
-      {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
         "points": 60
+      },
+      {
+        "team_name": "Eyad",
+        "manager_name": "eyad Fares",
+        "points": 56
       }
     ],
-    "average_score": 47.9,
+    "average_score": 47.2,
     "highest_score": 75,
     "lowest_score": 33,
     "derby": {
