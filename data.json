@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T16:30:30.015941+00:00",
+  "last_updated": "2026-10-10T16:35:17.364943+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 60,
-      "total_points": 416,
+      "gw_points": 61,
+      "total_points": 417,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 3
@@ -34,14 +34,26 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 56,
-      "total_points": 383,
+      "gw_points": 57,
+      "total_points": 384,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 5
     },
     {
       "rank": 4,
+      "last_rank": 3,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 37,
+      "total_points": 371,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 6
+    },
+    {
+      "rank": 5,
       "last_rank": 4,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -51,18 +63,6 @@
       "captain_name": "Gibbs-White",
       "chip": "",
       "yet_to_play": 7
-    },
-    {
-      "rank": 5,
-      "last_rank": 3,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 34,
-      "total_points": 368,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 6
     },
     {
       "rank": 6,
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 34,
-      "total_points": 355,
+      "gw_points": 36,
+      "total_points": 357,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 42,
-      "total_points": 313,
+      "gw_points": 44,
+      "total_points": 315,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 5
@@ -124,23 +124,23 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 60
+        "points": 61
       },
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 56
+        "points": 57
       }
     ],
-    "average_score": 47.2,
+    "average_score": 48.2,
     "highest_score": 75,
     "lowest_score": 33,
     "derby": {
-      "team_a": "Isco FC",
-      "team_b": "Sultan",
-      "score_a": 368,
+      "team_a": "RIP WATKINS",
+      "team_b": "Isco FC",
+      "score_a": 366,
       "score_b": 368,
-      "diff": 0
+      "diff": 2
     },
     "bench_king": {
       "team_name": "RIP WATKINS",
