@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T12:10:25.292447+00:00",
+  "last_updated": "2026-10-10T12:15:23.885986+00:00",
   "players": [
     {
       "rank": 1,
@@ -143,9 +143,9 @@
       "diff": 2
     },
     "bench_king": {
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "bench_points": 1
+      "team_name": "Doku the goat",
+      "manager_name": "Doku Is the best winger",
+      "bench_points": 3
     },
     "worst_captain": {
       "team_name": "Omar",
