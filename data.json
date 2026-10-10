@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T13:35:18.702606+00:00",
+  "last_updated": "2026-10-10T13:40:21.624619+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 12,
-      "total_points": 368,
+      "gw_points": 14,
+      "total_points": 370,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 14,
-      "total_points": 347,
+      "gw_points": 16,
+      "total_points": 349,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 11,
-      "total_points": 332,
+      "gw_points": 13,
+      "total_points": 334,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -124,23 +124,23 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 14
+        "points": 16
       },
       {
-        "team_name": "soprano",
-        "manager_name": "Hamad F",
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
         "points": 14
       }
     ],
-    "average_score": 12.0,
+    "average_score": 12.7,
     "highest_score": 16,
     "lowest_score": 9,
     "derby": {
-      "team_a": "Eyad",
-      "team_b": "Isco FC",
-      "score_a": 339,
-      "score_b": 342,
-      "diff": 3
+      "team_a": "RIP WATKINS",
+      "team_b": "Sultan",
+      "score_a": 349,
+      "score_b": 350,
+      "diff": 1
     },
     "bench_king": {
       "team_name": "Doku the goat",
