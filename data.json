@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T14:46:16.621484+00:00",
+  "last_updated": "2026-10-10T14:50:23.877673+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 32,
-      "total_points": 385,
+      "gw_points": 30,
+      "total_points": 383,
       "captain_name": "Groß",
       "chip": "",
       "yet_to_play": 9
@@ -54,18 +54,6 @@
     },
     {
       "rank": 5,
-      "last_rank": 3,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 20,
-      "total_points": 354,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 8
-    },
-    {
-      "rank": 6,
       "last_rank": 6,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
@@ -75,6 +63,18 @@
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
+    },
+    {
+      "rank": 6,
+      "last_rank": 3,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 19,
+      "total_points": 353,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 8
     },
     {
       "rank": 7,
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 16,
-      "total_points": 287,
+      "gw_points": 15,
+      "total_points": 286,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -117,13 +117,13 @@
     "gw": 6,
     "top_scorers": [
       {
-        "team_name": "Doku the goat",
-        "manager_name": "Doku Is the best winger",
-        "points": 32
-      },
-      {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
+        "points": 30
+      },
+      {
+        "team_name": "Doku the goat",
+        "manager_name": "Doku Is the best winger",
         "points": 30
       },
       {
@@ -132,19 +132,19 @@
         "points": 29
       }
     ],
-    "average_score": 24.3,
-    "highest_score": 32,
+    "average_score": 23.9,
+    "highest_score": 30,
     "lowest_score": 15,
     "derby": {
       "team_a": "Sultan",
       "team_b": "Eyad",
-      "score_a": 354,
+      "score_a": 353,
       "score_b": 354,
-      "diff": 0
+      "diff": 1
     },
     "bench_king": {
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
       "bench_points": 5
     },
     "worst_captain": {
@@ -159,7 +159,7 @@
       "manager_name": "Doku Is the best winger",
       "captain_id": 124,
       "captain_name": "Groß",
-      "captain_points": 3
+      "captain_points": 1
     }
   }
 }
