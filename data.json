@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T17:50:24.302060+00:00",
+  "last_updated": "2026-10-10T17:55:21.036674+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 61,
-      "total_points": 417,
+      "gw_points": 66,
+      "total_points": 422,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 3
@@ -34,8 +34,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 57,
-      "total_points": 384,
+      "gw_points": 59,
+      "total_points": 386,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 5
@@ -46,8 +46,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 37,
-      "total_points": 371,
+      "gw_points": 46,
+      "total_points": 380,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 36,
-      "total_points": 357,
+      "gw_points": 40,
+      "total_points": 361,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 44,
-      "total_points": 315,
+      "gw_points": 51,
+      "total_points": 322,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 5
@@ -124,15 +124,15 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 61
+        "points": 66
       },
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 57
+        "points": 59
       }
     ],
-    "average_score": 48.2,
+    "average_score": 51.2,
     "highest_score": 75,
     "lowest_score": 33,
     "derby": {
