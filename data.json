@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T13:00:39.863813+00:00",
+  "last_updated": "2026-10-10T13:05:20.132825+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 14,
-      "total_points": 370,
+      "gw_points": 13,
+      "total_points": 369,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 12,
-      "total_points": 365,
+      "gw_points": 11,
+      "total_points": 364,
       "captain_name": "Groß",
       "chip": "",
       "yet_to_play": 11
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 15,
-      "total_points": 348,
+      "gw_points": 14,
+      "total_points": 347,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 10,
-      "total_points": 343,
+      "gw_points": 9,
+      "total_points": 342,
       "captain_name": "Gibbs-White",
       "chip": "",
       "yet_to_play": 11
@@ -70,8 +70,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 13,
-      "total_points": 340,
+      "gw_points": 12,
+      "total_points": 339,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 12,
-      "total_points": 333,
+      "gw_points": 11,
+      "total_points": 332,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 15,
-      "total_points": 313,
+      "gw_points": 14,
+      "total_points": 312,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 11
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 12,
-      "total_points": 283,
+      "gw_points": 11,
+      "total_points": 282,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -124,22 +124,22 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 15
+        "points": 14
       },
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
-        "points": 15
+        "points": 14
       }
     ],
-    "average_score": 13.3,
+    "average_score": 12.4,
     "highest_score": 17,
-    "lowest_score": 10,
+    "lowest_score": 9,
     "derby": {
       "team_a": "Eyad",
       "team_b": "Isco FC",
-      "score_a": 340,
-      "score_b": 343,
+      "score_a": 339,
+      "score_b": 342,
       "diff": 3
     },
     "bench_king": {
