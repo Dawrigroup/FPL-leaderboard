@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-10T11:55:21.714937+00:00",
+  "last_updated": "2026-10-10T12:00:37.643908+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 6,
-      "total_points": 362,
+      "gw_points": 5,
+      "total_points": 361,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -34,8 +34,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 6,
-      "total_points": 339,
+      "gw_points": 5,
+      "total_points": 338,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 5,
-      "total_points": 326,
+      "gw_points": 4,
+      "total_points": 325,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -119,33 +119,33 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 6
+        "points": 5
       },
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 6
+        "points": 5
       },
       {
         "team_name": "Pushing's Team",
         "manager_name": "Pushing First place",
-        "points": 5
+        "points": 4
       }
     ],
-    "average_score": 3.3,
-    "highest_score": 6,
+    "average_score": 3.0,
+    "highest_score": 5,
     "lowest_score": 1,
     "derby": {
       "team_a": "Sultan",
       "team_b": "RIP WATKINS",
       "score_a": 337,
-      "score_b": 339,
-      "diff": 2
+      "score_b": 338,
+      "diff": 1
     },
     "bench_king": {
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
-      "bench_points": 3
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "bench_points": 1
     },
     "worst_captain": {
       "team_name": "Omar",
