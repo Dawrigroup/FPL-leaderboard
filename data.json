@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-11T14:20:29.777540+00:00",
+  "last_updated": "2026-10-11T14:25:19.662600+00:00",
   "players": [
     {
       "rank": 1,
@@ -54,6 +54,18 @@
     },
     {
       "rank": 5,
+      "last_rank": 5,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 42,
+      "total_points": 375,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 6
+    },
+    {
+      "rank": 6,
       "last_rank": 4,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -63,18 +75,6 @@
       "captain_name": "Gibbs-White",
       "chip": "",
       "yet_to_play": 7
-    },
-    {
-      "rank": 6,
-      "last_rank": 5,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 34,
-      "total_points": 367,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 6
     },
     {
       "rank": 7,
@@ -132,20 +132,20 @@
         "points": 63
       }
     ],
-    "average_score": 51.7,
+    "average_score": 52.6,
     "highest_score": 75,
-    "lowest_score": 34,
+    "lowest_score": 38,
     "derby": {
-      "team_a": "Pushing's Team",
+      "team_a": "Isco FC",
       "team_b": "RIP WATKINS",
-      "score_a": 364,
-      "score_b": 367,
-      "diff": 3
+      "score_a": 371,
+      "score_b": 375,
+      "diff": 4
     },
     "bench_king": {
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
-      "bench_points": 28
+      "bench_points": 29
     },
     "worst_captain": {
       "team_name": "Omar",
