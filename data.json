@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-11T13:35:18.469417+00:00",
+  "last_updated": "2026-10-11T13:40:24.947797+00:00",
   "players": [
     {
       "rank": 1,
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 42,
-      "total_points": 375,
+      "gw_points": 40,
+      "total_points": 373,
       "captain_name": "Gibbs-White",
       "chip": "",
       "yet_to_play": 7
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 45,
-      "total_points": 366,
+      "gw_points": 46,
+      "total_points": 367,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -132,15 +132,15 @@
         "points": 63
       }
     ],
-    "average_score": 52.4,
+    "average_score": 52.3,
     "highest_score": 75,
     "lowest_score": 35,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "RIP WATKINS",
-      "score_a": 366,
+      "score_a": 367,
       "score_b": 368,
-      "diff": 2
+      "diff": 1
     },
     "bench_king": {
       "team_name": "RIP WATKINS",
