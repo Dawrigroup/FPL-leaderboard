@@ -2,31 +2,31 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 6,
-  "last_updated": "2026-10-11T17:00:38.676509+00:00",
+  "last_updated": "2026-10-11T17:05:19.881349+00:00",
   "players": [
     {
       "rank": 1,
-      "last_rank": 1,
-      "team_name": "Omar",
-      "manager_name": "Omar Alkholifey",
-      "team_id": 58609,
-      "gw_points": 81,
-      "total_points": 437,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 2
-    },
-    {
-      "rank": 2,
       "last_rank": 2,
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 84,
-      "total_points": 437,
+      "gw_points": 83,
+      "total_points": 436,
       "captain_name": "Groß",
       "chip": "",
       "yet_to_play": 3
+    },
+    {
+      "rank": 2,
+      "last_rank": 1,
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "team_id": 58609,
+      "gw_points": 79,
+      "total_points": 435,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 2
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 83,
-      "total_points": 410,
+      "gw_points": 81,
+      "total_points": 408,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -46,8 +46,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 66,
-      "total_points": 400,
+      "gw_points": 64,
+      "total_points": 398,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 2
@@ -58,8 +58,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 65,
-      "total_points": 398,
+      "gw_points": 63,
+      "total_points": 396,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -70,8 +70,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 50,
-      "total_points": 383,
+      "gw_points": 49,
+      "total_points": 382,
       "captain_name": "Gibbs-White",
       "chip": "",
       "yet_to_play": 5
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 61,
-      "total_points": 382,
+      "gw_points": 59,
+      "total_points": 380,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 3
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 74,
-      "total_points": 372,
+      "gw_points": 72,
+      "total_points": 370,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 2
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 66,
-      "total_points": 337,
+      "gw_points": 64,
+      "total_points": 335,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 3
@@ -119,28 +119,28 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 84
+        "points": 83
       },
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 83
+        "points": 81
       },
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 81
+        "points": 79
       }
     ],
-    "average_score": 70.0,
-    "highest_score": 84,
-    "lowest_score": 50,
+    "average_score": 68.2,
+    "highest_score": 83,
+    "lowest_score": 49,
     "derby": {
       "team_a": "Omar",
       "team_b": "Doku the goat",
-      "score_a": 437,
-      "score_b": 437,
-      "diff": 0
+      "score_a": 435,
+      "score_b": 436,
+      "diff": 1
     },
     "bench_king": {
       "team_name": "RIP WATKINS",
