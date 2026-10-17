@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-17T17:05:18.125686+00:00",
+  "last_updated": "2026-10-17T17:10:24.150532+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 24,
-      "total_points": 460,
+      "gw_points": 22,
+      "total_points": 458,
       "captain_name": "Groß",
       "chip": "",
       "yet_to_play": 7
@@ -34,8 +34,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 54,
-      "total_points": 459,
+      "gw_points": 52,
+      "total_points": 457,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 6
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 38,
-      "total_points": 438,
+      "gw_points": 36,
+      "total_points": 436,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 37,
-      "total_points": 434,
+      "gw_points": 35,
+      "total_points": 432,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -119,7 +119,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 54
+        "points": 52
       },
       {
         "team_name": "soprano",
@@ -129,17 +129,17 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 38
+        "points": 36
       }
     ],
-    "average_score": 35.8,
-    "highest_score": 54,
-    "lowest_score": 24,
+    "average_score": 34.9,
+    "highest_score": 52,
+    "lowest_score": 22,
     "derby": {
       "team_a": "Eyad",
       "team_b": "Doku the goat",
-      "score_a": 459,
-      "score_b": 460,
+      "score_a": 457,
+      "score_b": 458,
       "diff": 1
     },
     "bench_king": {
