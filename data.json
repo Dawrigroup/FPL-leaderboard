@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-17T15:35:19.901621+00:00",
+  "last_updated": "2026-10-17T15:40:25.757712+00:00",
   "players": [
     {
       "rank": 1,
@@ -34,8 +34,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 47,
-      "total_points": 452,
+      "gw_points": 50,
+      "total_points": 455,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 8
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 42,
-      "total_points": 410,
+      "gw_points": 44,
+      "total_points": 412,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 9
@@ -119,12 +119,12 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 47
+        "points": 50
       },
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
-        "points": 42
+        "points": 44
       },
       {
         "team_name": "Omar",
@@ -132,8 +132,8 @@
         "points": 34
       }
     ],
-    "average_score": 33.0,
-    "highest_score": 47,
+    "average_score": 33.6,
+    "highest_score": 50,
     "lowest_score": 19,
     "derby": {
       "team_a": "Isco FC",
