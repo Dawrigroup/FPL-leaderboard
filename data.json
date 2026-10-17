@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-17T16:00:38.423300+00:00",
+  "last_updated": "2026-10-17T16:05:21.185527+00:00",
   "players": [
     {
       "rank": 1,
@@ -54,18 +54,6 @@
     },
     {
       "rank": 5,
-      "last_rank": 6,
-      "team_name": "Isco FC",
-      "manager_name": "Abdulkarim Alkholifey",
-      "team_id": 379699,
-      "gw_points": 33,
-      "total_points": 430,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 8
-    },
-    {
-      "rank": 6,
       "last_rank": 5,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
@@ -75,6 +63,18 @@
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
+    },
+    {
+      "rank": 6,
+      "last_rank": 6,
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
+      "team_id": 379699,
+      "gw_points": 32,
+      "total_points": 429,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 8
     },
     {
       "rank": 7,
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 30,
-      "total_points": 370,
+      "gw_points": 29,
+      "total_points": 369,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -132,14 +132,14 @@
         "points": 34
       }
     ],
-    "average_score": 33.6,
+    "average_score": 33.3,
     "highest_score": 50,
     "lowest_score": 19,
     "derby": {
-      "team_a": "Isco FC",
-      "team_b": "Sultan",
-      "score_a": 430,
-      "score_b": 430,
+      "team_a": "Doku the goat",
+      "team_b": "Eyad",
+      "score_a": 455,
+      "score_b": 455,
       "diff": 0
     },
     "bench_king": {
