@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-17T15:25:19.941414+00:00",
+  "last_updated": "2026-10-17T15:30:32.987321+00:00",
   "players": [
     {
       "rank": 1,
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 22,
-      "total_points": 419,
+      "gw_points": 23,
+      "total_points": 420,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 19,
-      "total_points": 359,
+      "gw_points": 20,
+      "total_points": 360,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -132,15 +132,15 @@
         "points": 24
       }
     ],
-    "average_score": 22.7,
+    "average_score": 22.9,
     "highest_score": 32,
     "lowest_score": 14,
     "derby": {
-      "team_a": "Isco FC",
-      "team_b": "Sultan",
+      "team_a": "Sultan",
+      "team_b": "Isco FC",
       "score_a": 419,
-      "score_b": 419,
-      "diff": 0
+      "score_b": 420,
+      "diff": 1
     },
     "bench_king": {
       "team_name": "Omar",
