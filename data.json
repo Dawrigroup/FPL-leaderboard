@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-17T14:25:18.360098+00:00",
+  "last_updated": "2026-10-17T14:30:30.927536+00:00",
   "players": [
     {
       "rank": 1,
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 13,
-      "total_points": 381,
+      "gw_points": 16,
+      "total_points": 384,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 9
@@ -119,7 +119,7 @@
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
-        "points": 13
+        "points": 16
       },
       {
         "team_name": "Eyad",
@@ -132,8 +132,8 @@
         "points": 9
       }
     ],
-    "average_score": 7.7,
-    "highest_score": 13,
+    "average_score": 8.0,
+    "highest_score": 16,
     "lowest_score": 3,
     "derby": {
       "team_a": "Isco FC",
