@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-17T17:35:18.883023+00:00",
+  "last_updated": "2026-10-17T17:40:23.671084+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 22,
-      "total_points": 458,
+      "gw_points": 21,
+      "total_points": 457,
       "captain_name": "Groß",
       "chip": "",
       "yet_to_play": 7
@@ -34,8 +34,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 52,
-      "total_points": 457,
+      "gw_points": 51,
+      "total_points": 456,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 6
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 36,
-      "total_points": 436,
+      "gw_points": 35,
+      "total_points": 435,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 35,
-      "total_points": 432,
+      "gw_points": 34,
+      "total_points": 431,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -119,7 +119,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 52
+        "points": 51
       },
       {
         "team_name": "soprano",
@@ -129,17 +129,17 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 36
+        "points": 35
       }
     ],
-    "average_score": 34.9,
-    "highest_score": 52,
-    "lowest_score": 22,
+    "average_score": 34.4,
+    "highest_score": 51,
+    "lowest_score": 21,
     "derby": {
-      "team_a": "Eyad",
-      "team_b": "Doku the goat",
-      "score_a": 457,
-      "score_b": 458,
+      "team_a": "Sultan",
+      "team_b": "Isco FC",
+      "score_a": 430,
+      "score_b": 431,
       "diff": 1
     },
     "bench_king": {
