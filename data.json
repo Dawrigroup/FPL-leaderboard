@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-17T15:20:24.006543+00:00",
+  "last_updated": "2026-10-17T15:25:19.941414+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 23,
-      "total_points": 455,
+      "gw_points": 24,
+      "total_points": 456,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -34,8 +34,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 31,
-      "total_points": 436,
+      "gw_points": 32,
+      "total_points": 437,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 8
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 24,
-      "total_points": 392,
+      "gw_points": 32,
+      "total_points": 400,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 9
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 16,
-      "total_points": 356,
+      "gw_points": 19,
+      "total_points": 359,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -119,21 +119,21 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 31
+        "points": 32
       },
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
-        "points": 24
+        "points": 32
       },
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 23
+        "points": 24
       }
     ],
-    "average_score": 21.2,
-    "highest_score": 31,
+    "average_score": 22.7,
+    "highest_score": 32,
     "lowest_score": 14,
     "derby": {
       "team_a": "Isco FC",
