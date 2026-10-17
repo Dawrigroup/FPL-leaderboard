@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-17T13:35:18.448127+00:00",
+  "last_updated": "2026-10-17T13:40:24.719867+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 442,
       "captain_name": "Groß",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 8
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "total_points": 438,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 8
     },
     {
       "rank": 3,
@@ -38,7 +38,7 @@
       "total_points": 411,
       "captain_name": "Haaland",
       "chip": "TC",
-      "yet_to_play": 11
+      "yet_to_play": 8
     },
     {
       "rank": 4,
@@ -50,7 +50,7 @@
       "total_points": 406,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 8
     },
     {
       "rank": 5,
@@ -62,7 +62,7 @@
       "total_points": 403,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 8
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "total_points": 402,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "total_points": 392,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 8,
@@ -98,7 +98,7 @@
       "total_points": 372,
       "captain_name": "Haaland",
       "chip": "BB",
-      "yet_to_play": 11
+      "yet_to_play": 9
     },
     {
       "rank": 9,
