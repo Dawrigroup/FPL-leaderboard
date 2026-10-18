@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-18T13:25:19.074077+00:00",
+  "last_updated": "2026-10-18T13:30:33.650695+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 36,
-      "total_points": 468,
+      "gw_points": 37,
+      "total_points": 469,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 52,
-      "total_points": 420,
+      "gw_points": 53,
+      "total_points": 421,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 4
@@ -124,7 +124,7 @@
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
-        "points": 52
+        "points": 53
       },
       {
         "team_name": "Isco FC",
@@ -132,14 +132,14 @@
         "points": 42
       }
     ],
-    "average_score": 40.7,
+    "average_score": 40.9,
     "highest_score": 60,
     "lowest_score": 32,
     "derby": {
-      "team_a": "RIP WATKINS",
-      "team_b": "Isco FC",
-      "score_a": 438,
-      "score_b": 439,
+      "team_a": "soprano",
+      "team_b": "Pushing's Team",
+      "score_a": 421,
+      "score_b": 422,
       "diff": 1
     },
     "bench_king": {
