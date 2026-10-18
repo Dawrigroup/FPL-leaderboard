@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-18T14:10:26.348445+00:00",
+  "last_updated": "2026-10-18T14:15:23.410841+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 67,
-      "total_points": 472,
+      "gw_points": 65,
+      "total_points": 470,
       "captain_name": "Haaland",
       "chip": "TC",
       "yet_to_play": 5
@@ -46,23 +46,11 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 43,
-      "total_points": 443,
+      "gw_points": 48,
+      "total_points": 448,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 7
-    },
-    {
-      "rank": 5,
-      "last_rank": 4,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 38,
-      "total_points": 438,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 4
     },
     {
       "rank": 5,
@@ -77,13 +65,25 @@
       "yet_to_play": 4
     },
     {
+      "rank": 5,
+      "last_rank": 4,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 38,
+      "total_points": 438,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 4
+    },
+    {
       "rank": 7,
       "last_rank": 7,
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 40,
-      "total_points": 430,
+      "gw_points": 38,
+      "total_points": 428,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 7
@@ -119,7 +119,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 67
+        "points": 65
       },
       {
         "team_name": "soprano",
@@ -129,23 +129,23 @@
       {
         "team_name": "Sultan",
         "manager_name": "Sultan Adel",
-        "points": 43
+        "points": 48
       }
     ],
-    "average_score": 42.6,
-    "highest_score": 67,
+    "average_score": 42.7,
+    "highest_score": 65,
     "lowest_score": 32,
     "derby": {
-      "team_a": "RIP WATKINS",
-      "team_b": "Isco FC",
+      "team_a": "Isco FC",
+      "team_b": "RIP WATKINS",
       "score_a": 438,
       "score_b": 438,
       "diff": 0
     },
     "bench_king": {
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "bench_points": 10
+      "team_name": "soprano",
+      "manager_name": "Hamad F",
+      "bench_points": 11
     },
     "worst_captain": {
       "team_name": "Doku the goat",
