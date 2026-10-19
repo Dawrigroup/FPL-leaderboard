@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 7,
-  "last_updated": "2026-10-19T20:20:28.577193+00:00",
+  "last_updated": "2026-10-19T20:25:20.021482+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 64,
-      "total_points": 496,
+      "gw_points": 65,
+      "total_points": 497,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -46,8 +46,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 66,
-      "total_points": 466,
+      "gw_points": 67,
+      "total_points": 467,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 81,
-      "total_points": 449,
+      "gw_points": 82,
+      "total_points": 450,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 0
@@ -124,23 +124,23 @@
       {
         "team_name": "soprano",
         "manager_name": "Hamad F",
-        "points": 81
+        "points": 82
       },
       {
         "team_name": "Sultan",
         "manager_name": "Sultan Adel",
-        "points": 66
+        "points": 67
       }
     ],
-    "average_score": 66.6,
+    "average_score": 66.9,
     "highest_score": 88,
     "lowest_score": 55,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Pushing's Team",
-      "score_a": 449,
+      "team_a": "Pushing's Team",
+      "team_b": "soprano",
+      "score_a": 450,
       "score_b": 450,
-      "diff": 1
+      "diff": 0
     },
     "bench_king": {
       "team_name": "RIP WATKINS",
