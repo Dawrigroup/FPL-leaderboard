@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-23T21:00:40.504735+00:00",
+  "last_updated": "2026-10-23T21:05:19.909713+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 499,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 2,
@@ -38,7 +38,7 @@
       "total_points": 492,
       "captain_name": "Palmer",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 4,
@@ -50,7 +50,7 @@
       "total_points": 473,
       "captain_name": "João Pedro",
       "chip": "BB",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 5,
@@ -74,7 +74,7 @@
       "total_points": 462,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 7,
