@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-23T19:15:28.540811+00:00",
+  "last_updated": "2026-10-23T19:20:25.268291+00:00",
   "players": [
     {
       "rank": 1,
@@ -42,6 +42,18 @@
     },
     {
       "rank": 4,
+      "last_rank": 4,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 7,
+      "total_points": 472,
+      "captain_name": "João Pedro",
+      "chip": "BB",
+      "yet_to_play": 11
+    },
+    {
+      "rank": 5,
       "last_rank": 5,
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
@@ -50,18 +62,6 @@
       "total_points": 467,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
-    },
-    {
-      "rank": 5,
-      "last_rank": 4,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 1,
-      "total_points": 466,
-      "captain_name": "João Pedro",
-      "chip": "BB",
       "yet_to_play": 11
     },
     {
@@ -117,6 +117,11 @@
     "gw": 8,
     "top_scorers": [
       {
+        "team_name": "RIP WATKINS",
+        "manager_name": "A A",
+        "points": 7
+      },
+      {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
         "points": 1
@@ -125,15 +130,10 @@
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
         "points": 1
-      },
-      {
-        "team_name": "RIP WATKINS",
-        "manager_name": "A A",
-        "points": 1
       }
     ],
-    "average_score": 0.6,
-    "highest_score": 1,
+    "average_score": 1.2,
+    "highest_score": 7,
     "lowest_score": 0,
     "derby": {
       "team_a": "Pushing's Team",
