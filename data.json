@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-23T20:10:25.736949+00:00",
+  "last_updated": "2026-10-23T20:15:23.805533+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 7,
-      "total_points": 472,
+      "gw_points": 8,
+      "total_points": 473,
       "captain_name": "João Pedro",
       "chip": "BB",
       "yet_to_play": 11
@@ -119,7 +119,7 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 7
+        "points": 8
       },
       {
         "team_name": "Omar",
@@ -132,8 +132,8 @@
         "points": 1
       }
     ],
-    "average_score": 1.2,
-    "highest_score": 7,
+    "average_score": 1.3,
+    "highest_score": 8,
     "lowest_score": 0,
     "derby": {
       "team_a": "Pushing's Team",
@@ -145,7 +145,7 @@
     "bench_king": {
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
-      "bench_points": 2
+      "bench_points": 1
     },
     "worst_captain": {
       "team_name": "Omar",
