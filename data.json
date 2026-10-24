@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-24T14:00:45.200425+00:00",
+  "last_updated": "2026-10-24T14:05:22.394124+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 18,
-      "total_points": 515,
+      "gw_points": 20,
+      "total_points": 517,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 21,
-      "total_points": 514,
+      "gw_points": 22,
+      "total_points": 515,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -34,35 +34,35 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 9,
-      "total_points": 500,
+      "gw_points": 11,
+      "total_points": 502,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 8
     },
     {
       "rank": 4,
-      "last_rank": 4,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 16,
-      "total_points": 483,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 10
-    },
-    {
-      "rank": 5,
       "last_rank": 5,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 16,
-      "total_points": 481,
+      "gw_points": 19,
+      "total_points": 484,
       "captain_name": "João Pedro",
       "chip": "BB",
       "yet_to_play": 9
+    },
+    {
+      "rank": 5,
+      "last_rank": 4,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 17,
+      "total_points": 484,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 10
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 18,
-      "total_points": 478,
+      "gw_points": 19,
+      "total_points": 479,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 16,
-      "total_points": 472,
+      "gw_points": 17,
+      "total_points": 473,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 9
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 16,
-      "total_points": 466,
+      "gw_points": 17,
+      "total_points": 467,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 18,
-      "total_points": 416,
+      "gw_points": 19,
+      "total_points": 417,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 8
@@ -119,28 +119,28 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 21
+        "points": 22
       },
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 18
+        "points": 20
       },
       {
-        "team_name": "Isco FC",
-        "manager_name": "Abdulkarim Alkholifey",
-        "points": 18
+        "team_name": "RIP WATKINS",
+        "manager_name": "A A",
+        "points": 19
       }
     ],
-    "average_score": 16.4,
-    "highest_score": 21,
-    "lowest_score": 9,
+    "average_score": 17.9,
+    "highest_score": 22,
+    "lowest_score": 11,
     "derby": {
-      "team_a": "Eyad",
-      "team_b": "Omar",
-      "score_a": 514,
-      "score_b": 515,
-      "diff": 1
+      "team_a": "RIP WATKINS",
+      "team_b": "Sultan",
+      "score_a": 484,
+      "score_b": 484,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Eyad",
