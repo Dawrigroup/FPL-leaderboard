@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-24T16:30:37.522038+00:00",
+  "last_updated": "2026-10-24T16:35:22.166864+00:00",
   "players": [
     {
       "rank": 1,
@@ -54,18 +54,6 @@
     },
     {
       "rank": 5,
-      "last_rank": 4,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 27,
-      "total_points": 494,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 8
-    },
-    {
-      "rank": 5,
       "last_rank": 6,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -75,6 +63,18 @@
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 7
+    },
+    {
+      "rank": 5,
+      "last_rank": 4,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 27,
+      "total_points": 494,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 8
     },
     {
       "rank": 7,
@@ -136,22 +136,22 @@
     "highest_score": 41,
     "lowest_score": 27,
     "derby": {
-      "team_a": "Sultan",
-      "team_b": "Isco FC",
+      "team_a": "Isco FC",
+      "team_b": "Sultan",
       "score_a": 494,
       "score_b": 494,
       "diff": 0
     },
     "bench_king": {
-      "team_name": "Eyad",
-      "manager_name": "eyad Fares",
-      "bench_points": 3
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "bench_points": 4
     },
     "worst_captain": {
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
-      "captain_id": 154,
-      "captain_name": "Palmer",
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "captain_id": 165,
+      "captain_name": "João Pedro",
       "captain_points": 0
     },
     "best_differential_captain": {
@@ -159,7 +159,7 @@
       "manager_name": "Doku Is the best winger",
       "captain_id": 154,
       "captain_name": "Palmer",
-      "captain_points": 0
+      "captain_points": 1
     }
   }
 }
