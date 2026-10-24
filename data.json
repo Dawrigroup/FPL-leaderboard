@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-24T15:35:21.842088+00:00",
+  "last_updated": "2026-10-24T15:40:27.791205+00:00",
   "players": [
     {
       "rank": 1,
@@ -54,18 +54,6 @@
     },
     {
       "rank": 5,
-      "last_rank": 4,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 27,
-      "total_points": 494,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 10
-    },
-    {
-      "rank": 5,
       "last_rank": 6,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -75,6 +63,18 @@
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 9
+    },
+    {
+      "rank": 5,
+      "last_rank": 4,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 27,
+      "total_points": 494,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 10
     },
     {
       "rank": 7,
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 32,
-      "total_points": 482,
+      "gw_points": 33,
+      "total_points": 483,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -132,20 +132,20 @@
         "points": 34
       }
     ],
-    "average_score": 32.7,
+    "average_score": 32.8,
     "highest_score": 40,
     "lowest_score": 27,
     "derby": {
-      "team_a": "Sultan",
-      "team_b": "Isco FC",
+      "team_a": "Isco FC",
+      "team_b": "Sultan",
       "score_a": 494,
       "score_b": 494,
       "diff": 0
     },
     "bench_king": {
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "bench_points": 7
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
+      "bench_points": 3
     },
     "worst_captain": {
       "team_name": "Doku the goat",
