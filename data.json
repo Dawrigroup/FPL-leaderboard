@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-24T18:25:22.677775+00:00",
+  "last_updated": "2026-10-24T18:30:35.011598+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 545,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 5
+      "yet_to_play": 1
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "total_points": 522,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 7
+      "yet_to_play": 4
     },
     {
       "rank": 3,
@@ -38,7 +38,7 @@
       "total_points": 518,
       "captain_name": "Palmer",
       "chip": "",
-      "yet_to_play": 5
+      "yet_to_play": 2
     },
     {
       "rank": 4,
@@ -50,7 +50,7 @@
       "total_points": 506,
       "captain_name": "João Pedro",
       "chip": "BB",
-      "yet_to_play": 6
+      "yet_to_play": 3
     },
     {
       "rank": 5,
@@ -62,7 +62,7 @@
       "total_points": 497,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 8
+      "yet_to_play": 6
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "total_points": 494,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 7
+      "yet_to_play": 4
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "total_points": 489,
       "captain_name": "Haaland",
       "chip": "WC",
-      "yet_to_play": 7
+      "yet_to_play": 5
     },
     {
       "rank": 8,
@@ -98,7 +98,7 @@
       "total_points": 483,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 6
+      "yet_to_play": 4
     },
     {
       "rank": 9,
@@ -110,7 +110,7 @@
       "total_points": 433,
       "captain_name": "Haaland",
       "chip": "BB",
-      "yet_to_play": 6
+      "yet_to_play": 4
     }
   ],
   "gw_summary": {
