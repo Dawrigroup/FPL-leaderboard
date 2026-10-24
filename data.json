@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-24T17:15:27.238560+00:00",
+  "last_updated": "2026-10-24T17:20:27.454362+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 42,
-      "total_points": 539,
+      "gw_points": 46,
+      "total_points": 543,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 5
@@ -117,14 +117,14 @@
     "gw": 8,
     "top_scorers": [
       {
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 46
+      },
+      {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
         "points": 43
-      },
-      {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 42
       },
       {
         "team_name": "Isco FC",
@@ -132,8 +132,8 @@
         "points": 36
       }
     ],
-    "average_score": 34.7,
-    "highest_score": 43,
+    "average_score": 35.1,
+    "highest_score": 46,
     "lowest_score": 28,
     "derby": {
       "team_a": "Sultan",
@@ -145,7 +145,7 @@
     "bench_king": {
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
-      "bench_points": 4
+      "bench_points": 8
     },
     "worst_captain": {
       "team_name": "RIP WATKINS",
