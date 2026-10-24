@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-24T12:10:28.233074+00:00",
+  "last_updated": "2026-10-24T12:15:27.996504+00:00",
   "players": [
     {
       "rank": 1,
@@ -34,8 +34,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 3,
-      "total_points": 494,
+      "gw_points": 2,
+      "total_points": 493,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 10
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 3,
-      "total_points": 459,
+      "gw_points": 2,
+      "total_points": 458,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 11
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 5,
-      "total_points": 403,
+      "gw_points": 4,
+      "total_points": 402,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 11
@@ -122,25 +122,25 @@
         "points": 9
       },
       {
-        "team_name": "man fc",
-        "manager_name": "Abdulkareem Msep",
-        "points": 5
-      },
-      {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
         "points": 4
+      },
+      {
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
+        "points": 4
       }
     ],
-    "average_score": 3.9,
+    "average_score": 3.6,
     "highest_score": 9,
     "lowest_score": 2,
     "derby": {
       "team_a": "Doku the goat",
       "team_b": "Eyad",
-      "score_a": 494,
+      "score_a": 493,
       "score_b": 496,
-      "diff": 2
+      "diff": 3
     },
     "bench_king": {
       "team_name": "Eyad",
