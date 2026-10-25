@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T14:00:38.027480+00:00",
+  "last_updated": "2026-10-25T14:05:20.884917+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 29,
-      "total_points": 522,
+      "gw_points": 30,
+      "total_points": 523,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -58,8 +58,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 30,
-      "total_points": 497,
+      "gw_points": 31,
+      "total_points": 498,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -70,8 +70,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 33,
-      "total_points": 493,
+      "gw_points": 34,
+      "total_points": 494,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 32,
-      "total_points": 488,
+      "gw_points": 33,
+      "total_points": 489,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 5
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 33,
-      "total_points": 483,
+      "gw_points": 34,
+      "total_points": 484,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -127,24 +127,24 @@
         "points": 40
       },
       {
-        "team_name": "man fc",
-        "manager_name": "Abdulkareem Msep",
+        "team_name": "Isco FC",
+        "manager_name": "Abdulkarim Alkholifey",
         "points": 34
       }
     ],
-    "average_score": 33.8,
+    "average_score": 34.3,
     "highest_score": 47,
     "lowest_score": 26,
     "derby": {
       "team_a": "Isco FC",
       "team_b": "Sultan",
-      "score_a": 493,
-      "score_b": 497,
+      "score_a": 494,
+      "score_b": 498,
       "diff": 4
     },
     "bench_king": {
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
+      "team_name": "Doku the goat",
+      "manager_name": "Doku Is the best winger",
       "bench_points": 12
     },
     "worst_captain": {
