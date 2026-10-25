@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T16:35:19.801496+00:00",
+  "last_updated": "2026-10-25T16:40:30.796855+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 47,
-      "total_points": 544,
+      "gw_points": 48,
+      "total_points": 545,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -70,8 +70,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 36,
-      "total_points": 503,
+      "gw_points": 37,
+      "total_points": 504,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -127,12 +127,12 @@
         "points": 51
       },
       {
-        "team_name": "soprano",
-        "manager_name": "Hamad F",
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
         "points": 48
       }
     ],
-    "average_score": 42.8,
+    "average_score": 43.0,
     "highest_score": 54,
     "lowest_score": 33,
     "derby": {
