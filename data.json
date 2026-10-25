@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T15:30:34.211416+00:00",
+  "last_updated": "2026-10-25T15:35:18.712293+00:00",
   "players": [
     {
       "rank": 1,
@@ -82,8 +82,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 46,
-      "total_points": 496,
+      "gw_points": 48,
+      "total_points": 498,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -127,20 +127,20 @@
         "points": 52
       },
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 47
+        "team_name": "soprano",
+        "manager_name": "Hamad F",
+        "points": 48
       }
     ],
-    "average_score": 42.6,
+    "average_score": 42.8,
     "highest_score": 52,
     "lowest_score": 34,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "soprano",
       "score_a": 495,
-      "score_b": 496,
-      "diff": 1
+      "score_b": 498,
+      "diff": 3
     },
     "bench_king": {
       "team_name": "Doku the goat",
