@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T15:50:24.099467+00:00",
+  "last_updated": "2026-10-25T15:55:20.617197+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,11 +46,11 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 52,
-      "total_points": 517,
+      "gw_points": 54,
+      "total_points": 519,
       "captain_name": "João Pedro",
       "chip": "BB",
-      "yet_to_play": 3
+      "yet_to_play": 2
     },
     {
       "rank": 5,
@@ -74,7 +74,7 @@
       "total_points": 503,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 6
+      "yet_to_play": 5
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "total_points": 498,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 4
+      "yet_to_play": 3
     },
     {
       "rank": 8,
@@ -98,7 +98,7 @@
       "total_points": 495,
       "captain_name": "Haaland",
       "chip": "WC",
-      "yet_to_play": 5
+      "yet_to_play": 4
     },
     {
       "rank": 9,
@@ -119,7 +119,7 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 52
+        "points": 54
       },
       {
         "team_name": "Isco FC",
@@ -132,8 +132,8 @@
         "points": 48
       }
     ],
-    "average_score": 42.6,
-    "highest_score": 52,
+    "average_score": 42.8,
+    "highest_score": 54,
     "lowest_score": 33,
     "derby": {
       "team_a": "Pushing's Team",
