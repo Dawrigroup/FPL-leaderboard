@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T15:25:20.150821+00:00",
+  "last_updated": "2026-10-25T15:30:34.211416+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 37,
-      "total_points": 530,
+      "gw_points": 38,
+      "total_points": 531,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 55,
-      "total_points": 520,
+      "gw_points": 52,
+      "total_points": 517,
       "captain_name": "João Pedro",
       "chip": "BB",
       "yet_to_play": 3
@@ -70,8 +70,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 38,
-      "total_points": 505,
+      "gw_points": 36,
+      "total_points": 503,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -94,8 +94,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 36,
-      "total_points": 492,
+      "gw_points": 39,
+      "total_points": 495,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 5
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 37,
-      "total_points": 435,
+      "gw_points": 39,
+      "total_points": 437,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 4
@@ -119,7 +119,7 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 55
+        "points": 52
       },
       {
         "team_name": "Isco FC",
@@ -132,15 +132,15 @@
         "points": 47
       }
     ],
-    "average_score": 42.4,
-    "highest_score": 55,
+    "average_score": 42.6,
+    "highest_score": 52,
     "lowest_score": 34,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "soprano",
-      "score_a": 492,
+      "score_a": 495,
       "score_b": 496,
-      "diff": 4
+      "diff": 1
     },
     "bench_king": {
       "team_name": "Doku the goat",
