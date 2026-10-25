@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T18:15:25.493682+00:00",
+  "last_updated": "2026-10-25T18:20:27.046323+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 53,
-      "total_points": 550,
+      "gw_points": 56,
+      "total_points": 553,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -117,14 +117,14 @@
     "gw": 8,
     "top_scorers": [
       {
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 56
+      },
+      {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
         "points": 54
-      },
-      {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 53
       },
       {
         "team_name": "Isco FC",
@@ -132,8 +132,8 @@
         "points": 51
       }
     ],
-    "average_score": 43.7,
-    "highest_score": 54,
+    "average_score": 44.0,
+    "highest_score": 56,
     "lowest_score": 33,
     "derby": {
       "team_a": "Pushing's Team",
@@ -145,7 +145,7 @@
     "bench_king": {
       "team_name": "soprano",
       "manager_name": "Hamad F",
-      "bench_points": 20
+      "bench_points": 22
     },
     "worst_captain": {
       "team_name": "Doku the goat",
