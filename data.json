@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T18:05:21.159256+00:00",
+  "last_updated": "2026-10-25T18:10:25.796418+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 55,
-      "total_points": 552,
+      "gw_points": 53,
+      "total_points": 550,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -117,14 +117,14 @@
     "gw": 8,
     "top_scorers": [
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 55
-      },
-      {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
         "points": 54
+      },
+      {
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 53
       },
       {
         "team_name": "Isco FC",
@@ -132,8 +132,8 @@
         "points": 51
       }
     ],
-    "average_score": 43.9,
-    "highest_score": 55,
+    "average_score": 43.7,
+    "highest_score": 54,
     "lowest_score": 33,
     "derby": {
       "team_a": "Pushing's Team",
