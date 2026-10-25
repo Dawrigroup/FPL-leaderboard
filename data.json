@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T15:35:18.712293+00:00",
+  "last_updated": "2026-10-25T15:40:24.588363+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 52,
-      "total_points": 517,
+      "gw_points": 53,
+      "total_points": 518,
       "captain_name": "João Pedro",
       "chip": "BB",
       "yet_to_play": 3
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 52,
-      "total_points": 512,
+      "gw_points": 53,
+      "total_points": 513,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 39,
-      "total_points": 437,
+      "gw_points": 40,
+      "total_points": 438,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 4
@@ -119,12 +119,12 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 52
+        "points": 53
       },
       {
         "team_name": "Isco FC",
         "manager_name": "Abdulkarim Alkholifey",
-        "points": 52
+        "points": 53
       },
       {
         "team_name": "soprano",
@@ -132,8 +132,8 @@
         "points": 48
       }
     ],
-    "average_score": 42.8,
-    "highest_score": 52,
+    "average_score": 43.1,
+    "highest_score": 53,
     "lowest_score": 34,
     "derby": {
       "team_a": "Pushing's Team",
