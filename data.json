@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 8,
-  "last_updated": "2026-10-25T14:20:26.066177+00:00",
+  "last_updated": "2026-10-25T14:25:20.267064+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 33,
-      "total_points": 526,
+      "gw_points": 34,
+      "total_points": 527,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 45,
-      "total_points": 510,
+      "gw_points": 46,
+      "total_points": 511,
       "captain_name": "João Pedro",
       "chip": "BB",
       "yet_to_play": 3
@@ -58,8 +58,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 34,
-      "total_points": 501,
+      "gw_points": 35,
+      "total_points": 502,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -82,8 +82,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 37,
-      "total_points": 493,
+      "gw_points": 38,
+      "total_points": 494,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 5
@@ -94,8 +94,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 37,
-      "total_points": 487,
+      "gw_points": 38,
+      "total_points": 488,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 38,
-      "total_points": 436,
+      "gw_points": 39,
+      "total_points": 437,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 4
@@ -124,23 +124,23 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 45
+        "points": 46
       },
       {
         "team_name": "man fc",
         "manager_name": "Abdulkareem Msep",
-        "points": 38
+        "points": 39
       }
     ],
-    "average_score": 37.2,
+    "average_score": 37.9,
     "highest_score": 47,
     "lowest_score": 28,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "Isco FC",
-      "score_a": 493,
+      "score_a": 494,
       "score_b": 496,
-      "diff": 3
+      "diff": 2
     },
     "bench_king": {
       "team_name": "Doku the goat",
