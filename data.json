@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 9,
-  "last_updated": "2026-10-31T12:50:27.569798+00:00",
+  "last_updated": "2026-10-31T12:55:22.053855+00:00",
   "players": [
     {
       "rank": 1,
@@ -54,6 +54,18 @@
     },
     {
       "rank": 5,
+      "last_rank": 6,
+      "team_name": "Sultan",
+      "manager_name": "Sultan Adel",
+      "team_id": 8036192,
+      "gw_points": 6,
+      "total_points": 514,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 11
+    },
+    {
+      "rank": 6,
       "last_rank": 5,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -65,25 +77,13 @@
       "yet_to_play": 11
     },
     {
-      "rank": 6,
-      "last_rank": 6,
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "team_id": 8036192,
-      "gw_points": 3,
-      "total_points": 511,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 11
-    },
-    {
       "rank": 7,
       "last_rank": 7,
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 2,
-      "total_points": 500,
+      "gw_points": 5,
+      "total_points": 503,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -94,8 +94,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 2,
-      "total_points": 499,
+      "gw_points": 5,
+      "total_points": 502,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -117,29 +117,29 @@
     "gw": 9,
     "top_scorers": [
       {
-        "team_name": "Doku the goat",
-        "manager_name": "Doku Is the best winger",
-        "points": 3
-      },
-      {
         "team_name": "Sultan",
         "manager_name": "Sultan Adel",
-        "points": 3
+        "points": 6
       },
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 2
+        "team_name": "soprano",
+        "manager_name": "Hamad F",
+        "points": 5
+      },
+      {
+        "team_name": "Pushing's Team",
+        "manager_name": "Pushing First place",
+        "points": 5
       }
     ],
-    "average_score": 2.1,
-    "highest_score": 3,
+    "average_score": 3.1,
+    "highest_score": 6,
     "lowest_score": 1,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "soprano",
-      "score_a": 499,
-      "score_b": 500,
+      "score_a": 502,
+      "score_b": 503,
       "diff": 1
     },
     "bench_king": {
