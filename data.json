@@ -1,8 +1,8 @@
 {
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
-  "current_gw": 8,
-  "last_updated": "2026-10-31T11:15:26.748670+00:00",
+  "current_gw": 9,
+  "last_updated": "2026-10-31T11:35:21.997286+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 554,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 2,
@@ -25,8 +25,8 @@
       "gw_points": 39,
       "total_points": 532,
       "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 0
+      "chip": "WC",
+      "yet_to_play": 11
     },
     {
       "rank": 3,
@@ -38,7 +38,7 @@
       "total_points": 524,
       "captain_name": "Palmer",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 4,
@@ -48,9 +48,9 @@
       "team_id": 6669538,
       "gw_points": 53,
       "total_points": 518,
-      "captain_name": "João Pedro",
-      "chip": "BB",
-      "yet_to_play": 0
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 11
     },
     {
       "rank": 5,
@@ -62,7 +62,7 @@
       "total_points": 511,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "total_points": 508,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "total_points": 498,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 8,
@@ -97,8 +97,8 @@
       "gw_points": 41,
       "total_points": 497,
       "captain_name": "Haaland",
-      "chip": "WC",
-      "yet_to_play": 0
+      "chip": "",
+      "yet_to_play": 11
     },
     {
       "rank": 9,
@@ -109,12 +109,12 @@
       "gw_points": 40,
       "total_points": 438,
       "captain_name": "Haaland",
-      "chip": "BB",
-      "yet_to_play": 0
+      "chip": "",
+      "yet_to_play": 11
     }
   ],
   "gw_summary": {
-    "gw": 8,
+    "gw": 9,
     "top_scorers": [
       {
         "team_name": "Omar",
@@ -143,22 +143,22 @@
       "diff": 1
     },
     "bench_king": {
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
-      "bench_points": 22
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "bench_points": 0
     },
     "worst_captain": {
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "captain_id": 411,
+      "captain_name": "Haaland",
+      "captain_points": 0
+    },
+    "best_differential_captain": {
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "captain_id": 154,
       "captain_name": "Palmer",
-      "captain_points": -1
-    },
-    "best_differential_captain": {
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "captain_id": 165,
-      "captain_name": "João Pedro",
       "captain_points": 0
     }
   }
