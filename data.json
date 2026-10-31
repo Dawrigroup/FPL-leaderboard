@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 9,
-  "last_updated": "2026-10-31T18:50:26.834780+00:00",
+  "last_updated": "2026-10-31T18:55:20.733668+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 39,
-      "total_points": 593,
+      "gw_points": 44,
+      "total_points": 598,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -34,8 +34,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 29,
-      "total_points": 561,
+      "gw_points": 30,
+      "total_points": 562,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 6
@@ -117,6 +117,11 @@
     "gw": 9,
     "top_scorers": [
       {
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 44
+      },
+      {
         "team_name": "Pushing's Team",
         "manager_name": "Pushing First place",
         "points": 43
@@ -125,15 +130,10 @@
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
         "points": 41
-      },
-      {
-        "team_name": "Isco FC",
-        "manager_name": "Abdulkarim Alkholifey",
-        "points": 41
       }
     ],
-    "average_score": 35.6,
-    "highest_score": 43,
+    "average_score": 36.2,
+    "highest_score": 44,
     "lowest_score": 26,
     "derby": {
       "team_a": "soprano",
