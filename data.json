@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 9,
-  "last_updated": "2026-10-31T14:05:21.066561+00:00",
+  "last_updated": "2026-10-31T14:10:31.312149+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 21,
-      "total_points": 575,
+      "gw_points": 16,
+      "total_points": 570,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 34,
-      "total_points": 558,
+      "gw_points": 24,
+      "total_points": 548,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 11
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 21,
-      "total_points": 539,
+      "gw_points": 16,
+      "total_points": 534,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 21,
-      "total_points": 532,
+      "gw_points": 16,
+      "total_points": 527,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -119,21 +119,21 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 34
+        "points": 24
       },
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 21
+        "points": 16
       },
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 21
+        "points": 16
       }
     ],
-    "average_score": 15.8,
-    "highest_score": 34,
+    "average_score": 13.0,
+    "highest_score": 24,
     "lowest_score": 7,
     "derby": {
       "team_a": "Pushing's Team",
