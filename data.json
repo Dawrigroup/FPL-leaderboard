@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 9,
-  "last_updated": "2026-11-01T17:55:20.843514+00:00",
+  "last_updated": "2026-11-01T18:00:41.693177+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 54,
-      "total_points": 586,
+      "gw_points": 56,
+      "total_points": 588,
       "captain_name": "Haaland",
       "chip": "WC",
       "yet_to_play": 3
@@ -34,14 +34,26 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 58,
-      "total_points": 582,
+      "gw_points": 60,
+      "total_points": 584,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 4
     },
     {
       "rank": 4,
+      "last_rank": 4,
+      "team_name": "RIP WATKINS",
+      "manager_name": "A A",
+      "team_id": 6669538,
+      "gw_points": 43,
+      "total_points": 561,
+      "captain_name": "Haaland",
+      "chip": "",
+      "yet_to_play": 5
+    },
+    {
+      "rank": 5,
       "last_rank": 5,
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
@@ -51,18 +63,6 @@
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 2
-    },
-    {
-      "rank": 5,
-      "last_rank": 4,
-      "team_name": "RIP WATKINS",
-      "manager_name": "A A",
-      "team_id": 6669538,
-      "gw_points": 41,
-      "total_points": 559,
-      "captain_name": "Haaland",
-      "chip": "",
-      "yet_to_play": 5
     },
     {
       "rank": 6,
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 54,
-      "total_points": 492,
+      "gw_points": 56,
+      "total_points": 494,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 2
@@ -124,7 +124,7 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 58
+        "points": 60
       },
       {
         "team_name": "Pushing's Team",
@@ -132,15 +132,15 @@
         "points": 58
       }
     ],
-    "average_score": 51.8,
+    "average_score": 52.7,
     "highest_score": 61,
     "lowest_score": 41,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Sultan",
-      "score_a": 547,
-      "score_b": 549,
-      "diff": 2
+      "team_a": "RIP WATKINS",
+      "team_b": "Isco FC",
+      "score_a": 561,
+      "score_b": 561,
+      "diff": 0
     },
     "bench_king": {
       "team_name": "Doku the goat",
