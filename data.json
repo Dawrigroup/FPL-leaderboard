@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 9,
-  "last_updated": "2026-11-01T16:50:27.561225+00:00",
+  "last_updated": "2026-11-01T16:55:21.258007+00:00",
   "players": [
     {
       "rank": 1,
@@ -34,8 +34,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 44,
-      "total_points": 568,
+      "gw_points": 45,
+      "total_points": 569,
       "captain_name": "Palmer",
       "chip": "",
       "yet_to_play": 4
@@ -132,7 +132,7 @@
         "points": 50
       }
     ],
-    "average_score": 43.8,
+    "average_score": 43.9,
     "highest_score": 55,
     "lowest_score": 29,
     "derby": {
