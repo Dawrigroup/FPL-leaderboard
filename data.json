@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 9,
-  "last_updated": "2026-11-02T21:10:32.362019+00:00",
+  "last_updated": "2026-11-02T21:15:25.273514+00:00",
   "players": [
     {
       "rank": 1,
@@ -18,18 +18,6 @@
     },
     {
       "rank": 2,
-      "last_rank": 3,
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
-      "team_id": 4359394,
-      "gw_points": 63,
-      "total_points": 587,
-      "captain_name": "Palmer",
-      "chip": "",
-      "yet_to_play": 1
-    },
-    {
-      "rank": 3,
       "last_rank": 2,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
@@ -41,13 +29,25 @@
       "yet_to_play": 0
     },
     {
+      "rank": 3,
+      "last_rank": 3,
+      "team_name": "Doku the goat",
+      "manager_name": "Doku Is the best winger",
+      "team_id": 4359394,
+      "gw_points": 61,
+      "total_points": 585,
+      "captain_name": "Palmer",
+      "chip": "",
+      "yet_to_play": 1
+    },
+    {
       "rank": 4,
       "last_rank": 4,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 49,
-      "total_points": 567,
+      "gw_points": 46,
+      "total_points": 564,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 3
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 53,
-      "total_points": 564,
+      "gw_points": 51,
+      "total_points": 562,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 2
@@ -117,13 +117,13 @@
     "gw": 9,
     "top_scorers": [
       {
-        "team_name": "Doku the goat",
-        "manager_name": "Doku Is the best winger",
-        "points": 63
-      },
-      {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
+        "points": 61
+      },
+      {
+        "team_name": "Doku the goat",
+        "manager_name": "Doku Is the best winger",
         "points": 61
       },
       {
@@ -132,15 +132,15 @@
         "points": 58
       }
     ],
-    "average_score": 53.9,
-    "highest_score": 63,
+    "average_score": 53.1,
+    "highest_score": 61,
     "lowest_score": 41,
     "derby": {
-      "team_a": "Doku the goat",
-      "team_b": "Eyad",
-      "score_a": 587,
-      "score_b": 587,
-      "diff": 0
+      "team_a": "soprano",
+      "team_b": "Sultan",
+      "score_a": 547,
+      "score_b": 549,
+      "diff": 2
     },
     "bench_king": {
       "team_name": "Doku the goat",
