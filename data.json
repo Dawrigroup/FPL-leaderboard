@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 9,
-  "last_updated": "2026-11-03T10:30:36.477527+00:00",
+  "last_updated": "2026-11-03T10:35:23.849012+00:00",
   "players": [
     {
       "rank": 1,
@@ -18,6 +18,18 @@
     },
     {
       "rank": 2,
+      "last_rank": 3,
+      "team_name": "Doku the goat",
+      "manager_name": "Doku Is the best winger",
+      "team_id": 4359394,
+      "gw_points": 64,
+      "total_points": 588,
+      "captain_name": "Palmer",
+      "chip": "",
+      "yet_to_play": 0
+    },
+    {
+      "rank": 3,
       "last_rank": 2,
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
@@ -26,18 +38,6 @@
       "total_points": 587,
       "captain_name": "Haaland",
       "chip": "WC",
-      "yet_to_play": 0
-    },
-    {
-      "rank": 3,
-      "last_rank": 3,
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
-      "team_id": 4359394,
-      "gw_points": 62,
-      "total_points": 586,
-      "captain_name": "Palmer",
-      "chip": "",
       "yet_to_play": 0
     },
     {
@@ -82,8 +82,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 41,
-      "total_points": 549,
+      "gw_points": 45,
+      "total_points": 553,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 0
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 56,
-      "total_points": 494,
+      "gw_points": 58,
+      "total_points": 496,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 0
@@ -119,7 +119,7 @@
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 62
+        "points": 64
       },
       {
         "team_name": "Omar",
@@ -132,14 +132,14 @@
         "points": 58
       }
     ],
-    "average_score": 53.9,
-    "highest_score": 62,
-    "lowest_score": 41,
+    "average_score": 54.8,
+    "highest_score": 64,
+    "lowest_score": 45,
     "derby": {
-      "team_a": "soprano",
-      "team_b": "Sultan",
-      "score_a": 548,
-      "score_b": 549,
+      "team_a": "Eyad",
+      "team_b": "Doku the goat",
+      "score_a": 587,
+      "score_b": 588,
       "diff": 1
     },
     "bench_king": {
