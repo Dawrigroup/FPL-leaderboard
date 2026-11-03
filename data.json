@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 9,
-  "last_updated": "2026-11-03T10:50:32.240397+00:00",
+  "last_updated": "2026-11-03T10:55:23.729718+00:00",
   "players": [
     {
       "rank": 1,
@@ -143,9 +143,9 @@
       "diff": 1
     },
     "bench_king": {
-      "team_name": "Doku the goat",
-      "manager_name": "Doku Is the best winger",
-      "bench_points": 19
+      "team_name": "Eyad",
+      "manager_name": "eyad Fares",
+      "bench_points": 18
     },
     "worst_captain": {
       "team_name": "Omar",
