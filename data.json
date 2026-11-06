@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-06T20:25:22.432016+00:00",
+  "last_updated": "2026-11-06T20:30:30.788599+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 1,
-      "total_points": 568,
+      "gw_points": 4,
+      "total_points": 571,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -119,7 +119,7 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 1
+        "points": 4
       },
       {
         "team_name": "Omar",
@@ -132,8 +132,8 @@
         "points": 0
       }
     ],
-    "average_score": 0.1,
-    "highest_score": 1,
+    "average_score": 0.4,
+    "highest_score": 4,
     "lowest_score": 0,
     "derby": {
       "team_a": "Eyad",
