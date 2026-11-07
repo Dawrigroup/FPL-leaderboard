@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-07T14:10:25.935584+00:00",
+  "last_updated": "2026-11-07T14:15:24.112001+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 15,
-      "total_points": 630,
+      "gw_points": 18,
+      "total_points": 633,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -34,8 +34,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 6,
-      "total_points": 594,
+      "gw_points": 9,
+      "total_points": 597,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 9,
-      "total_points": 505,
+      "gw_points": 8,
+      "total_points": 504,
       "captain_name": "Palmer",
       "chip": "FT",
       "yet_to_play": 11
@@ -117,23 +117,23 @@
     "gw": 10,
     "top_scorers": [
       {
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 18
+      },
+      {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
         "points": 17
       },
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 15
-      },
-      {
-        "team_name": "RIP WATKINS",
-        "manager_name": "A A",
+        "team_name": "Doku the goat",
+        "manager_name": "Doku Is the best winger",
         "points": 9
       }
     ],
-    "average_score": 8.7,
-    "highest_score": 17,
+    "average_score": 9.2,
+    "highest_score": 18,
     "lowest_score": 2,
     "derby": {
       "team_a": "Pushing's Team",
@@ -143,9 +143,9 @@
       "diff": 0
     },
     "bench_king": {
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "bench_points": 10
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "bench_points": 9
     },
     "worst_captain": {
       "team_name": "Omar",
