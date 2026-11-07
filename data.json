@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-07T16:40:25.583150+00:00",
+  "last_updated": "2026-11-07T16:45:24.395514+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 34,
-      "total_points": 601,
+      "gw_points": 33,
+      "total_points": 600,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -94,8 +94,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 8,
-      "total_points": 561,
+      "gw_points": 9,
+      "total_points": 562,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -119,7 +119,7 @@
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 34
+        "points": 33
       },
       {
         "team_name": "Eyad",
@@ -133,8 +133,8 @@
       }
     ],
     "average_score": 19.7,
-    "highest_score": 34,
-    "lowest_score": 8,
+    "highest_score": 33,
+    "lowest_score": 9,
     "derby": {
       "team_a": "Pushing's Team",
       "team_b": "soprano",
@@ -145,7 +145,7 @@
     "bench_king": {
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
-      "bench_points": 16
+      "bench_points": 10
     },
     "worst_captain": {
       "team_name": "Omar",
