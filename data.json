@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-07T13:40:23.776139+00:00",
+  "last_updated": "2026-11-07T13:45:23.671159+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 3,
-      "total_points": 590,
+      "gw_points": 5,
+      "total_points": 592,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -124,7 +124,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 3
+        "points": 5
       },
       {
         "team_name": "Omar",
@@ -132,15 +132,15 @@
         "points": 2
       }
     ],
-    "average_score": 2.2,
+    "average_score": 2.4,
     "highest_score": 9,
     "lowest_score": 1,
     "derby": {
-      "team_a": "Doku the goat",
-      "team_b": "Eyad",
-      "score_a": 589,
-      "score_b": 590,
-      "diff": 1
+      "team_a": "Sultan",
+      "team_b": "Pushing's Team",
+      "score_a": 554,
+      "score_b": 556,
+      "diff": 2
     },
     "bench_king": {
       "team_name": "Isco FC",
