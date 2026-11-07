@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-07T15:25:19.349392+00:00",
+  "last_updated": "2026-11-07T15:30:31.512834+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 19,
-      "total_points": 606,
+      "gw_points": 22,
+      "total_points": 609,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 13,
-      "total_points": 580,
+      "gw_points": 18,
+      "total_points": 585,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -70,8 +70,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 12,
-      "total_points": 560,
+      "gw_points": 15,
+      "total_points": 563,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -119,28 +119,28 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 19
-      },
-      {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 14
+        "points": 22
       },
       {
         "team_name": "RIP WATKINS",
         "manager_name": "A A",
-        "points": 13
+        "points": 18
+      },
+      {
+        "team_name": "soprano",
+        "manager_name": "Hamad F",
+        "points": 15
       }
     ],
-    "average_score": 9.6,
-    "highest_score": 19,
+    "average_score": 10.8,
+    "highest_score": 22,
     "lowest_score": 3,
     "derby": {
-      "team_a": "Pushing's Team",
-      "team_b": "soprano",
-      "score_a": 559,
-      "score_b": 560,
-      "diff": 1
+      "team_a": "Sultan",
+      "team_b": "Pushing's Team",
+      "score_a": 556,
+      "score_b": 559,
+      "diff": 3
     },
     "bench_king": {
       "team_name": "Pushing's Team",
