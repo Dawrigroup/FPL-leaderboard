@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-07T13:25:19.795751+00:00",
+  "last_updated": "2026-11-07T13:30:32.301123+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 4,
-      "total_points": 591,
+      "gw_points": 3,
+      "total_points": 590,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -124,7 +124,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 4
+        "points": 3
       },
       {
         "team_name": "Omar",
@@ -132,15 +132,15 @@
         "points": 2
       }
     ],
-    "average_score": 2.3,
+    "average_score": 2.2,
     "highest_score": 9,
     "lowest_score": 1,
     "derby": {
-      "team_a": "Sultan",
-      "team_b": "Pushing's Team",
-      "score_a": 554,
-      "score_b": 556,
-      "diff": 2
+      "team_a": "Doku the goat",
+      "team_b": "Eyad",
+      "score_a": 589,
+      "score_b": 590,
+      "diff": 1
     },
     "bench_king": {
       "team_name": "Sultan",
