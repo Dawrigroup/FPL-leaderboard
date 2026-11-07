@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-07T15:35:19.772185+00:00",
+  "last_updated": "2026-11-07T15:40:24.927348+00:00",
   "players": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 21,
-      "total_points": 608,
+      "gw_points": 22,
+      "total_points": 609,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 8
@@ -70,8 +70,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 14,
-      "total_points": 562,
+      "gw_points": 15,
+      "total_points": 563,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 10
@@ -119,7 +119,7 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 21
+        "points": 22
       },
       {
         "team_name": "RIP WATKINS",
@@ -127,13 +127,13 @@
         "points": 16
       },
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 14
+        "team_name": "soprano",
+        "manager_name": "Hamad F",
+        "points": 15
       }
     ],
-    "average_score": 10.3,
-    "highest_score": 21,
+    "average_score": 10.6,
+    "highest_score": 22,
     "lowest_score": 3,
     "derby": {
       "team_a": "Sultan",
