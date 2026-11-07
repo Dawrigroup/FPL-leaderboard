@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-07T12:55:20.075135+00:00",
+  "last_updated": "2026-11-07T13:00:39.029984+00:00",
   "players": [
     {
       "rank": 1,
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 3,
-      "total_points": 499,
+      "gw_points": 1,
+      "total_points": 497,
       "captain_name": "Palmer",
       "chip": "FT",
       "yet_to_play": 11
@@ -127,12 +127,12 @@
         "points": 5
       },
       {
-        "team_name": "man fc",
-        "manager_name": "Abdulkareem Msep",
-        "points": 3
+        "team_name": "Omar",
+        "manager_name": "Omar Alkholifey",
+        "points": 2
       }
     ],
-    "average_score": 2.7,
+    "average_score": 2.4,
     "highest_score": 9,
     "lowest_score": 1,
     "derby": {
@@ -143,8 +143,8 @@
       "diff": 2
     },
     "bench_king": {
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
       "bench_points": 2
     },
     "worst_captain": {
