@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-07T16:55:18.764193+00:00",
+  "last_updated": "2026-11-07T17:00:38.433399+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 641,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 9
+      "yet_to_play": 7
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "total_points": 618,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 8
+      "yet_to_play": 6
     },
     {
       "rank": 3,
@@ -38,7 +38,7 @@
       "total_points": 604,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 8
     },
     {
       "rank": 4,
@@ -50,7 +50,7 @@
       "total_points": 596,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 6
     },
     {
       "rank": 5,
@@ -62,7 +62,7 @@
       "total_points": 588,
       "captain_name": "Isak",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 8
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "total_points": 571,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 8
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "total_points": 570,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 7
     },
     {
       "rank": 8,
@@ -98,7 +98,7 @@
       "total_points": 562,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 10
+      "yet_to_play": 7
     },
     {
       "rank": 9,
@@ -110,7 +110,7 @@
       "total_points": 508,
       "captain_name": "Palmer",
       "chip": "FT",
-      "yet_to_play": 10
+      "yet_to_play": 9
     }
   ],
   "gw_summary": {
