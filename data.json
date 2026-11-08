@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-08T15:30:29.081825+00:00",
+  "last_updated": "2026-11-08T15:35:19.326215+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 44,
-      "total_points": 659,
+      "gw_points": 43,
+      "total_points": 658,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -22,8 +22,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 51,
-      "total_points": 639,
+      "gw_points": 50,
+      "total_points": 638,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -34,8 +34,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 51,
-      "total_points": 638,
+      "gw_points": 50,
+      "total_points": 637,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 5
@@ -46,8 +46,8 @@
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
-      "gw_points": 51,
-      "total_points": 618,
+      "gw_points": 50,
+      "total_points": 617,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 4
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 52,
-      "total_points": 616,
+      "gw_points": 45,
+      "total_points": 609,
       "captain_name": "Isak",
       "chip": "",
       "yet_to_play": 7
@@ -82,8 +82,8 @@
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
-      "gw_points": 46,
-      "total_points": 594,
+      "gw_points": 45,
+      "total_points": 593,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 6
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 46,
-      "total_points": 542,
+      "gw_points": 45,
+      "total_points": 541,
       "captain_name": "Palmer",
       "chip": "FT",
       "yet_to_play": 8
@@ -122,24 +122,24 @@
         "points": 53
       },
       {
-        "team_name": "Isco FC",
-        "manager_name": "Abdulkarim Alkholifey",
-        "points": 52
-      },
-      {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 51
+        "points": 50
+      },
+      {
+        "team_name": "Eyad",
+        "manager_name": "eyad Fares",
+        "points": 50
       }
     ],
-    "average_score": 47.1,
+    "average_score": 45.7,
     "highest_score": 53,
     "lowest_score": 30,
     "derby": {
-      "team_a": "Eyad",
-      "team_b": "Doku the goat",
-      "score_a": 638,
-      "score_b": 639,
+      "team_a": "Pushing's Team",
+      "team_b": "Isco FC",
+      "score_a": 608,
+      "score_b": 609,
       "diff": 1
     },
     "bench_king": {
