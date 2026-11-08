@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 10,
-  "last_updated": "2026-11-08T15:55:19.656446+00:00",
+  "last_updated": "2026-11-08T15:58:05.329870+00:00",
   "players": [
     {
       "rank": 1,
@@ -159,7 +159,7 @@
       "manager_name": "Abdulkarim Alkholifey",
       "captain_id": 379,
       "captain_name": "Isak",
-      "captain_points": 7
+      "captain_points": 8
     }
   }
 }
