@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 11,
-  "last_updated": "2026-11-21T15:45:22.934144+00:00",
+  "last_updated": "2026-11-21T15:50:23.863711+00:00",
   "players": [
     {
       "rank": 1,
@@ -143,8 +143,8 @@
       "diff": 6
     },
     "bench_king": {
-      "team_name": "soprano",
-      "manager_name": "Hamad F",
+      "team_name": "Isco FC",
+      "manager_name": "Abdulkarim Alkholifey",
       "bench_points": 6
     },
     "worst_captain": {
