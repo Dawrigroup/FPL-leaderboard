@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 11,
-  "last_updated": "2026-11-21T13:55:18.420231+00:00",
+  "last_updated": "2026-11-21T14:05:18.898504+00:00",
   "players": [
     {
       "rank": 1,
@@ -34,8 +34,8 @@
       "team_name": "Doku the goat",
       "manager_name": "Doku Is the best winger",
       "team_id": 4359394,
-      "gw_points": 4,
-      "total_points": 655,
+      "gw_points": 5,
+      "total_points": 656,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -58,8 +58,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 4,
-      "total_points": 625,
+      "gw_points": 5,
+      "total_points": 626,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -122,17 +122,17 @@
         "points": 6
       },
       {
-        "team_name": "Omar",
-        "manager_name": "Omar Alkholifey",
-        "points": 4
-      },
-      {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
-        "points": 4
+        "points": 5
+      },
+      {
+        "team_name": "Pushing's Team",
+        "manager_name": "Pushing First place",
+        "points": 5
       }
     ],
-    "average_score": 4.0,
+    "average_score": 4.2,
     "highest_score": 6,
     "lowest_score": 2,
     "derby": {
