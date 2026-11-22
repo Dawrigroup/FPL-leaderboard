@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 11,
-  "last_updated": "2026-11-22T16:40:25.869699+00:00",
+  "last_updated": "2026-11-22T16:45:31.079449+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 42,
-      "total_points": 719,
+      "gw_points": 45,
+      "total_points": 722,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -22,8 +22,8 @@
       "team_name": "Eyad",
       "manager_name": "eyad Fares",
       "team_id": 7300406,
-      "gw_points": 46,
-      "total_points": 702,
+      "gw_points": 49,
+      "total_points": 705,
       "captain_name": "Haaland",
       "chip": "BB",
       "yet_to_play": 1
@@ -46,8 +46,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 32,
-      "total_points": 665,
+      "gw_points": 35,
+      "total_points": 668,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 1
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 28,
-      "total_points": 580,
+      "gw_points": 34,
+      "total_points": 586,
       "captain_name": "Isak",
       "chip": "",
       "yet_to_play": 2
@@ -119,12 +119,12 @@
       {
         "team_name": "Eyad",
         "manager_name": "eyad Fares",
-        "points": 46
+        "points": 49
       },
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 42
+        "points": 45
       },
       {
         "team_name": "Pushing's Team",
@@ -132,8 +132,8 @@
         "points": 38
       }
     ],
-    "average_score": 33.9,
-    "highest_score": 46,
+    "average_score": 35.6,
+    "highest_score": 49,
     "lowest_score": 21,
     "derby": {
       "team_a": "Sultan",
@@ -148,18 +148,18 @@
       "bench_points": 14
     },
     "worst_captain": {
-      "team_name": "man fc",
-      "manager_name": "Abdulkareem Msep",
-      "captain_id": 379,
-      "captain_name": "Isak",
-      "captain_points": 1
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "captain_id": 411,
+      "captain_name": "Haaland",
+      "captain_points": 2
     },
     "best_differential_captain": {
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "captain_id": 379,
       "captain_name": "Isak",
-      "captain_points": 1
+      "captain_points": 4
     }
   }
 }
