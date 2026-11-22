@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 11,
-  "last_updated": "2026-11-22T15:40:26.039249+00:00",
+  "last_updated": "2026-11-22T15:45:25.087958+00:00",
   "players": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "team_name": "Pushing's Team",
       "manager_name": "Pushing First place",
       "team_id": 12546,
-      "gw_points": 50,
-      "total_points": 671,
+      "gw_points": 51,
+      "total_points": 672,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 3
@@ -58,8 +58,8 @@
       "team_name": "Isco FC",
       "manager_name": "Abdulkarim Alkholifey",
       "team_id": 379699,
-      "gw_points": 36,
-      "total_points": 669,
+      "gw_points": 37,
+      "total_points": 670,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 3
@@ -94,8 +94,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 29,
-      "total_points": 636,
+      "gw_points": 30,
+      "total_points": 637,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 5
@@ -106,8 +106,8 @@
       "team_name": "man fc",
       "manager_name": "Abdulkareem Msep",
       "team_id": 8272581,
-      "gw_points": 37,
-      "total_points": 589,
+      "gw_points": 38,
+      "total_points": 590,
       "captain_name": "Isak",
       "chip": "",
       "yet_to_play": 5
@@ -124,7 +124,7 @@
       {
         "team_name": "Pushing's Team",
         "manager_name": "Pushing First place",
-        "points": 50
+        "points": 51
       },
       {
         "team_name": "Omar",
@@ -132,14 +132,14 @@
         "points": 47
       }
     ],
-    "average_score": 39.3,
+    "average_score": 39.8,
     "highest_score": 51,
     "lowest_score": 25,
     "derby": {
       "team_a": "Isco FC",
       "team_b": "Pushing's Team",
-      "score_a": 669,
-      "score_b": 671,
+      "score_a": 670,
+      "score_b": 672,
       "diff": 2
     },
     "bench_king": {
