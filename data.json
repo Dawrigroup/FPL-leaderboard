@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 12,
-  "last_updated": "2026-11-27T21:45:31.745013+00:00",
+  "last_updated": "2026-11-27T21:50:26.607768+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 17,
-      "total_points": 740,
+      "gw_points": 16,
+      "total_points": 739,
       "captain_name": "De Cuyper",
       "chip": "",
       "yet_to_play": 11
@@ -94,8 +94,8 @@
       "team_name": "Sultan",
       "manager_name": "Sultan Adel",
       "team_id": 8036192,
-      "gw_points": 4,
-      "total_points": 639,
+      "gw_points": 7,
+      "total_points": 642,
       "captain_name": "Haaland",
       "chip": "",
       "yet_to_play": 11
@@ -119,28 +119,28 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 17
+        "points": 16
+      },
+      {
+        "team_name": "Sultan",
+        "manager_name": "Sultan Adel",
+        "points": 7
       },
       {
         "team_name": "Doku the goat",
         "manager_name": "Doku Is the best winger",
         "points": 4
-      },
-      {
-        "team_name": "RIP WATKINS",
-        "manager_name": "A A",
-        "points": 4
       }
     ],
-    "average_score": 4.3,
-    "highest_score": 17,
+    "average_score": 4.6,
+    "highest_score": 16,
     "lowest_score": 2,
     "derby": {
-      "team_a": "RIP WATKINS",
-      "team_b": "soprano",
-      "score_a": 644,
-      "score_b": 648,
-      "diff": 4
+      "team_a": "Sultan",
+      "team_b": "RIP WATKINS",
+      "score_a": 642,
+      "score_b": 644,
+      "diff": 2
     },
     "bench_king": {
       "team_name": "Omar",
