@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 12,
-  "last_updated": "2026-11-27T21:25:23.212563+00:00",
+  "last_updated": "2026-11-27T21:30:35.016852+00:00",
   "players": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
       "team_id": 58609,
-      "gw_points": 9,
-      "total_points": 732,
+      "gw_points": 10,
+      "total_points": 733,
       "captain_name": "De Cuyper",
       "chip": "",
       "yet_to_play": 11
@@ -119,7 +119,7 @@
       {
         "team_name": "Omar",
         "manager_name": "Omar Alkholifey",
-        "points": 9
+        "points": 10
       },
       {
         "team_name": "Sultan",
@@ -132,8 +132,8 @@
         "points": 4
       }
     ],
-    "average_score": 3.6,
-    "highest_score": 9,
+    "average_score": 3.7,
+    "highest_score": 10,
     "lowest_score": 2,
     "derby": {
       "team_a": "Sultan",
