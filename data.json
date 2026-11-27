@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 12,
-  "last_updated": "2026-11-27T21:55:21.974463+00:00",
+  "last_updated": "2026-11-27T22:00:42.864814+00:00",
   "players": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "total_points": 738,
       "captain_name": "De Cuyper",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 9
     },
     {
       "rank": 2,
@@ -26,7 +26,7 @@
       "total_points": 708,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 3,
@@ -38,7 +38,7 @@
       "total_points": 691,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 9
     },
     {
       "rank": 4,
@@ -50,7 +50,7 @@
       "total_points": 671,
       "captain_name": "De Cuyper",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 5,
@@ -62,7 +62,7 @@
       "total_points": 661,
       "captain_name": "N.Jackson",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "total_points": 648,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "total_points": 644,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     },
     {
       "rank": 8,
@@ -98,7 +98,7 @@
       "total_points": 644,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 9
     },
     {
       "rank": 9,
@@ -110,7 +110,7 @@
       "total_points": 590,
       "captain_name": "Isak",
       "chip": "",
-      "yet_to_play": 11
+      "yet_to_play": 10
     }
   ],
   "gw_summary": {
