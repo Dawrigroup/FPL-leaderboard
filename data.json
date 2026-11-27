@@ -1,8 +1,8 @@
 {
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
-  "current_gw": 11,
-  "last_updated": "2026-11-27T18:50:25.510018+00:00",
+  "current_gw": 12,
+  "last_updated": "2026-11-27T19:05:22.698840+00:00",
   "players": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "team_id": 58609,
       "gw_points": 46,
       "total_points": 723,
-      "captain_name": "Haaland",
+      "captain_name": "De Cuyper",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 2,
@@ -25,8 +25,8 @@
       "gw_points": 50,
       "total_points": 706,
       "captain_name": "Haaland",
-      "chip": "BB",
-      "yet_to_play": 0
+      "chip": "",
+      "yet_to_play": 11
     },
     {
       "rank": 3,
@@ -38,7 +38,7 @@
       "total_points": 687,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 4,
@@ -48,9 +48,9 @@
       "team_id": 379699,
       "gw_points": 36,
       "total_points": 669,
-      "captain_name": "Haaland",
+      "captain_name": "De Cuyper",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 5,
@@ -60,9 +60,9 @@
       "team_id": 12546,
       "gw_points": 38,
       "total_points": 659,
-      "captain_name": "Haaland",
+      "captain_name": "N.Jackson",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 6,
@@ -74,7 +74,7 @@
       "total_points": 646,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 7,
@@ -86,7 +86,7 @@
       "total_points": 640,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 8,
@@ -98,7 +98,7 @@
       "total_points": 635,
       "captain_name": "Haaland",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     },
     {
       "rank": 9,
@@ -110,11 +110,11 @@
       "total_points": 588,
       "captain_name": "Isak",
       "chip": "",
-      "yet_to_play": 0
+      "yet_to_play": 11
     }
   ],
   "gw_summary": {
-    "gw": 11,
+    "gw": 12,
     "top_scorers": [
       {
         "team_name": "Eyad",
@@ -143,23 +143,23 @@
       "diff": 5
     },
     "bench_king": {
-      "team_name": "Sultan",
-      "manager_name": "Sultan Adel",
-      "bench_points": 13
+      "team_name": "Omar",
+      "manager_name": "Omar Alkholifey",
+      "bench_points": 0
     },
     "worst_captain": {
       "team_name": "Omar",
       "manager_name": "Omar Alkholifey",
-      "captain_id": 411,
-      "captain_name": "Haaland",
-      "captain_points": 2
+      "captain_id": 115,
+      "captain_name": "De Cuyper",
+      "captain_points": 0
     },
     "best_differential_captain": {
-      "team_name": "man fc",
-      "manager_name": "Abdulkareem Msep",
-      "captain_id": 379,
-      "captain_name": "Isak",
-      "captain_points": 5
+      "team_name": "Pushing's Team",
+      "manager_name": "Pushing First place",
+      "captain_id": 166,
+      "captain_name": "N.Jackson",
+      "captain_points": 0
     }
   }
 }
