@@ -2,7 +2,7 @@
   "league_id": 2908,
   "league_name": "دوري قروب 26/27",
   "current_gw": 12,
-  "last_updated": "2026-11-27T19:10:27.607021+00:00",
+  "last_updated": "2026-11-27T19:15:33.450511+00:00",
   "players": [
     {
       "rank": 1,
@@ -66,7 +66,7 @@
     },
     {
       "rank": 6,
-      "last_rank": 7,
+      "last_rank": 6,
       "team_name": "soprano",
       "manager_name": "Hamad F",
       "team_id": 5655741,
@@ -78,7 +78,7 @@
     },
     {
       "rank": 7,
-      "last_rank": 6,
+      "last_rank": 7,
       "team_name": "RIP WATKINS",
       "manager_name": "A A",
       "team_id": 6669538,
